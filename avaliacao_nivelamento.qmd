@@ -1,0 +1,69 @@
+---
+title: "Avaliação de Nivelamento"
+subtitle: "Gênese e Classificação do Solo"
+format:
+  typst:
+    margin:
+      x: 2.5cm
+      y: 2.5cm
+    fontsize: 11pt
+lang: pt-BR
+# date: today
+date-format: long
+---
+
+```{=typst}
+// --- Funções auxiliares (definidas uma vez, reaproveitadas depois) ---
+
+#let linha-resposta() = {
+  v(0.2cm)
+  line(length: 100%, stroke: 0.5pt + gray)
+  v(0.5cm)
+}
+
+#let respostas(n) = {
+  for i in range(n) {
+    linha-resposta()
+  }
+}
+
+#let pergunta(numero, titulo, linhas: 4) = {
+  block(
+    fill: rgb("#f7f7f7"),
+    stroke: 0.5pt + rgb("#cccccc"),
+    radius: 4pt,
+    inset: 12pt,
+    width: 100%,
+    breakable: true,
+    below: 14pt,
+  )[
+    #text(weight: "bold")[#numero. #titulo]
+    #v(4pt)
+    #respostas(linhas)
+  ]
+}
+
+// --- Cabeçalho com dados do aluno ---
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 12pt,
+  [*Nome:* #box(width: 100%, line(length: 100%, stroke: 0.5pt))],
+  [*Data:* #box(width: 100%, line(length: 100%, stroke: 0.5pt))],
+)
+#v(2pt)
+[*Turma:* #box(width: 20%, line(length: 100%, stroke: 0.5pt))]
+#v(14pt)
+```
+
+::: {.callout-important appearance="simple"}
+Para atingir o objetivo desta avaliação, **mais importante que o domínio correto das questões é detalhar seu raciocínio**, mesmo que a resposta esteja incompleta ou equivocada.
+:::
+
+```{=typst}
+#pergunta(1, "Quais são as fases que compõem o solo?")
+#pergunta(2, "Explique o que é textura, consistência, porosidade e estrutura do solo.")
+#pergunta(3, "Quais são as fontes geradoras de cargas elétricas no solo?")
+#pergunta(4, "[PERGUNTA A DEFINIR]")
+#pergunta(5, "Se você estivesse realizando uma palestra e agricultores locais lhe perguntassem o que é solo, como você descreveria esse objeto de forma simples e científica?")
+```

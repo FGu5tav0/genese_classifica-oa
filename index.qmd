@@ -1,5 +1,5 @@
 ---
-title: "Mecanização agrícola - IFPR 2026/02"
+title: "Gênese e Classificação do Solo - IFPR 2026/02"
 subtitle: "Material de aulas"
 author: "Professor"
 format:
@@ -17,7 +17,7 @@ format:
 
       <a class="card" onclick="carregarAula('aula_1/aula_1.html', this)" href="#">
         <div class="card-num">Aula 1</div>
-        <div class="card-title">História e desenvolvimento</div>
+        <div class="card-title">Introdução à pedologia</div>
         <div class="card-desc"></div>
       </a>
 

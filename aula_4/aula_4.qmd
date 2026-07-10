@@ -1,6 +1,6 @@
 ---
-title: "Mecanização agrícola:"
-subtitle: Tratores e seus constituintes
+title: "Física do solo:"
+subtitle: Densidade, umidade e consistência do solo
 format: clean-revealjs
 institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
 author:
@@ -23,17 +23,4 @@ date-format: long
 lang: pt-BR
 ---
 
-## O que é um trator?
-<hr>
-## Definições
-
-Motor
-
-> Uma máquina que transforma energia térmica em energia mecânica
-
-
-::: {.fragment}
-
-> Os motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica
-
-:::
+# 
