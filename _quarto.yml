@@ -5,13 +5,13 @@ project:
     - index.qmd
     - aula_1/
     - aula_2/
-    - aula_3/
+    # - aula_3/
     - aula_4/
     - aula_5/
 
 website:
   title: "Gênese e classificação do Solo"
-  # google-analytics: "G-SCQSRGY4FE"
+  google-analytics: "G-LH9LWV9TTY"
 
 format:
   html:
