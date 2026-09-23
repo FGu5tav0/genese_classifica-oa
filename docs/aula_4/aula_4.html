@@ -6,13 +6,13 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/quarto-contrib/timeline-0.1.0/timeline.js"></script>
 <link href="../site_libs/quarto-contrib/timeline-0.1.0/timeline.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.9.38">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Gustavo Frosi">
-  <title>mecanizacao – Física do solo:</title>
+  <title>Gênese e classificação do Solo – Gênese e Classificação do Solo:</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -22,10 +22,13 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -35,15 +38,6 @@
     }
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-ec59874b3a8398889ca2432df423b2c0.css">
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SCQSRGY4FE"></script>
-
-  <script type="text/javascript">
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-SCQSRGY4FE', { 'anonymize_ip': true});
-  </script>
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -135,20 +129,28 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+  <script src="../site_libs/viz-1.8.2/viz.js"></script>
+
+  <link href="../site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet">
+
+  <script src="../site_libs/grViz-binding-1.0.12/grViz.js"></script>
+
 </head>
 <body class="quarto-light">
 <script src="mathjax-config.js"></script>
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="fundo.jpg" data-background-opacity="0.9" data-background-position="right 3% top 52%" data-background-size="50%" class="quarto-title-block center">
-  <h1 class="title">Física do solo:</h1>
-  <p class="subtitle">Densidade, umidade e consistência do solo</p>
+<section id="title-slide" data-background-image="../fundo.png" data-background-opacity="0.9" data-background-position="right 3% top 52%" data-background-size="30%" class="quarto-title-block center">
+  <h1 class="title">Gênese e Classificação do Solo:</h1>
+  <p class="subtitle">Fatores e processos de formação do solo</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Gustavo Frosi 
+Gustavo Frosi
 </div>
 <div class="quarto-title-author-email">
 <a href="mailto:gustavofrosi@hotmail.com">gustavofrosi@hotmail.com</a>
@@ -159,16 +161,1404 @@ Gustavo Frosi
     </div>
 </div>
 
-  <p class="date">10 de julho de 2026</p>
+  <p class="date">21 de setembro de 2026</p>
 </section>
-<section id="section" class="title-slide slide level1 center">
-<h1></h1>
+<section>
+<section id="como-o-solo-é-formado-pedogênese" class="title-slide slide level1 center">
+<h1>Como o solo é formado? (pedogênese)</h1>
+<hr>
+<aside class="notes">
+<p>Que tipo de variáveis são necessárias para a formação do solo?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pedogênese" class="slide level2">
+<h2>Pedogênese</h2>
+<hr>
+<div class="fragment">
+<p>Os solos se desenvolvem ao longo do tempo, passando de um estado simples a complexo, até atingirem um estado “maduro” e estável em equilíbrio com o ambiente (sistemas dinâmicos).</p>
+</div>
+<div class="fragment">
+<p>O caminho é sempre de um solo jovem para um solo maduro…</p>
+</div>
+</section></section>
+<section>
+<section id="fatores-de-formação-do-solo" class="title-slide slide level1 center">
+<h1>Fatores de formação do solo</h1>
+<hr>
+</section>
+<section id="fatores-de-formação-do-solo-1" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><br></p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-4a14605e405e845529d5" style="width:100%;height:80%;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4a14605e405e845529d5">{"x":{"diagram":"\ndigraph {\n\n  graph [\n    layout = dot,\n    rankdir = LR,\n    bgcolor = \"transparent\",\n    margin = 0\n  ]\n\n  node [\n    shape = circle,\n    style = \"filled\",\n    fillcolor = \"#FFFFFF\",\n    color = \"#222222\",\n    penwidth = 2,\n    fontname = \"Arial\",\n    fontsize = 18,\n    width = 1.5,\n    height = 1.2,\n    fixedsize = true\n  ]\n\n  edge [\n    color = \"#222222\",\n    penwidth = 2,\n    arrowsize = 0.8,\n    fontname = \"Arial\",\n    fontsize = 14,\n    labeldistance = 2\n  ]\n\n  fatores [label = \"Fatores\"]\n  solos   [label = \"Solos\"]\n\n  fatores -> solos [\n    label = \"Processos pedogenéticos\"\n  ]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-2" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p>Os fatores de formação do solo foram criados pelos estudos de V.V. Dokuchaev no final do século XIX e depois difundidos por Jenny (1941).</p>
+<div class="fragment">
+<p>Nesse paradigma, o solo passa a ser compreendido como uma função de distintos fatores (variáveis) que, combinados, resultam no solo</p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[solo = f(x)\]</span></p>
+</div>
+<aside class="notes">
+<p>Robert Record, que em 1557 introduziu pela primeira vez o símbolo “=” com significado de igualdade</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="fatores-de-formação-do-solo-3" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Equação de Jenny (1941):</strong></span></p>
+<div class="fragment">
+<p><span class="math display">\[ S = f(c,o,r,m,t, ...) \]</span></p>
+</div>
+<div class="fragment">
+<p>Nesse modelo, os fatores ambientais clima (<span class="math inline">\(c\)</span>), relevo (<span class="math inline">\(r\)</span>), organismos (<span class="math inline">\(o\)</span>), material de origem (<span class="math inline">\(m\)</span>), e alguns fatores subsidiários não especificados (<span class="math inline">\(...\)</span>), interagindo ao longo do tempo (<span class="math inline">\(t\)</span>), são as variáveis que condicionam a formação do solo (<span class="math inline">\(S\)</span>).</p>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-4" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+
+<img data-src="imagens/fatores_formacao_solo.svg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-5" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Fatores passivos:</strong></span></p>
+<div class="fragment">
+<ul>
+<li>Material de origem;</li>
+<li>Tempo;</li>
+<li>Relevo;</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="fg" style="--col: #e64173"><strong>Fatores ativos:</strong></span></p>
+<div class="fragment">
+<ul>
+<li>Clima;</li>
+<li>Organismos.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-6" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<div class="fragment">
+<blockquote>
+<p>É o estado inicial do sistema solo ou é o estado do sistema solo ao tempo zero de sua formação - Jenny, 1941</p>
+</blockquote>
+</div>
+<div class="fragment">
+<blockquote>
+<p>É o material do qual o atual perfil de solo foi derivado e, por isso, só pode ser identificado por inferência - Young, 1976</p>
+</blockquote>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-7" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<ul>
+<li class="fragment">O material de origem é a matéria-prima para a formação do solo;</li>
+<li class="fragment">A formação do solo inicia-se depois que o material de origem não consolidado é depositado ou exposto;</li>
+<li class="fragment">As propriedades químicas e físicas do material de origem influenciam a natureza do solo formado;</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-8" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<ul>
+<li class="fragment">Rocha: Basalto, granito, arenito;</li>
+<li class="fragment">Material não consolidado (sedimentos).
+<ul>
+<li class="fragment">Sedimentos marinhos;</li>
+<li class="fragment">Fluviais;</li>
+<li class="fragment">Lacustres não consolidados;</li>
+<li class="fragment">Dunas.</li>
+</ul></li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-9" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<ul>
+<li class="fragment">Autóctones
+<ul>
+<li class="fragment">Quando o solo é formado a partir do material de origem subjacente ao mesmo;</li>
+</ul></li>
+<li class="fragment">Alóctone
+<ul>
+<li class="fragment">Quando o solo é formado a partir de material de origem que não está subjacente ao mesmo.</li>
+</ul></li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-10" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<ul>
+<li class="fragment">Formado no local (residual da rocha);</li>
+<li class="fragment">Transportado;
+<ul>
+<li class="fragment">Gravidade;</li>
+<li class="fragment">Água (rios, lagos, oceanos);</li>
+<li class="fragment">Gelo;</li>
+<li class="fragment">Vento;</li>
+</ul></li>
+<li class="fragment">Acúmulo de resíduos vegetais.</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-11" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+
+<img data-src="imagens/tipos_materiais_origem.jpg" class="r-stretch quarto-figure-center"><p class="caption">Fonte: Giasson, E. 2020</p></section>
+<section id="fatores-de-formação-do-solo-12" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p><br></p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Tipo</th>
+<th>Modo de transporte</th>
+<th>Grau de separação por tamanho</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Aluvial</td>
+<td>rios</td>
+<td>Alto</td>
+</tr>
+<tr class="even">
+<td>Coluvial</td>
+<td>gravidade</td>
+<td>Baixo</td>
+</tr>
+<tr class="odd">
+<td>Lacustre</td>
+<td>água (lagos)</td>
+<td>Alto</td>
+</tr>
+<tr class="even">
+<td>Residual</td>
+<td>nenhum</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="fatores-de-formação-do-solo-13" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p>Deposições fluviais</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/fluviais2.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/fluviais.jpg" class="quarto-figure quarto-figure-center" width="500"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-14" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p>Deposições lacustres</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/lacustre.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/lacustre1.webp" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-15" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p>Deposições eólicas</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/eolica.jpg" class="quarto-figure quarto-figure-center" width="500"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/eolica2.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-16" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p>Deposições coluviais</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/coluvial.png" class="quarto-figure quarto-figure-center" width="500"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/coluvial.webp" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-17" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p>Características que influenciam a gênese</p>
+<ul>
+<li class="fragment">Grau de consolidação (“rocha solta”);</li>
+<li class="fragment">Granulação ou textura;</li>
+<li class="fragment">composição química e mineralógica.</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-18" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 47%">
+<col style="width: 26%">
+<col style="width: 26%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Atributos do solo</th>
+<th style="text-align: center;">Basalto</th>
+<th style="text-align: center;">Arenito</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Textura</td>
+<td style="text-align: center;">+ argilosa</td>
+<td style="text-align: center;">+ arenosa</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fertilidade natural</td>
+<td style="text-align: center;">&gt; CTC</td>
+<td style="text-align: center;">&lt; CTC</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Adsorção de fósforo (P)</td>
+<td style="text-align: center;">&gt; adsorção de P</td>
+<td style="text-align: center;">&lt; adsorção de P</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Retenção de água</td>
+<td style="text-align: center;">&gt; retenção de H<sub>2</sub>O</td>
+<td style="text-align: center;">&lt; retenção de H<sub>2</sub>O</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Área superficial específica (ASE)</td>
+<td style="text-align: center;">&gt; ASE</td>
+<td style="text-align: center;">&lt; ASE</td>
+</tr>
+</tbody>
+</table>
+<div class="fragment">
+<p>Rochas de textura fina tendem a formar solos de textura fina (argilosos).</p>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-19" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Material de origem:</strong></span></p>
+<p><br> <br></p>
+<div style="font-size:24px">
+<table class="caption-top" style="width:100%;">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 4%">
+<col style="width: 4%">
+<col style="width: 4%">
+<col style="width: 22%">
+<col style="width: 16%">
+<col style="width: 7%">
+<col style="width: 9%">
+<col style="width: 17%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Rocha</th>
+<th style="text-align: center;">Ca</th>
+<th style="text-align: center;">K</th>
+<th style="text-align: center;">Fe</th>
+<th style="text-align: center;">Mineralogia da rocha</th>
+<th style="text-align: center;">Argila (g kg<span class="math inline">\(^{-1}\)</span>)</th>
+<th style="text-align: center;">Fe (%)</th>
+<th style="text-align: center;">K (ppm)</th>
+<th style="text-align: center;">Mineralogia do solo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Arenito PVA</td>
+<td style="text-align: center;">0,1</td>
+<td style="text-align: center;">0,5</td>
+<td style="text-align: center;">2,0</td>
+<td style="text-align: center;">Quartzo; feldspato</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2030</td>
+<td style="text-align: center;">Kt, Qz, Gt, Hm</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Granito PVA</td>
+<td style="text-align: center;">1,6</td>
+<td style="text-align: center;">3,6</td>
+<td style="text-align: center;">3,0</td>
+<td style="text-align: center;">Mica; feldspato-K; quartzo</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">10750</td>
+<td style="text-align: center;">Kt, Qz, Mi, Gt, Hm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Basalto Nitosolo</td>
+<td style="text-align: center;">4,6</td>
+<td style="text-align: center;">1,2</td>
+<td style="text-align: center;">9,0</td>
+<td style="text-align: center;">Piroxênios; anfibólios; plagioclásios</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">2100</td>
+<td style="text-align: center;">Kt, Gt, Hm</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-20" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Clima:</strong></span></p>
+<ul>
+<li class="fragment">Precipitação;
+<ul>
+<li class="fragment">Água disponível;</li>
+<li class="fragment">Distribuição anual;</li>
+<li class="fragment">Evapotranspiração;</li>
+<li class="fragment">Topografia;</li>
+<li class="fragment">Permeabilidade;</li>
+</ul></li>
+<li class="fragment">Temperatura;</li>
+<li class="fragment">Vento.</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-21" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Clima:</strong></span></p>
+<ul>
+<li class="fragment">A água é o principal agente do intemperismo das rochas e da transformação dos minerais;</li>
+<li class="fragment">A disponibilidade de água determina a velocidade da maior parte dos processos de formação do solo;</li>
+<li class="fragment">Efeitos:
+<ul>
+<li class="fragment">Lixiviação de cátions (Ca, Mg, K, etc);</li>
+<li class="fragment">Acúmulo de elementos (Fe, Al, Si, etc);</li>
+<li class="fragment">Formação de argila em detrimento de areia;</li>
+</ul></li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-22" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Clima:</strong></span></p>
+<ul>
+<li class="fragment">A temperatura na pedogênese é um efeito indireto;
+<ul>
+<li class="fragment">Controla a quantidade de água disponível para o processo de formação;</li>
+</ul></li>
+<li class="fragment">Interfere na atividade da biota;</li>
+<li class="fragment">Altera a velocidade das reações (duplica a cada 10ºC);</li>
+<li class="fragment">Adição ou perdas de matéria orgânica.</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-23" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Clima:</strong></span></p>
+
+<img data-src="imagens/argila_clima.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-24" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Clima:</strong></span></p>
+
+<img data-src="imagens/mos_clima.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-25" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<p>Compreende a flora e a fauna desenvolvida no solo.</p>
+<div class="fragment">
+<p>Organismos são capazes de adicionar caos ao sistema.</p>
+</div>
+<div class="fragment">
+<p>Plantas, animais (homens, outros animais, macro-meso-microfauna do solo) desempenham um importante papel no desenvolvimento e composição do solo.</p>
+</div>
+<div class="fragment">
+<p>Em um primeiro momento são os líquens e os musgos que povoam as rochas. Esses extraem elementos por contato direto (alteração lenta das rochas). Quando há um substrato mais desenvolvido, plantas podem colonizar também (absorção e liberação de nutrientes e exsudatos).</p>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-26" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/liquens.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/plantas_rocha.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-27" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+
+<img data-src="imagens/plantas_rocha2.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-28" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<p>Microrganismos são responsáveis pela decomposição da matéria orgânica.</p>
+<p>Já a meso e a macrofauna são atuantes na mistura do solo e na construção de caminhos (poros).</p>
+</section>
+<section id="fatores-de-formação-do-solo-29" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+
+<img data-src="imagens/microos_solo.jpg" class="r-stretch quarto-figure-center"><p class="caption">Kuzyakov, Y. et al.&nbsp;2018</p></section>
+<section id="fatores-de-formação-do-solo-30" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/animais_solo.webp" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/minhoca.webp" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-31" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<p>Humanos são organismos que podem compactar, erodir e mudar a vegetação em grande escala de forma rápida.</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/colheita.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/erosao.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-32" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Organismos:</strong></span></p>
+<p>Humanos são organismos que podem compactar, erodir e mudar a vegetação em grande escala de forma rápida.</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/vocoroca.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/megalopole.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-33" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+<p>O relevo está relacionado com a distribuição espacial dos solos.</p>
+<div class="fragment">
+<p>A interferência do relevo na formação do solo é muito diversa.</p>
+</div>
+<div class="fragment">
+<p>Efeitos diretos e indiretos (clima e hidrologia)</p>
+<ul>
+<li class="fragment">Altitude e temperatura (-6ºC a cada 1000 m);</li>
+<li class="fragment">Acumulação de matéria orgânica;</li>
+<li class="fragment">Posição do lençol freático;</li>
+<li class="fragment">Infiltração de água;</li>
+<li class="fragment">Relação solo-paisagem (direto).</li>
+</ul>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-34" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+<p>Características do relevo que influem na formação do solo</p>
+<ul>
+<li class="fragment">Declividade;</li>
+<li class="fragment">Posição na paisagem;</li>
+<li class="fragment">Forma do declive;</li>
+<li class="fragment">Aspecto (N, S, L, O);</li>
+<li class="fragment">Elevação.</li>
+</ul>
+</section>
+<section id="fatores-de-formação-do-solo-35" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+
+<img data-src="imagens/paisagem.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-36" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+
+<img data-src="imagens/perfil_declivi.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-37" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+
+<img data-src="imagens/encosta_solo.png" class="r-stretch quarto-figure-center"><p class="caption">Sebastian Doetterl et al.&nbsp;2025</p></section>
+<section id="fatores-de-formação-do-solo-38" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/mapa_elevacao.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="fragment quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/mapa_solo.png" class="quarto-figure quarto-figure-center" width="450"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-39" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Relevo:</strong></span></p>
+
+<img data-src="imagens/caida.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-40" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Tempo:</strong></span></p>
+<p>É o fator que define quanto as ações do clima e dos organismos atuaram sobre o material de origem.</p>
+<div class="fragment">
+<p>Cronossequência</p>
+</div>
+<div class="fragment">
+<p>É o único fator que “sempre vai ter ação”, independente do solo!</p>
+</div>
+</section>
+<section id="fatores-de-formação-do-solo-41" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Tempo:</strong></span></p>
+
+<img data-src="imagens/crono.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="fatores-de-formação-do-solo-42" class="slide level2">
+<h2>Fatores de formação do solo</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Tempo:</strong></span></p>
+
+<img data-src="imagens/pedogenese.png" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section id="processos-de-formação-do-solo" class="title-slide slide level1 center">
+<h1>Processos de formação do solo</h1>
+<hr>
+</section>
+
+<section>
+<section id="processos-pedogenéticos" class="title-slide slide level1 center">
+<h1>Processos pedogenéticos</h1>
+<hr>
+</section>
+<section id="processos-pedogenéticos-1" class="slide level2">
+<h2>Processos pedogenéticos</h2>
+<hr>
+<p>A interação entre os fatores de formação do solo (material de origem, clima, organismos, relevo e tempo) desencadeia processos que formam o solo. Esses são chamados processos pedogenéticos.</p>
+</section>
+<section id="processos-pedogenéticos-gerais" class="slide level2">
+<h2>Processos pedogenéticos (gerais)</h2>
+<hr>
+<ul>
+<li class="fragment">Adição;</li>
+<li class="fragment">Remoção;</li>
+<li class="fragment">Transformação;</li>
+<li class="fragment">Translocação.</li>
+</ul>
+</section>
+<section id="processos-pedogenéticos-gerais-1" class="slide level2">
+<h2>Processos pedogenéticos (gerais)</h2>
+<hr>
+<p>Adição: Entrada de material orgânico ou mineral ao solo e de energia.</p>
+<ul>
+<li class="fragment">Em superfície ou em profundidade;</li>
+<li class="fragment">Ação humana, eólica ou pelo fluxo de água.</li>
+</ul>
+<div class="fragment">
+<p>Exemplos:</p>
+<ul>
+<li class="fragment">Matéria orgânica (adubos orgânicos);</li>
+<li class="fragment">Água;</li>
+<li class="fragment">Partículas minerais;
+<ul>
+<li class="fragment">Calcário, Gesso, Cinza, Poeira;</li>
+</ul></li>
+<li class="fragment">Pesticidas e drogas;</li>
+<li class="fragment">Ascensão de sais por capilaridade.</li>
+</ul>
+</div>
+</section>
+<section id="processos-pedogenéticos-2" class="slide level2">
+<h2>Processos pedogenéticos</h2>
+<hr>
+<p>Remoção ou perdas: Materiais removidos do solo pela superfície, subsuperfície ou lateralmente.</p>
+<div class="fragment">
+<p>Exemplos:</p>
+<ul>
+<li class="fragment">Perda de partículas minerais ou solo (erosão);</li>
+<li class="fragment">Perda de água por evapotranspiração;</li>
+<li class="fragment">Perda de matéria orgânica;</li>
+<li class="fragment">Queimadas;</li>
+<li class="fragment">Perda de elementos por lixiviação.</li>
+</ul>
+</div>
+</section>
+<section id="processos-pedogenéticos-3" class="slide level2">
+<h2>Processos pedogenéticos</h2>
+<hr>
+<p>Transformação: Modificações químicas e físicas nos constituintes do solo (minerais e orgânicos).</p>
+<div class="fragment">
+<p>Ocorre no local de formação do solo (<em>in situ</em>)</p>
+</div>
+<ul>
+<li class="fragment">Destruição dos minerais primários e da rocha (intemperismo);</li>
+<li class="fragment">Gênese dos minerais secundários;</li>
+<li class="fragment">Decomposição da MO e síntese de ácidos orgânicos;</li>
+<li class="fragment">Alteração granulométrica;</li>
+<li class="fragment">Transformação de resíduos orgânicos em MO.</li>
+</ul>
+</section>
+<section id="processos-pedogenéticos-4" class="slide level2">
+<h2>Processos pedogenéticos</h2>
+<hr>
+<p>Translocação: Transferência de matéria e energia entre os horizontes e lateralmente no mesmo horizonte. Pode ser ocasionada por ação do homem ou da fauna do solo.</p>
+<ul>
+<li class="fragment">Eluviação de materiais entre horizontes (argila);</li>
+<li class="fragment">Movimentação de água no solo (percolação ou ascensão);</li>
+<li class="fragment">Transporte de materiais dentro do perfil;
+<ul>
+<li class="fragment">Bioturbação (por minhocas, cupins, formigas e outros seres).</li>
+</ul></li>
+</ul>
+</section>
+<section id="processos-pedogenéticos-gerais-2" class="slide level2">
+<h2>Processos pedogenéticos (gerais)</h2>
+<hr>
+<p>Resumo:</p>
+
+<img data-src="imagens/resumo.jpg" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section>
+<section id="processos-pedogenéticos-específicos" class="title-slide slide level1 center">
+<h1>Processos pedogenéticos específicos</h1>
+<hr>
+</section>
+<section id="processos-pedogenéticos-específicos-1" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Latolização ou Ferralitização:</strong></span></p>
+<p>Ocorre em regiões úmidas com elevada temperatura e precipitação (maior que a evapotranspiração).</p>
+<div class="fragment">
+<p>Formação de ácido carbônico que mantém o pH do solo acima de 5</p>
+</div>
+<div class="fragment">
+<p>Nessa condição o silício é mais solúvel que o Fe e o Al. Isso resulta na remoção do silício e acumulação de Fe e Al.</p>
+</div>
+<div class="fragment">
+<p>O ferro (Fe<sup>2+</sup>) que é liberado dos minerais primários é oxidado e precipita em óxido de ferro, como goethita (FeOOH) e hematita (Fe<sub>2</sub>O<sub>3</sub>).</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-2" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Latolização ou Ferralitização:</strong></span></p>
+<p>É um processo lento e ocorre em solos com vários materiais de origem. Envolve as reações de oxidação e dessilicação e os processos de remoção, translocação e transformação.</p>
+<div class="fragment">
+<p>Translocação em Argissolos e Nitossolos e remoção em Latossolos</p>
+</div>
+<div class="fragment">
+<p>Características dos solos:</p>
+<div class="columns">
+<div class="column">
+<ul>
+<li class="fragment">Solos profundos;</li>
+<li class="fragment">Homogêneos;</li>
+<li class="fragment">Baixo gradiente textural;</li>
+</ul>
+</div><div class="column">
+<ul>
+<li class="fragment">Coloração uniforme;</li>
+<li class="fragment">Baixa saturação de cátions.</li>
+</ul>
+</div></div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-3" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Latolização ou Ferralitização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/latossolo.jpg" width="350"></p>
+<figcaption>Latossolo</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/argissolo.jpg" width="310"></p>
+<figcaption>Argissolo</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-4" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Paludização:</strong></span></p>
+<p>É o acúmulo e transformação de material orgânico em um ambiente redutor ou anaeróbico, onde a degradação da matéria orgânica é desfavorável.</p>
+<div class="fragment">
+<p>Observado em ambientes de baixa drenagem: restingas litorâneas ou em regiões onde o lençol freático é próximo à superfície. Também pode ser encontrada em locais de alta altitude, onde a degradação da matéria orgânica é reduzida devido à baixa temperatura.</p>
+</div>
+<div class="fragment">
+<p>Características dos solos:</p>
+<ul>
+<li class="fragment">Acúmulo de material orgânico;</li>
+<li class="fragment">Cores escurecidas;</li>
+</ul>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-5" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Paludização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/organossolo.jpg" width="310"></p>
+<figcaption>Organossolo</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/organossolo2.jpg" width="340"></p>
+<figcaption>Organossolo</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-6" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Podzolização:</strong></span></p>
+<p>É a iluviação de material orgânico humificado e sesquióxidos de Fe e Al.</p>
+<div class="fragment">
+<p>Geralmente é observado em ambiente sob relevo plano com material de origem arenoso, formado por sedimentos quartzosos.</p>
+</div>
+<div class="fragment">
+<p>A drenagem do ambiente é imperfeita e o clima é quente e úmido.</p>
+<p>Isso permite a lixiviação dos sais solúveis e a mobilização dos complexos organometálicos.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-7" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Podzolização:</strong></span></p>
+<p>Espodossolo</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 32.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/espodossolo.jpg" class="quarto-figure quarto-figure-center" width="310"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 32.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/espodossolo2.jpg" class="quarto-figure quarto-figure-center" width="310"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 35.4%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/espodossolo3.jpg" class="quarto-figure quarto-figure-center" width="340"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-8" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Gleização:</strong></span></p>
+<p>Processo de ambientes hidromórficos ou redoximórficos (saturação hídrica sazonal ou permanente).</p>
+<div class="fragment">
+<p>Processo marcado pelas reações de redução-oxidação e por processos de perdas, transformações e translocações (mosqueados).</p>
+</div>
+<div class="fragment">
+<p>Ambientes com predomínio de organismos anaeróbicos que decompõem a matéria orgânica e reduzem os metais (Fe<sup>3+</sup>, Mn<sup>3+</sup> e Mn<sup>4+</sup>).</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-9" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Gleização:</strong></span></p>
+<p>Reações de redução</p>
+<ul>
+<li class="fragment"><p><span class="math inline">\(0{,}5\,O_2 + 2\,H^+ + 2\,e^- \rightarrow H_2O\)</span></p></li>
+<li class="fragment"><p><span class="math inline">\(NO_3^- + 6\,H^+ + 5\,e^- \rightarrow 0{,}5\,N_2 + 3\,H_2O\)</span></p></li>
+<li class="fragment"><p><span class="math inline">\(MnO_2 + 4\,H^+ + 2\,e^- \rightarrow Mn^{2+} + H_2O\)</span></p></li>
+<li class="fragment"><p><span class="math inline">\(Fe(OH)_3 + 3\,H^+ + e^- \rightarrow Fe^{2+} + 3\,H_2O\)</span></p></li>
+<li class="fragment"><p><span class="math inline">\(0{,}5\,SO_4^{2-} + 5\,H^+ + 4\,e^- \rightarrow
+0{,}5\,H_2S + 0{,}5\,H_2O\)</span></p></li>
+<li class="fragment"><p><span class="math inline">\(0{,}5\,CO_2 + 4\,H^+ + 4\,e^- \rightarrow
+0{,}5\,CH_4 + H_2O\)</span></p></li>
+</ul>
+</section>
+<section id="processos-pedogenéticos-específicos-10" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Gleização:</strong></span></p>
+<p>Gleissolo</p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/gleissolo.jpg" class="quarto-figure quarto-figure-center" width="310"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/gleissolo2.jpg" class="quarto-figure quarto-figure-center" width="310"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-11" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Ferrólise:</strong></span></p>
+<p>Caracterizado pela dissolução do ferro (em geral de óxidos) por meio de oxirredução, hidrólise, acidólise e dessilicação.</p>
+<p>Duas etapas</p>
+<div class="fragment">
+<p>Em ambientes de redução (sem oxigênio) o ferro é reduzido e desloca outros cátions (Ca e Mg) dos sítios de troca.</p>
+</div>
+<div class="fragment">
+<p>Após a aeração, o Fe<sup>2+</sup> é oxidado, hidrolisado e precipita na forma de óxido de ferro (Fe<sup>3+</sup>).</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-12" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Ferrólise:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/luvissolo_cromico.jpg" width="340"></p>
+<figcaption>Luvissolo Crômico</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/ferrolise.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-13" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Melanização:</strong></span></p>
+<p>Processo de escurecimento do solo.</p>
+<ul>
+<li class="fragment">Adição de matéria orgânica e/ou húmus;</li>
+<li class="fragment">Translocação de matéria orgânica.</li>
+</ul>
+<div class="fragment">
+<p>Pode ser observado em solos desenvolvidos de material de origem rico em carbonatos.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-14" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Melanização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/chernossolo.jpg" width="340"></p>
+<figcaption>Chernossolo</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/chernossolo2.jpg" class="quarto-figure quarto-figure-center" width="340"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-15" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Argiluviação ou Lessivagem:</strong></span></p>
+<p>É um processo de transferência (translocação) de coloides minerais (argilossilicatos e óxidos) dos horizontes superficiais A e/ou E para o horizonte B (gradiente textural).</p>
+<div class="fragment">
+<p>O horizonte que perde material é chamado de eluvial (A ou E).</p>
+<div class="fragment">
+<p><strong>E</strong>luvial, pensar em <strong>e</strong>xportação.</p>
+</div>
+</div>
+<div class="fragment">
+<p>Já o horizonte que ganha material é chamado de iluvial (Bt).</p>
+<div class="fragment">
+<p><strong>I</strong>luvial, pensar em <strong>i</strong>mportação.</p>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-16" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Argiluviação ou Lessivagem:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/argissolo5.webp" width="340"></p>
+<figcaption>Argissolo</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/argissolo4.jpg" class="quarto-figure quarto-figure-center" width="340"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-17" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Plintização e Laterização:</strong></span></p>
+<p>É uma acumulação (translocação) de óxidos de ferro e da formação (transformação) de plintitas e petroplintitas (antiga “laterita”).</p>
+<div class="fragment">
+<p>A plintita é a mistura entre argila, quartzo e outros minerais, pobre em matéria orgânica e rica em ferro.</p>
+</div>
+<div class="fragment">
+<p>Ocorre por ciclos de umedecimento e de secagem do solo.</p>
+<div class="fragment">
+<p>Quando se consolida, torna-se petroplintita.</p>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-18" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Plintização e Laterização:</strong></span></p>
+<div class="columns">
+<div class="column">
+<p>Plintita ocorre normalmente na forma de acúmulo de materiais de coloração vermelha, vermelho-amarelada e vermelho-escura.</p>
+<p>Difere de mosqueados por serem destacáveis da matriz do solo e por se manterem coesas após imersão em água.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/plintita.jpg" class="quarto-figure quarto-figure-center" width="350"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="processos-pedogenéticos-específicos-19" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Plintização e Laterização:</strong></span></p>
+<div class="columns">
+<div class="column">
+<p>Já a petroplintita é coesa e oferece resistência maior à quebra.</p>
+<p>Pode ser encontrada na forma de lâminas, nódulos, esferas ou formas irregulares.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/petroplintita.jpg" class="quarto-figure quarto-figure-center" width="350"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="processos-pedogenéticos-específicos-20" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Plintização e Laterização:</strong></span></p>
+
+<img data-src="imagens/plintossolo.jpg" class="r-stretch quarto-figure-center"><p class="caption">Plintossolo</p></section>
+<section id="processos-pedogenéticos-específicos-21" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Vertização:</strong></span></p>
+<p>Processo onde o solo é fisicamente revolvido por contração e expansão de argilas (argiloturbação, hidroturbação ou pedoturbação).</p>
+<div class="fragment">
+<p>É ocasionado pelo retrabalhamento das argilas expansivas do solo. Ciclos de umedecimento e de secagem promovem expansão e contração das argilas 2:1.</p>
+</div>
+<div class="fragment">
+<p>Formação de feições morfológicas como o microrrelevo Gilgai e os slickensides.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-22" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Vertização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/gilgai.jpg"></p>
+<figcaption>Gilgai</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/gilgai2.png" class="quarto-figure quarto-figure-center" width="350"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-23" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Vertização:</strong></span></p>
+
+<img data-src="imagens/gilgai_formation.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="processos-pedogenéticos-específicos-24" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Vertização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/slickensides.png"></p>
+<figcaption>slickensides</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/slickensides2.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-25" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Vertização:</strong></span></p>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/vertissolo.jpg" width="350"></p>
+<figcaption>Vertissolo</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/vertissolo2.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-26" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Sulfidização e Sulfurização (Tiomorfismo):</strong></span></p>
+<p>Acúmulo de sulfetos nos solos através de processos de translocação e transformação associados às reações de oxirredução, em que o principal produto formado é a pirita.</p>
+<div class="fragment">
+<p>Ocorre em locais de baixa disponibilidade de oxigênio.</p>
+</div>
+<div class="fragment">
+<p>Bactérias utilizam outros elementos como receptores de elétrons na oxidação da matéria orgânica do solo, como sulfato e óxidos de ferro. Esses são reduzidos a sulfitos e Fe<sup>2+</sup>.</p>
+</div>
+<div class="fragment">
+<p>Fe<sub>2</sub>O<sub>3</sub> + 4SO<sub>4</sub><sup>2-</sup> + 8CH<sub>2</sub>O + 1/2O<sub>2</sub> = 2FeS<sub>2</sub> + 8HCO<sub>3</sub><sup>-</sup> + 4H<sub>2</sub>O</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-27" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Sulfidização e Sulfurização (Tiomorfismo):</strong></span></p>
+<p>A sulfurização é a oxidação de materiais sulfídricos, como a pirita.</p>
+<div class="fragment">
+<p>Isso eleva a concentração de Fe<sup>2+</sup>, SO<sub>4</sub><sup>2-</sup> e H<sup>+</sup> na solução do solo.</p>
+</div>
+<div class="fragment">
+<p>Em situações extremas (alta oxidação), Fe<sup>2+</sup> passa para a forma de Fe<sup>3+</sup>, com liberação de H<sup>+</sup> e formação de H<sub>2</sub>SO<sub>4</sub>, o que leva a uma acidificação extrema do solo.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-28" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Sodificação e Solodização:</strong></span></p>
+<p>A sodificação está relacionada com a saturação do complexo de troca do solo pelo íon Na<sup>+</sup>, devido ao uso de água de irrigação com altos teores de sódio e/ou devido à ocorrência natural em ambientes litorâneos ou áridos e semiáridos.</p>
+<div class="fragment">
+<p>Enquanto os sais solúveis estiverem presentes, o pH é mantido abaixo de 8,5 e o efeito floculante dos sais mantém a estrutura e a permeabilidade do solo.</p>
+</div>
+<div class="fragment">
+<p>Quando há lixiviação e permanece apenas o Na<sup>+</sup>, o pH sobe para 8,5 a 10, promovendo a dispersão e a translocação de argila.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-29" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Sodificação e Solodização:</strong></span></p>
+<p>Solos com sodificação apresentam porcentagem de sódio trocável (PST) &gt;= 15% e condutividade elétrica &lt; 4,0 dS m<sup>-1</sup>.</p>
+<div class="fragment">
+<p>O processo de solodização está relacionado com o aumento da lixiviação de sódio, aumentando a dispersão e a migração das argilas (pode originar horizonte Bt).</p>
+</div>
+<div class="fragment">
+<p>PST: entre 6 e 15%</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-30" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Salinização:</strong></span></p>
+<p>Processo em que ocorre a acumulação de sais por evaporação no horizonte superficial ou na superfície do solo.</p>
+<div class="fragment">
+<p>Combinação de fatores climáticos (precipitação e temperatura), edáficos (baixa lixiviação e presença de camadas impermeáveis) e de manejo do solo (irrigação com águas salinas ou excesso de agroquímicos).</p>
+</div>
+<div class="fragment">
+<p>Pode ser de origem natural, pelo intemperismo, principalmente em regiões litorâneas e costeiras.</p>
+</div>
+<div class="fragment">
+<p>Ou de origem artificial, devido ao manejo.</p>
+</div>
+</section>
+<section id="processos-pedogenéticos-específicos-31" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Salinização:</strong></span></p>
+<p>O excesso de sal no solo não é tóxico, mutagênico ou carcinogênico, mas afeta as propriedades químicas e físicas do solo.</p>
+<ul>
+<li class="fragment">Substituição de Ca por Na na CTC;</li>
+<li class="fragment">Dispersão das partículas;</li>
+<li class="fragment">Estabilidade de agregados;</li>
+<li class="fragment">Porosidade;</li>
+<li class="fragment">Drenagem;</li>
+</ul>
+</section>
+<section id="processos-pedogenéticos-específicos-32" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Salinização:</strong></span></p>
+<p>No Sistema Brasileiro de Classificação de Solos:</p>
+<p>sálico: CE &gt;= 7,0 dS m<sup>-1</sup></p>
+<p>salino: 4,0 &lt;= CE &lt; 7,0 dS m<sup>-1</sup></p>
+</section>
+<section id="processos-pedogenéticos-específicos-33" class="slide level2">
+<h2>Processos pedogenéticos específicos</h2>
+<hr>
+
+<img data-src="imagens/processos.svg" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section id="fim" class="title-slide slide level1 center">
+<h1>Fim!</h1>
+<hr>
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="logo.png" class="slide-logo"></p>
+<p><img src="../logo.png" class="slide-logo"></p>
 <div class="footer footer-default">
 
 </div>
@@ -382,6 +1772,82 @@ Gustavo Frosi
         ]
       });
     </script>
+    
+
+    <script>
+
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+
+      // slide changes (different for each slide format).
+
+      (function () {
+
+        // dispatch for htmlwidgets
+
+        function fireSlideEnter() {
+
+          const event = window.document.createEvent("Event");
+
+          event.initEvent("slideenter", true, true);
+
+          window.document.dispatchEvent(event);
+
+        }
+
+    
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+
+          fireSlideEnter();
+
+    
+
+          // dispatch for shiny
+
+          if (window.jQuery) {
+
+            if (previousSlide) {
+
+              window.jQuery(previousSlide).trigger("hidden");
+
+            }
+
+            if (currentSlide) {
+
+              window.jQuery(currentSlide).trigger("shown");
+
+            }
+
+          }
+
+        }
+
+    
+
+        // hookup for slidy
+
+        if (window.w3c_slidy) {
+
+          window.w3c_slidy.add_observer(function (slide_num) {
+
+            // slide_num starts at position 1
+
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+
+          });
+
+        }
+
+    
+
+      })();
+
+    </script>
+
+    
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

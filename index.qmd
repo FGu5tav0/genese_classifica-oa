@@ -1,7 +1,7 @@
 ---
 title: "Gênese e Classificação do Solo - IFPR 2026/02"
 subtitle: "Material de aulas"
-author: "Professor"
+author: "Gustavo Frosi"
 format:
   html:
     page-layout: full
@@ -20,9 +20,24 @@ format:
         <div class="card-title">Introdução à pedologia</div>
         <div class="card-desc"></div>
       </a>
+      <a class="card" onclick="carregarAula('aula_2/aula_2.html', this)" href="#">
+        <div class="card-num">Aula 2</div>
+        <div class="card-title">Rochas e minerais primários</div>
+        <div class="card-desc"></div>
+      </a>
+      <a class="card em-breve" href="#">
+        <div class="card-num">Aula 3</div>
+        <div class="card-title">Intemperismo do solo</div>
+        <div class="card-desc"></div>
+      </a>
+      <a class="card" onclick="carregarAula('aula_4/aula_4.html', this)" href="#">
+        <div class="card-num">Aula 4</div>
+        <div class="card-title">Fatores e processos de formação do solo</div>
+        <div class="card-desc"></div>
+      </a>
 
       <a class="card em-breve" href="#">
-        <div class="card-num">Aula 2</div>
+        <div class="card-num">Aula 5</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
       </a>

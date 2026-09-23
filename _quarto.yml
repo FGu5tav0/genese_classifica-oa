@@ -1,10 +1,17 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - aula_1/
+    - aula_2/
+    - aula_3/
+    - aula_4/
+    - aula_5/
 
 website:
-  title: "mecanizacao"
-  google-analytics: "G-SCQSRGY4FE"
+  title: "Gênese e classificação do Solo"
+  # google-analytics: "G-SCQSRGY4FE"
 
 format:
   html:

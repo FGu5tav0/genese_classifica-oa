@@ -12,17 +12,32 @@ filters:
   - timeline
   # - move-abs-elems
 title-slide-attributes:
-  # data-background-image: meu_diagrama2.svg
-  data-background-size: 50%
+  data-background-image: ../fundo.png
+  data-background-size: "20%"
   data-background-opacity: "0.9"
   data-background-position: right 3% top 52%
-logo: logo.png
+logo: ../logo.png
 image: true
-date: today
+date: "08/10/2026"
 date-format: long
 lang: pt-BR
 ---
+
 # O que é um solo?
+
+<!-- <div style="display:flex; justify-content:center;">
+
+<video
+  autoplay
+  loop
+  muted
+  playsinline
+  data-autoplay
+  style="width:50%;">
+  <source src="geoid_GOCO06s.mp4" type="video/mp4">
+</video>
+
+</div> -->
 
 ## O que é um solo?
 <hr>
@@ -50,6 +65,16 @@ O conceito de solo depende da atividade profissional e do modelo conceitual que 
 
 Podemos considerar apenas as propriedades do solo ou as suas funções e seus usos para definir.
 
+::: {.incremental}
+
+- Utilitário: Solo como um conjunto de propriedades. Sem preocupação com inter-relações;
+
+- Genético: Propriedades em termos das relações internas;
+
+- Genético-Geográfico: Relações solo-paisagem em grandes áreas;
+
+:::
+
 ## O que é um solo?
 <hr>
 
@@ -63,6 +88,19 @@ Podemos considerar apenas as propriedades do solo ou as suas funções e seus us
   - Uso: Solo para trigo, solo para eucalipto.
   - Energia gasta: Solo pesado, solo leve.
   - Pela cor: Solo roxo, solo escuro.
+
+:::
+
+## O que é um solo?
+<hr>
+
+::: {.incremental}
+
+- Aristóteles (384-322 AC) e Theophratus (372-287 AC);
+	Consideraram o solos como “edafos” para distinguir de terra e fizeram relações solo X nutrição de plantas de plantas
+
+- Theophratus
+	Considerou também seis grupos de “terra” adequado a 	diferentes tipos de plantas
 
 :::
 
@@ -158,13 +196,17 @@ Conceito mais antigo de solo!
 
 ![](imagens/Sistema.jpg){fig-align="center"}
 
+## Solo como sistema aberto
+<hr>
+
+![](imagens/sistema_aberto.png){fig-align="center"}
+
 ## O que é um solo?
 <hr>
 
 [__Definição moderna:__]{.fg style="--col: #e64173"}
 
 > SOLO - O material misto sólido, líquido e gasoso horizontado na superfície da Terra, resultante de processos químicos e biológicos e da organização física dos minerais e matéria orgânica que interagem com a atmosfera, litosfera e hidrosfera, e que opera dentro e sustenta ecossistemas terrestres, incluindo biodiversidade, plantas, animais e humanidade. - McBratney A. B. e Hartemink A. E. 2024
-
 
 ## Ciência do solo
 <hr>
@@ -213,18 +255,23 @@ Conceito mais antigo de solo!
 
 ![](imagens/planta_crescendo.jpeg){width=52%}
 
-![](imagens/residuos.jpeg){width=50%}
+![](imagens/cemiterio.jpg){width=50%}
 
 :::
 
 ## Importância do solo
 <hr>
 
-::: {layout-nrow=1}
+::: {layout-nrow=2 layout-ncol="2"}
 
-![](imagens/predio.jpeg){width=50%}
+![](imagens/predio.jpeg){width=350px}
 
-![](imagens/arque.jpeg){width=50%}
+![](imagens/arque.jpeg){width=350px}
+
+![](imagens/residuos.jpeg){width=400px}
+
+![](imagens/floresta_cidade.jpg){width=400px}
+
 
 :::
 
@@ -235,10 +282,31 @@ Conceito mais antigo de solo!
 
 [__Definição:__]{.fg style="--col: #e64173"} É o ramo da Ciência do Solo que trata dos estudos relacionados com a identificação, a formação, a classificação e o mapeamento dos solos.
 
-# História da pedologia
-
-## História da pedologia
+## O que é pedologia? 
 <hr>
 
+- Origem do solo e suas camadas
 
+![](imagens/formacao_solo.jpeg)
 
+## O que é pedologia? 
+<hr>
+
+- Origem do solo e suas camadas
+
+::: {layout-ncol=2}
+
+![](imagens/perfil_solo.jpg)
+
+![](imagens/perfil_solo2.jpg)
+
+:::
+
+## O que é pedologia? 
+<hr>
+
+- Tipos de solo
+
+![](imagens/tipos_solo.jpg){fig-align="center"}
+
+# Fim!

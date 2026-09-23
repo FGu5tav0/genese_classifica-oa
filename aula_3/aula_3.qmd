@@ -12,11 +12,11 @@ filters:
   - timeline
   # - move-abs-elems
 title-slide-attributes:
-  # data-background-image: fundo.jpg
-  data-background-size: 50%
+  data-background-image: ../fundo.png
+  data-background-size: 30%
   data-background-opacity: "0.9"
   data-background-position: right 3% top 52%
-logo: logo.png
+logo: ../logo.png
 image: true
 date: today
 date-format: long

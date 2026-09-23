@@ -12,13 +12,13 @@ filters:
   - timeline
   # - move-abs-elems
 title-slide-attributes:
-  # data-background-image: meu_diagrama2.svg
-  data-background-size: 50%
+  data-background-image: ../fundo.png
+  data-background-size: 30%
   data-background-opacity: "0.9"
   data-background-position: right 3% top 52%
-logo: logo.png
+logo: ../logo.png
 image: true
-date: today
+date: "08/17/2026"
 date-format: long
 lang: pt-BR
 ---
@@ -40,28 +40,470 @@ lang: pt-BR
 
 ::: {layout-ncol=2}
 
-![](imagens/rocha1.jpg)
+![](imagens/rocha1.jpeg){width="70%"}
 
-![](imagens/rocha4.jpeg)
+![](imagens/rocha4.jpeg){width="100%"}
 
 :::
 
 ## Definições
 <hr>
 
-::: {.incremental}
+[__Rocha:__]{.fg style="--col: #e64173"} Agregados naturais formados de um ou mais minerais
 
-- [__Rocha:__]{.fg style="--col: #e64173"} Agregados naturais formados de um ou mais minerais
 
-- [__Minerais:__]{.fg style="--col: #e64173"} Sólidos que possuem uma composição química característica ou composições variáveis dentro de certos limites.
-  Cristalinos e não cristalinos (amorfos)
+::: {.fragment}
+
+As rochas são o material de origem dos solos...
 
 :::
+
+## Classificação das rochas
+<hr>
+
+As rochas podem ser classificadas de acordo com a sua origem ou formação
+
+::: {.incremental}
+
+- [__Rochas ígneas ou magmáticas.__]{.fg style="--col: #e64173"}
+
+- [__Rochas sedimentares.__]{.fg style="--col: #e64173"}
+
+- [__Rochas metamórficas.__]{.fg style="--col: #e64173"}
+
+
+:::
+
+## Camadas da Terra
+<hr>
+
+As rochas que estudaremos estão situadas na Litosfera
+
+![](imagens/camadas_terra.png){fig-align="center"}
+
+## Camadas da Terra
+<hr>
+
+![Fonte: Adaptado de Palin R. M. et al. (2020) por João C. Duarte](imagens/litosfera.png){fig-align="center"}
+
+::: {.notes}
+
+A litosfera é a camada mais externa da Terra. Representada pela crosta e pelo manto superior.
+
+Na crosta, os silicatos mais comuns são o feldspato (~58%), o quartzo (~12%), a piroxênio (11%), a anfibólio (5%) e as micas (4%). Estes minerais são os principais constituintes dos basaltos e dos granitos, as rochas crustais mais comuns.
+
+:::
+
+
+# Rochas ígneas ou magmáticas
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+- São formadas pelo resfriamento e solidificação do magma. 
+
+- Representam ~65% da crosta terrestre.
+
+O resfriamento do magma em diferentes temperaturas condiciona a formação de distintos minerais. Cada mineral será formado quando a temperatura do magma estiver de acordo com seu ponto de supersaturação, que pode variar de [__1300__]{.fg style="--col: #e64173"} até [__600º C__]{.fg style="--col: #e64173"}.
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+::: {.incremental}
+
+Tipos:
+
+- [__Rochas intrusivas ou plutônicas:__]{.fg style="--col: #e64173"} Formada pelo resfriamento lento do magma, pois são encontradas dentro da crosta terrestre. Possui textura fanerítica, com minerais de tamanho considerável e que são reconhecíveis a olho nu.
+
+- [__Rochas extrusivas ou vulcânicas:__]{.fg style="--col: #e64173"} Formadas pelo resfriamento rápido do magma e são encontradas na superfície terrestre. Possui textura afanítica, com minerais pequenos que não são reconhecíveis a olho nu.
+
+:::
+
+::: {.notes}
+
+onde está o magma
+
+:::
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+![](imagens/vulcao.jpeg){fig-align="center"}
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+![Fonte: Bourotte, C. L. M.](imagens/valcao2.png)
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+Exemplos:
+
+::: {layout-ncol=2}
+
+![Basalto (extrusiva)](imagens/basalto.jpg){width="70%"}
+
+![Granito (intrusiva)](imagens/granito.jpg)
+
+:::
+
+::: {.notes}
+
+O basalto é a rocha vulcânica mais abundante na Terra, cobrindo mais de 90% do fundo do oceano e grandes regiões continentais moldadas por antigos fluxos de lava.
+Ele se forma quando o magma máfico — rico em ferro e magnésio, mas pobre em sílica — irrompe do manto e esfria rapidamente na superfície ou próximo a ela.
+
+:::
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+Exemplos:
+
+::: {layout-ncol=2}
+
+![Riolito (extrusiva)](imagens/riolito.jpeg){width="70%"}
+
+![Diorito (intrusiva)](imagens/diorito.jpg)
+
+:::
+
+## Rochas ígneas ou magmáticas
+<hr>
+
+Exemplos de rocha com resfriamento muito rápido:
+
+::: {layout-ncol=2}
+
+![Obsidiana](imagens/obsidiana2.jpeg){width="70%"}
+
+![Tufo (Púmice)](imagens/tufo.jpg)
+
+:::
+
+## Cristalização dos minerais
+<hr>
+
+Série de reação de Bowen
+
+![Fonte: Bourotte, C. L. M.](imagens/serie_minerais.png)
+
+## Rochas ígneas
+<hr>
+
+Também são classificadas quanto ao teor de silício ou óxido de silício (SiO~2~)
+
+::: {.incremental}
+
+- Ácidas: >63% de SiO~2~
+
+- Intermediárias: 52 - 63% SiO~2~
+
+- Básicas: 45 - 52% SiO~2~
+
+- Ultrabásicas: <45% SiO~2~
+
+:::
+
+## Rochas ígneas
+<hr>
+
+Quanto à cor:
+
+::: {.incremental}
+
+- Félsicas: Ricas em minerais claros (Quartzo e feldspatos).
+
+- Máficas: Ricas em minerais escuros (Piroxênios e anfibólios).
+
+- Ultramáficas: Mais de 90% de minerais máficos.
+
+:::
+
+## Classificação e características das rochas ígneas
+<hr>
+
+![](imagens/rochas.png){fig-align="center"}
+
+## Classificação e características das rochas ígneas
+<hr>
+
+![Livro de Pedologia SBCS Sul](imagens/rocha_livro_sociedade.png){fig-align="center"}
+
+# Rochas sedimentares
+
+## Rochas sedimentares
+<hr>
+
+- Têm origem da alteração de rochas já existentes que foram erodidas e seus sedimentos transportados e depositados.
+
+- Representam ~8% da crosta terrestre.
+
+::: {.incremental}
+
+- A origem dos sedimentos pode ser:
+  - Clásticas: quando há deposição mecânica;
+  - Química: quando há precipitação de soluções por intermédio de algum processo químico.
+  - Orgânicas: quando é resultado de acúmulo de restos orgânicos.
+
+:::
+
+## Rochas sedimentares
+<hr>
+
+- A principal característica das rochas sedimentares é a presença de estruturas estratificadas (camadas).
+
+- Processo de deposição ao longo do tempo.
+
+![](imagens/sedimentar.jpeg){fig-align="center"}
+
+## Rochas sedimentares
+<hr>
+
+Exemplos (clásticas):
+
+::: {layout-ncol=2}
+
+![Arenito](imagens/arenito.jpeg)
+
+![Folhelho](imagens/folhelho.webp)
+
+:::
+
+## Rochas sedimentares
+<hr>
+
+Conglomerados (clásticas):
+
+::: {layout-ncol=4}
+
+![RS](imagens/conglo.jpg)
+
+![RS](imagens/conglo2.jpg)
+
+![Espanha](imagens/conglomerados3.jpg)
+
+![Espanha](imagens/conglomerado4.jpg)
+
+:::
+
+## Rochas sedimentares
+<hr>
+
+Exemplos (químicas):
+
+::: {layout-ncol=2}
+
+![Calcário](imagens/calcario.jpeg)
+
+![Sílex](imagens/silex.jpeg){width="80%"}
+
+:::
+
+## Rochas sedimentares
+<hr>
+
+Exemplos (orgânica):
+
+::: {layout-ncol=2}
+
+![Carvão](imagens/carvao.jpg)
+
+![Giz](imagens/giz.jpeg)
+
+:::
+
+## Rochas sedimentares
+<hr>
+
+Ciclo de deposição
+
+![](imagens/ciclo%20sedimentar.png){fig-align="center"}
+
+## Rochas sedimentares
+<hr>
+
+Ciclo de deposição
+
+![](imagens/selecao_clastica.png){fig-align="center"}
+
+
+# Rochas metamórficas
+
+## Rochas metamórficas
+<hr>
+
+- Representam ~27% da crosta terrestre.
+
+- São originárias de outras rochas ígneas, sedimentares ou metamórficas, por modificações na textura e estrutura.
+
+
+::: {.incremental}
+
+- Devido à movimentação das rochas preexistentes, elas podem ser levadas a partes mais profundas da crosta.
+
+- Alta temperatura e pressão.
+
+- Minerais recristalizam-se e deformam-se.
+
+- Rocha em aspecto laminar (xistosidade).
+
+:::
+
+## Rochas metamórficas
+<hr>
+
+Exemplos:
+
+::: {layout-ncol=2}
+
+![Xisto](imagens/xisto.jpg)
+
+![Gnaisse](imagens/gnaise.jpeg)
+
+:::
+
+::: {.notes}
+
+xisto é derivado de rochas sedimentares ou ígneas básicas
+
+Gnaisse é derivado de rocha granítica (granito)
+
+:::
+
+## Rochas metamórficas
+<hr>
+
+Metamorfismo:
+
+::: {layout-ncol=2}
+
+![Arenito](imagens/arenito.jpeg)
+
+![Quartzito](imagens/quartzito.jpeg)
+
+:::
+
+## Rochas metamórficas
+<hr>
+
+Metamorfismo:
+
+::: {layout-ncol=2}
+
+![Granito](imagens/granito.jpg)
+
+![Gnaisse](imagens/gnaise.jpeg)
+
+:::
+
+## Rochas metamórficas
+<hr>
+
+Metamorfismo:
+
+::: {layout-ncol=2}
+
+![Calcário](imagens/calcario.jpeg)
+
+![Mármore](imagens/marmore.jpg)
+
+:::
+
+# Ciclo das rochas
+
+## Ciclo das rochas
+<hr>
+
+![](imagens/ciclo_rocha1.png){fig-align="center"}
+
+## Ciclo das rochas
+<hr>
+
+![Fonte: https://ugc.berkeley.edu/background-content/rock-cycle/](imagens/ciclo_rocha2.png){fig-align="center"}
+
+## Proporção de rochas
+<hr>
+
+![Adaptado de Osman, K. T (2012)](imagens/rocha_composicao.jpeg){fig-align="center"}
+
+## Proporção de rochas
+<hr>
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+Percentuais estimados da crosta continental por grupo/origem rochosa
+
+:::
+
+::: {.column}
+
+![Adaptado de Wilkison et al. (2009) por Hasterok, D. et al. (2018) ](imagens/prop_rochas.jpg){fig-align="center" width="70%"}
+
+
+:::
+
+:::
+
+# Geologia do Brasil e do Sul
+
+## Geologia do Brasil e do Sul
+<hr>
+
+![Fonte: Alessandra Souza](imagens/mapa_geologico.jpg){fig-align="center"}
+
+## Geologia do Brasil e do Sul
+<hr>
+
+![Fonte: GeoSGB](imagens/mapa_geologico2.jpg){fig-align="center"}
+
+## Geologia do Brasil e do Sul
+<hr>
+
+![Fonte: Rabel et al (2018)](imagens/geologia_sul2.png)
+
+## Geologia do Brasil e do Sul
+<hr>
+
+![Fonte: Juchem et al. (2009)](imagens/geologia_sul.png)
+
+## Geologia do Brasil e do Sul
+<hr>
+
+Paraná:
+
+::: {layout-ncol=2}
+
+![](imagens/pr1.png)
+
+![](imagens/pr2.png)
+
+:::
+
+Fonte: [Recursos do Paraná](file:///C:/Users/gusta/AppData/Local/Temp/MicrosoftEdgeDownloads/d62fa22d-f68d-4ada-9c91-9c32b5234c96/Atlas%20Comentado%20da%20Geologia%20e%20dos%20Recursos%20Minerais%20do%20Estado%20do%20Paran%C3%A1.pdf)
+
+## Geologia do Brasil e do Sul
+<hr>
+
+Paraná:
+
+![](imagens/pr3.png)
+
+# Minerais Primários
 
 ## Minerais
 <hr>
 
-![](imagens/quartzo_vidro.svg){fig-align="center"}
+- [__Minerais:__]{.fg style="--col: #e64173"} Sólidos que possuem uma composição química característica ou composições variáveis dentro de certos limites. Cristalinos e não cristalinos (amorfos)
+
+::: {.fragment}
+
+![](imagens/quartzo_vidro.svg){fig-align="center" width="700px"}
+
+:::
 
 ## Minerais
 <hr>
@@ -108,3 +550,461 @@ São os minerais que não possuem ordenação sistemática.
 
 :::
 
+# Composição dos minerais
+
+## Composição da litosfera
+<hr>
+
+![](imagens/composicao_crosta1.png){fig-align="center"}
+
+
+::: {.fragment}
+
+Do que os minerais são compostos?
+
+:::
+
+# Minerais não silicatados
+
+## Minerais não silicatados
+<hr>
+
+[__Haletos:__]{.fg style="--col: #e64173"} 
+
+
+![Halita: NaCl](imagens/halita2.jpeg){fig-align="center"}
+
+## Minerais não silicatados
+<hr>
+
+[__Sulfato:__]{.fg style="--col: #e64173"} 
+
+![Gipsita: CaSO~4~](imagens/gipsita.jpg){fig-align="center"}
+
+## Minerais não silicatados
+<hr>
+
+[__Carbonatos:__]{.fg style="--col: #e64173"} 
+
+![Calcita: CaCO~3~](imagens/calcita.jpg){fig-align="center"}
+
+Outros exemplos: Dolomita (Ca.MgCO~3~)
+
+## Minerais não silicatados
+<hr>
+
+[__Sulfeto:__]{.fg style="--col: #e64173"} 
+
+::: {.columns}
+
+::: {.column}
+
+![Pirita: FeS~2~](imagens/pirita.jpg){fig-align="center" width="300px"}
+
+:::
+
+::: {.column}
+
+S reduzido (S^2-^)
+
+Pirita: ouro de tolo
+
+Ocorrência:
+Solos tiomórficos (S)
+Sedimentos marinhos
+Áreas de mineração de carvão
+
+:::
+
+:::
+
+Outros exemplos: Galena (PbS), Cinábrio (HgS), Esfalerita (ZnS).
+
+## Minerais não silicatados
+<hr>
+
+Haletos, sulfatos e carbonatos:
+
+::: {.incremental}
+
+- Estruturas simples
+- Ligações iônicas
+- Facilmente intemperizáveis
+
+:::
+
+## Minerais não silicatados
+<hr>
+
+[__Fosfato:__]{.fg style="--col: #e64173"} 
+
+::: {.columns}
+
+::: {.column}
+
+![Apatita: Ca~5~(PO~4~)~3~(OH,F,Cl)](imagens/apatita.jpg){fig-align="center" width="400px"}
+
+:::
+
+::: {.column}
+
+Em geral, fosfatos de Ca
+
+- pequena ocorrência em solos
+- jazidas: reservas de fósforo 
+- “fosfatos naturais ou de rocha”
+
+
+:::
+
+:::
+
+## Minerais não silicatados
+<hr>
+
+[__Fosfato:__]{.fg style="--col: #e64173"} 
+
+- Cristalinos (apatitas): indústria de adubos de P
+  - Ex.: fosfato de Araxá, Patos de Minas (MG)
+- não cristalinos (fosforitas): uso direto no solo 
+  - Ex.: fosfatos de Gafsa, Arad
+
+
+::: {.fragment}
+
+Mineração no Brasil
+
+:::
+
+
+## Minerais não silicatados {data-visibility="hidden"}
+<hr>
+
+[__Óxidos, hidróxidos e oxi-hidróxidos:__]{.fg style="--col: #e64173"} 
+
+Em sua maioria são minerais secundários
+
+::: {.incremental}
+
+- Fração argila;
+- Solo de alto intemperismo;
+- Regiões tropicais e subtropicais;
+- Classe de minerais com grande importância.
+
+:::
+
+## Minerais não silicatados {data-visibility="hidden"}
+<hr>
+
+[__Óxidos de ferro:__]{.fg style="--col: #e64173"} 
+
+- Óxidos de ferro:
+	- Goethita ($\alpha-FeOOH$).
+	- Hematita ($\alpha-Fe_2O_3$).
+	- Magnetita ($Fe_3O_4$).
+	- Lepidocrocita.
+	- Ferrihidrita.
+
+## Minerais não silicatados {data-visibility="hidden"}
+<hr>
+
+[__Óxidos de ferro:__]{.fg style="--col: #e64173"} 
+
+::: {.incremental}
+
+- Ocorrência principal na fração argila;
+- Característicos de solos bastante intemperizados;
+- Determinantes da cor do solo;
+- Cargas variáveis (+ ou -), dependentes de pH;
+- Reações de retenção de P e metais;
+- Efeito na agregação do solo (cimentantes).
+
+:::
+
+## Minerais não silicatados
+<hr>
+
+[__Óxidos de ferro:__]{.fg style="--col: #e64173"} 
+
+::: {layout-ncol=2}
+
+![Hematita: Fe~2~O~3~](imagens/hematita.jpg){fig-align="center" width="350px"}
+
+![Goethita: FeOOH](imagens/goetita.jpeg){fig-align="center" width="400px"}
+
+:::
+
+## Minerais não silicatados {data-visibility="hidden"}
+<hr>
+
+[__Óxidos de ferro:__]{.fg style="--col: #e64173"} 
+
+::: {layout-ncol=3}
+
+![](imagens/latossolo_vermelho.png){fig-align="center" width="350px"}
+
+![](imagens/latossolo_bruno.jpg){fig-align="center" width="350px"}
+
+![](imagens/latossolo_amarelo.jpg){fig-align="center" width="350px"}
+
+:::
+
+## Minerais não silicatados
+<hr>
+
+[__Óxidos de Al:__]{.fg style="--col: #e64173"} 
+
+![Gibbsita: Al(OH)~3~](imagens/gibsita.jpeg){fig-align="center" width="400px"}
+
+## Minerais não silicatados
+<hr>
+
+[__Óxidos Ti:__]{.fg style="--col: #e64173"} 
+
+::: {layout-ncol=2}
+
+![Rutilo: TiO~2~](imagens/rutilo.jpg){fig-align="center" width="350px"}
+
+![Anatásio](imagens/anatasio.jpg){fig-align="center" width="400px"}
+
+:::
+
+## Minerais não silicatados {data-visibility="hidden"}
+<hr>
+
+[__Óxidos Ti:__]{.fg style="--col: #e64173"} 
+
+- Muito resistentes à alteração;
+- Minerais índice para caracterização e classificação de solos;
+- Principais: anatásio e rutilo;
+
+# Minerais silicatados
+
+## Minerais silicatados
+<hr>
+
+Os minerais mais comuns devem conter silício e oxigênio; a esse grupo de minerais chamamos de **silicatos**
+
+
+::: {.fragment}
+
+[__Unidade básica:__]{.fg style="--col: #e64173"} 
+
+![](imagens/tetraedro.jpg){fig-align="center"}
+
+:::
+
+## Minerais silicatados
+<hr>
+
+[__Unidade básica:__]{.fg style="--col: #e64173"} 
+
+- Si = 0,042 nm
+- O = 0,140 nm
+
+
+Relação Si/O = 0,042/0,140 = 0,30 → NC = 4
+
+## Minerais silicatados
+<hr>
+
+[__Nesossilicatos:__]{.fg style="--col: #e64173"} 
+
+
+::: {.columns}
+
+::: {.column}
+
+Tetraedros independentes
+
+![](imagens/tetraedro_unico.png)
+
+:::
+
+::: {.column}
+
+::: {layout-ncol=1}
+
+![Olivina](imagens/olivina.jpg){fig-align="center" width="200px"}
+
+![Zircão](imagens/zircao.webp){fig-align="center" width="200px"}
+
+:::
+
+:::
+
+:::
+
+## Minerais silicatados
+<hr>
+
+[__Sorossilicatos:__]{.fg style="--col: #e64173"} 
+
+
+::: {.columns}
+
+::: {.column}
+
+Tetraedros duplos
+
+![](imagens/tetraedro_dois.png)
+
+:::
+
+::: {.column}
+
+::: {layout-ncol=1}
+
+![Melilita](imagens/melilita.jpg){fig-align="center" width="200px"}
+
+![Epidoto](imagens/epidoto.jpg){fig-align="center" width="200px"}
+
+:::
+
+:::
+
+:::
+
+## Minerais silicatados
+<hr>
+
+[__Ciclossilicatos:__]{.fg style="--col: #e64173"} 
+
+
+::: {.columns}
+
+::: {.column}
+
+Anéis fechados
+
+![](imagens/tetraedro_ciclo.png)
+
+:::
+
+::: {.column}
+
+::: {layout-ncol=1}
+
+![Berilo](imagens/berilio.jpg){fig-align="center" width="200px"}
+
+![Turmalina](imagens/turmalina.jpg){fig-align="center" width="200px"}
+
+:::
+
+:::
+
+:::
+
+
+## Minerais silicatados
+<hr>
+
+[__Inossilicatos:__]{.fg style="--col: #e64173"} 
+
+
+::: {.columns}
+
+::: {.column}
+
+Cadeias simples de tetraedros
+
+Ex.: piroxênios
+
+![](imagens/tetraedro_inosimples.png)
+
+:::
+
+::: {.column}
+
+Cadeias duplas de tetraedros
+
+Ex.: anfibólios
+
+![](imagens/tetraedro_inocomposto.png)
+
+
+:::
+
+:::
+
+
+## Minerais silicatados
+<hr>
+
+[__Tectossilicatos:__]{.fg style="--col: #e64173"} 
+
+
+::: {.columns}
+
+::: {.column}
+
+Empilhamento tridimensional de tetraedros
+
+Grande resistência ao intemperismo
+
+
+![](imagens/tetraedro_tecto.png)
+
+:::
+
+::: {.column}
+
+::: {layout-ncol=1}
+
+![Quartzo](imagens/quartzo.jpeg){fig-align="center" width="200px"}
+
+![Feldspato](imagens/feldpato.png){fig-align="center" width="200px"}
+
+:::
+
+:::
+
+:::
+
+## Minerais silicatados
+<hr>
+
+[__Filossilicatos (argilominerais) (aluminossilicatos):__]{.fg style="--col: #e64173"} 
+
+Empilhamento de lâminas tetraedrais e octaedrais
+
+![](imagens/tetraedro_filo.png)
+
+
+::: {.fragment}
+
+Ex.: caulinita, vermiculita, micas
+
+:::
+
+## Minerais silicatados
+<hr>
+
+[__Filossilicatos (argilominerais) (aluminossilicatos):__]{.fg style="--col: #e64173"} 
+
+- aspecto plano estratificado
+- Biotita (K(Fe^2+^, Mg^2+^)~3~(Si~3~Al)O~10~(OH)~2~) : cor escura
+- Muscovita (KAl~2~(Si~3~Al)O~10~(OH)~2~) : cor clara
+  - Fontes de potássio
+
+## Minerais silicatados
+<hr>
+
+[__Filossilicatos (argilominerais) (aluminossilicatos):__]{.fg style="--col: #e64173"} 
+
+::: {layout-ncol=2}
+
+![Biotita](imagens/biotita.jpg){fig-align="center" width="350px"}
+
+![Muscovita](imagens/muscovita.jpg){fig-align="center" width="300px"}
+
+:::
+
+# Identificação de Minerais
+
+## Identificação de Minerais
+<hr>
+
+
+
+# Fim!

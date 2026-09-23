@@ -1,6 +1,6 @@
 ---
 title: "Avaliação de Nivelamento"
-subtitle: "Gênese e Classificação do Solo"
+subtitle: "Gênese e Classificação do Solo - 2026/02"
 format:
   typst:
     margin:
@@ -18,7 +18,7 @@ date-format: long
 #let linha-resposta() = {
   v(0.2cm)
   line(length: 100%, stroke: 0.5pt + gray)
-  v(0.5cm)
+  v(0.2cm)
 }
 
 #let respostas(n) = {
@@ -27,7 +27,7 @@ date-format: long
   }
 }
 
-#let pergunta(numero, titulo, linhas: 4) = {
+#let pergunta(numero, titulo, linhas: 10) = {
   block(
     fill: rgb("#f7f7f7"),
     stroke: 0.5pt + rgb("#cccccc"),
@@ -35,7 +35,7 @@ date-format: long
     inset: 12pt,
     width: 100%,
     breakable: true,
-    below: 14pt,
+    below: 10pt,
   )[
     #text(weight: "bold")[#numero. #titulo]
     #v(4pt)
@@ -51,19 +51,28 @@ date-format: long
   [*Nome:* #box(width: 100%, line(length: 100%, stroke: 0.5pt))],
   [*Data:* #box(width: 100%, line(length: 100%, stroke: 0.5pt))],
 )
-#v(2pt)
-[*Turma:* #box(width: 20%, line(length: 100%, stroke: 0.5pt))]
+// #v(2pt)
+// [*Turma:* #box(width: 20%, line(length: 100%, stroke: 0.5pt))]
 #v(14pt)
 ```
+::: {.callout-warning appearance="minimal"}
+Entrega até dia 14/08/2026 na minha sala ("ex" sala do prof. Clovis, primeira à esquerda)
+:::
 
 ::: {.callout-important appearance="simple"}
 Para atingir o objetivo desta avaliação, **mais importante que o domínio correto das questões é detalhar seu raciocínio**, mesmo que a resposta esteja incompleta ou equivocada.
 :::
 
+::: {.callout-warning appearance="simple"}
+Utilizar apenas as linhas disponíveis para desenvolver as questões. Texto fora da área de resposta não será considerado.
+:::
+
 ```{=typst}
-#pergunta(1, "Quais são as fases que compõem o solo?")
-#pergunta(2, "Explique o que é textura, consistência, porosidade e estrutura do solo.")
-#pergunta(3, "Quais são as fontes geradoras de cargas elétricas no solo?")
-#pergunta(4, "[PERGUNTA A DEFINIR]")
+#pergunta(1, "Quais são as fases que compõem o solo? (física do solo)")
+#pergunta(2, "Explique o que é textura, consistência, porosidade e estrutura do solo. (física do solo)")
+#pergunta(3, "Quais são as fontes geradoras de cargas elétricas no solo? (química do solo)")
+#pagebreak()
+#pergunta(4, "Quais são os fenômenos de sorção de um solo? (química do solo)")
 #pergunta(5, "Se você estivesse realizando uma palestra e agricultores locais lhe perguntassem o que é solo, como você descreveria esse objeto de forma simples e científica?")
+
 ```

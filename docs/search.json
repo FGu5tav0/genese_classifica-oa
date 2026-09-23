@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gênese e Classificação do Solo - IFPR 2026/02",
-    "section": "",
-    "text": "Aula 1\n        Introdução à pedologia\n        \n      \n\n      \n        Aula 2\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
-  },
-  {
     "objectID": "aula_3/aula_3.html#exemplo",
     "href": "aula_3/aula_3.html#exemplo",
     "title": "Gênese e Classificação do Solo:",
@@ -46,7 +39,7 @@
     "href": "aula_1/aula_1.html#o-que-é-um-solo-2",
     "title": "Gênese e Classificação do Solo:",
     "section": "O que é um solo?",
-    "text": "O que é um solo?\n\nPodemos considerar apenas as propriedades do solo ou as suas funções e seus usos para definir."
+    "text": "O que é um solo?\n\nPodemos considerar apenas as propriedades do solo ou as suas funções e seus usos para definir.\n\nUtilitário: Solo como um conjunto de propriedades. Sem preocupação com inter-relações;\nGenético: Propriedades em termos das relações internas;\nGenético-Geográfico: Relações solo-paisagem em grandes áreas;"
   },
   {
     "objectID": "aula_1/aula_1.html#o-que-é-um-solo-3",
@@ -60,18 +53,25 @@
     "href": "aula_1/aula_1.html#o-que-é-um-solo-4",
     "title": "Gênese e Classificação do Solo:",
     "section": "O que é um solo?",
-    "text": "O que é um solo?\n\nSolo do latim solum (suporte, superfície, base) refere-se à parte superior da crosta terreste ou litosfera, mais precisamente à porção superior do regolito."
+    "text": "O que é um solo?\n\n\nAristóteles (384-322 AC) e Theophratus (372-287 AC); Consideraram o solos como “edafos” para distinguir de terra e fizeram relações solo X nutrição de plantas de plantas\nTheophratus Considerou também seis grupos de “terra” adequado a diferentes tipos de plantas"
   },
   {
     "objectID": "aula_1/aula_1.html#o-que-é-um-solo-5",
     "href": "aula_1/aula_1.html#o-que-é-um-solo-5",
     "title": "Gênese e Classificação do Solo:",
     "section": "O que é um solo?",
-    "text": "O que é um solo?\n\n\nSolo é o corpo natural da superfície terrestre, contituído de materiais minerais e orgânicos resultantes das interações dos fatores de formação (clima, organismos vivos, material de origem e relevo) através do tempo, contendo matéria viva e em partes modificado pela ação humana, capaz de sustentar plantas, de reter água, de armazenas e transformar resíduos e suportar edificações. - Soil Survey Staff, 1975"
+    "text": "O que é um solo?\n\nSolo do latim solum (suporte, superfície, base) refere-se à parte superior da crosta terreste ou litosfera, mais precisamente à porção superior do regolito."
   },
   {
     "objectID": "aula_1/aula_1.html#o-que-é-um-solo-6",
     "href": "aula_1/aula_1.html#o-que-é-um-solo-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "O que é um solo?",
+    "text": "O que é um solo?\n\n\nSolo é o corpo natural da superfície terrestre, contituído de materiais minerais e orgânicos resultantes das interações dos fatores de formação (clima, organismos vivos, material de origem e relevo) através do tempo, contendo matéria viva e em partes modificado pela ação humana, capaz de sustentar plantas, de reter água, de armazenas e transformar resíduos e suportar edificações. - Soil Survey Staff, 1975"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#o-que-é-um-solo-7",
+    "href": "aula_1/aula_1.html#o-que-é-um-solo-7",
     "title": "Gênese e Classificação do Solo:",
     "section": "O que é um solo?",
     "text": "O que é um solo?\n\nEvolução do conceito de solo.\n\nSolo como meio para o desenvolvimento das plantas.\nSolo como regolito.\nSolo como corpo natural organizado.\nSolo como um sistema aberto."
@@ -119,8 +119,15 @@
     "text": "Solo como sistema aberto"
   },
   {
-    "objectID": "aula_1/aula_1.html#o-que-é-um-solo-7",
-    "href": "aula_1/aula_1.html#o-que-é-um-solo-7",
+    "objectID": "aula_1/aula_1.html#solo-como-sistema-aberto-2",
+    "href": "aula_1/aula_1.html#solo-como-sistema-aberto-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Solo como sistema aberto",
+    "text": "Solo como sistema aberto"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#o-que-é-um-solo-8",
+    "href": "aula_1/aula_1.html#o-que-é-um-solo-8",
     "title": "Gênese e Classificação do Solo:",
     "section": "O que é um solo?",
     "text": "O que é um solo?\n\nDefinição moderna:\n\nSOLO - O material misto sólido, líquido e gasoso horizontado na superfície da Terra, resultante de processos químicos e biológicos e da organização física dos minerais e matéria orgânica que interagem com a atmosfera, litosfera e hidrosfera, e que opera dentro e sustenta ecossistemas terrestres, incluindo biodiversidade, plantas, animais e humanidade. - McBratney A. B. e Hartemink A. E. 2024"
@@ -168,18 +175,32 @@
     "text": "O que é pedologia?\n\nDefinição: É o ramo da Ciência do Solo que trata dos estudos relacionados com a identificação, a formação, a classificação e o mapeamento dos solos."
   },
   {
-    "objectID": "aula_1/aula_1.html#história-da-pedologia-1",
-    "href": "aula_1/aula_1.html#história-da-pedologia-1",
+    "objectID": "aula_1/aula_1.html#o-que-é-pedologia-2",
+    "href": "aula_1/aula_1.html#o-que-é-pedologia-2",
     "title": "Gênese e Classificação do Solo:",
-    "section": "História da pedologia",
-    "text": "História da pedologia"
+    "section": "O que é pedologia?",
+    "text": "O que é pedologia?\n\n\nOrigem do solo e suas camadas"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "aula_1/aula_1.html#o-que-é-pedologia-3",
+    "href": "aula_1/aula_1.html#o-que-é-pedologia-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "O que é pedologia?",
+    "text": "O que é pedologia?\n\n\nOrigem do solo e suas camadas"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#o-que-é-pedologia-4",
+    "href": "aula_1/aula_1.html#o-que-é-pedologia-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "O que é pedologia?",
+    "text": "O que é pedologia?\n\n\nTipos de solo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gênese e Classificação do Solo - IFPR 2026/02",
     "section": "",
-    "text": "About this site"
+    "text": "Aula 1\n        Introdução à pedologia\n        \n      \n      \n        Aula 2\n        Rochas e minerais primários\n        \n      \n      \n        Aula 3\n        Intemperismo do solo\n        \n      \n      \n        Aula 4\n        Fatores e processos de formação do solo\n        \n      \n\n      \n        Aula 5\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
   },
   {
     "objectID": "aula_2/aula_2.html#do-que-se-origina-a-fração-mineral-do-solo-1",
@@ -200,14 +221,280 @@
     "href": "aula_2/aula_2.html#definições",
     "title": "Gênese e Classificação do Solo:",
     "section": "Definições",
-    "text": "Definições\n\n\nRocha: Agregados naturais formados de um ou mais minerais\nMinerais: Sólidos que possuem uma composição química característica ou composições variáveis dentro de certos limites. Cristalinos e não cristalinos (amorfos)"
+    "text": "Definições\n\nRocha: Agregados naturais formados de um ou mais minerais\n\nAs rochas são o material de origem dos solos…"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#classificação-das-rochas",
+    "href": "aula_2/aula_2.html#classificação-das-rochas",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Classificação das rochas",
+    "text": "Classificação das rochas\n\nAs rochas podem ser classificadas de acordo com a sua origem ou formação\n\nRochas ígneas ou magmáticas.\nRochas sedimentares.\nRochas metamórficas."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#camadas-da-terra",
+    "href": "aula_2/aula_2.html#camadas-da-terra",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Camadas da Terra",
+    "text": "Camadas da Terra\n\nAs rochas que estudaremos estão situadas na Litosfera"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#camadas-da-terra-1",
+    "href": "aula_2/aula_2.html#camadas-da-terra-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Camadas da Terra",
+    "text": "Camadas da Terra\n\n\nFonte: Adaptado de Palin R. M. et al. (2020) por João C. Duarte\nA litosfera é a camada mais externa da Terra. Representada pela crosta e pelo manto superior.\nNa crosta, os silicatos mais comuns são o feldspato (~58%), o quartzo (~12%), a piroxênio (11%), a anfibólio (5%) e as micas (4%). Estes minerais são os principais constituintes dos basaltos e dos granitos, as rochas crustais mais comuns."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-1",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\n\nSão formadas pelo resfriamento e solidificação do magma.\nRepresentam ~65% da crosta terrestre.\n\nO resfriamento do magma em diferentes temperaturas condiciona a formação de distintos minerais. Cada mineral será formado quando a temperatura do magma estiver de acordo com seu ponto de supersaturação, que pode variar de 1300 até 600º C."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-2",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\nTipos:\n\nRochas intrusivas ou plutônicas: Formada pelo resfriamento lento do magma, pois são encontradas dentro da crosta terrestre. Possui textura fanerítica, com minerais de tamanho considerável e que são reconhecíveis a olho nu.\nRochas extrusivas ou vulcânicas: Formadas pelo resfriamento rápido do magma e são encontradas na superfície terrestre. Possui textura afanítica, com minerais pequenos que não são reconhecíveis a olho nu.\n\n\nonde está o magma"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-3",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-4",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\n\nFonte: Bourotte, C. L. M."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-5",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\nExemplos:\n\n\n\n\n\n\nBasalto (extrusiva)\n\n\n\n\n\n\n\nGranito (intrusiva)\n\n\n\n\n\n\nO basalto é a rocha vulcânica mais abundante na Terra, cobrindo mais de 90% do fundo do oceano e grandes regiões continentais moldadas por antigos fluxos de lava. Ele se forma quando o magma máfico — rico em ferro e magnésio, mas pobre em sílica — irrompe do manto e esfria rapidamente na superfície ou próximo a ela."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-6",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\nExemplos:\n\n\n\n\n\n\nRiolito (extrusiva)\n\n\n\n\n\n\n\nDiorito (intrusiva)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-7",
+    "href": "aula_2/aula_2.html#rochas-ígneas-ou-magmáticas-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas ou magmáticas",
+    "text": "Rochas ígneas ou magmáticas\n\nExemplos de rocha com resfriamento muito rápido:\n\n\n\n\n\n\nObsidiana\n\n\n\n\n\n\n\nTufo (Púmice)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#cristalização-dos-minerais",
+    "href": "aula_2/aula_2.html#cristalização-dos-minerais",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Cristalização dos minerais",
+    "text": "Cristalização dos minerais\n\nSérie de reação de Bowen\n\nFonte: Bourotte, C. L. M."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas",
+    "href": "aula_2/aula_2.html#rochas-ígneas",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas",
+    "text": "Rochas ígneas\n\nTambém são classificadas quanto ao teor de silício ou óxido de silício (SiO2)\n\nÁcidas: &gt;63% de SiO2\nIntermediárias: 52 - 63% SiO2\nBásicas: 45 - 52% SiO2\nUltrabásicas: &lt;45% SiO2"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-ígneas-1",
+    "href": "aula_2/aula_2.html#rochas-ígneas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas ígneas",
+    "text": "Rochas ígneas\n\nQuanto à cor:\n\nFélsicas: Ricas em minerais claros (Quartzo e feldspatos).\nMáficas: Ricas em minerais escuros (Piroxênios e anfibólios).\nUltramáficas: Mais de 90% de minerais máficos."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#classificação-e-características-das-rochas-ígneas",
+    "href": "aula_2/aula_2.html#classificação-e-características-das-rochas-ígneas",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Classificação e características das rochas ígneas",
+    "text": "Classificação e características das rochas ígneas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#classificação-e-características-das-rochas-ígneas-1",
+    "href": "aula_2/aula_2.html#classificação-e-características-das-rochas-ígneas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Classificação e características das rochas ígneas",
+    "text": "Classificação e características das rochas ígneas\n\n\nLivro de Pedologia SBCS Sul"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-1",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\n\nTêm origem da alteração de rochas já existentes que foram erodidas e seus sedimentos transportados e depositados.\nRepresentam ~8% da crosta terrestre.\n\n\nA origem dos sedimentos pode ser:\n\nClásticas: quando há deposição mecânica;\nQuímica: quando há precipitação de soluções por intermédio de algum processo químico.\nOrgânicas: quando é resultado de acúmulo de restos orgânicos."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-2",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\n\nA principal característica das rochas sedimentares é a presença de estruturas estratificadas (camadas).\nProcesso de deposição ao longo do tempo."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-3",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nExemplos (clásticas):\n\n\n\n\n\n\nArenito\n\n\n\n\n\n\n\nFolhelho"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-4",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nConglomerados (clásticas):\n\n\n\n\n\n\nRS\n\n\n\n\n\n\n\nRS\n\n\n\n\n\n\n\nEspanha\n\n\n\n\n\n\n\nEspanha"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-5",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nExemplos (químicas):\n\n\n\n\n\n\nCalcário\n\n\n\n\n\n\n\nSílex"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-6",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nExemplos (orgânica):\n\n\n\n\n\n\nCarvão\n\n\n\n\n\n\n\nGiz"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-7",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nCiclo de deposição"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-sedimentares-8",
+    "href": "aula_2/aula_2.html#rochas-sedimentares-8",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas sedimentares",
+    "text": "Rochas sedimentares\n\nCiclo de deposição"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-metamórficas-1",
+    "href": "aula_2/aula_2.html#rochas-metamórficas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas metamórficas",
+    "text": "Rochas metamórficas\n\n\nRepresentam ~27% da crosta terrestre.\nSão originárias de outras rochas ígneas, sedimentares ou metamórficas, por modificações na textura e estrutura.\n\n\nDevido à movimentação das rochas preexistentes, elas podem ser levadas a partes mais profundas da crosta.\nAlta temperatura e pressão.\nMinerais recristalizam-se e deformam-se.\nRocha em aspecto laminar (xistosidade)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-metamórficas-2",
+    "href": "aula_2/aula_2.html#rochas-metamórficas-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas metamórficas",
+    "text": "Rochas metamórficas\n\nExemplos:\n\n\n\n\n\n\nXisto\n\n\n\n\n\n\n\nGnaisse\n\n\n\n\n\n\nxisto é derivado de rochas sedimentares ou ígneas básicas\nGnaisse é derivado de rocha granítica (granito)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-metamórficas-3",
+    "href": "aula_2/aula_2.html#rochas-metamórficas-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas metamórficas",
+    "text": "Rochas metamórficas\n\nMetamorfismo:\n\n\n\n\n\n\nArenito\n\n\n\n\n\n\n\nQuartzito"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-metamórficas-4",
+    "href": "aula_2/aula_2.html#rochas-metamórficas-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas metamórficas",
+    "text": "Rochas metamórficas\n\nMetamorfismo:\n\n\n\n\n\n\nGranito\n\n\n\n\n\n\n\nGnaisse"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#rochas-metamórficas-5",
+    "href": "aula_2/aula_2.html#rochas-metamórficas-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Rochas metamórficas",
+    "text": "Rochas metamórficas\n\nMetamorfismo:\n\n\n\n\n\n\nCalcário\n\n\n\n\n\n\n\nMármore"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-das-rochas-1",
+    "href": "aula_2/aula_2.html#ciclo-das-rochas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Ciclo das rochas",
+    "text": "Ciclo das rochas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-das-rochas-2",
+    "href": "aula_2/aula_2.html#ciclo-das-rochas-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Ciclo das rochas",
+    "text": "Ciclo das rochas\n\n\nFonte: https://ugc.berkeley.edu/background-content/rock-cycle/"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#proporção-de-rochas",
+    "href": "aula_2/aula_2.html#proporção-de-rochas",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Proporção de rochas",
+    "text": "Proporção de rochas\n\n\nAdaptado de Osman, K. T (2012)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#proporção-de-rochas-1",
+    "href": "aula_2/aula_2.html#proporção-de-rochas-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Proporção de rochas",
+    "text": "Proporção de rochas\n\n\n\nPercentuais estimados da crosta continental por grupo/origem rochosa\n\n\n\n\nAdaptado de Wilkison et al. (2009) por Hasterok, D. et al. (2018)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-1",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\n\nFonte: Alessandra Souza"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-2",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\n\nFonte: GeoSGB"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-3",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\n\nFonte: Rabel et al (2018)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-4",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\n\nFonte: Juchem et al. (2009)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-5",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\nParaná:\n\n\n\n\n\n\n\n\n\n\nFonte: Recursos do Paraná"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-6",
+    "href": "aula_2/aula_2.html#geologia-do-brasil-e-do-sul-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Geologia do Brasil e do Sul",
+    "text": "Geologia do Brasil e do Sul\n\nParaná:"
   },
   {
     "objectID": "aula_2/aula_2.html#minerais",
     "href": "aula_2/aula_2.html#minerais",
     "title": "Gênese e Classificação do Solo:",
     "section": "Minerais",
-    "text": "Minerais"
+    "text": "Minerais\n\n\nMinerais: Sólidos que possuem uma composição química característica ou composições variáveis dentro de certos limites. Cristalinos e não cristalinos (amorfos)"
   },
   {
     "objectID": "aula_2/aula_2.html#minerais-1",
@@ -229,5 +516,740 @@
     "title": "Gênese e Classificação do Solo:",
     "section": "Minerais",
     "text": "Minerais\n\nNão cristalinos (amorfos):\nSão os minerais que não possuem ordenação sistemática."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#composição-da-litosfera",
+    "href": "aula_2/aula_2.html#composição-da-litosfera",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Composição da litosfera",
+    "text": "Composição da litosfera\n\n\n\nDo que os minerais são compostos?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-1",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nHaletos:\n\nHalita: NaCl"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-2",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nSulfato:\n\nGipsita: CaSO4"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-3",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nCarbonatos:\n\nCalcita: CaCO3Outros exemplos: Dolomita (Ca.MgCO3)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-4",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nSulfeto:\n\n\n\n\n\nPirita: FeS2\n\n\n\nS reduzido (S2-)\nPirita: ouro de tolo\nOcorrência: Solos tiomórficos (S) Sedimentos marinhos Áreas de mineração de carvão\n\nOutros exemplos: Galena (PbS), Cinábrio (HgS), Esfalerita (ZnS)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-5",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nHaletos, sulfatos e carbonatos:\n\nEstruturas simples\nLigações iônicas\nFacilmente intemperizáveis"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-6",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nFosfato:\n\n\n\n\n\nApatita: Ca5(PO4)3(OH,F,Cl)\n\n\n\nEm geral, fosfatos de Ca\n\npequena ocorrência em solos\njazidas: reservas de fósforo\n“fosfatos naturais ou de rocha”"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-7",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nFosfato:\n\nCristalinos (apatitas): indústria de adubos de P\n\nEx.: fosfato de Araxá, Patos de Minas (MG)\n\nnão cristalinos (fosforitas): uso direto no solo\n\nEx.: fosfatos de Gafsa, Arad\n\n\n\nMineração no Brasil"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-11",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-11",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nÓxidos de ferro:\n\n\n\n\n\n\nHematita: Fe2O3\n\n\n\n\n\n\n\nGoethita: FeOOH"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-13",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-13",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nÓxidos de Al:\n\nGibbsita: Al(OH)3"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-não-silicatados-14",
+    "href": "aula_2/aula_2.html#minerais-não-silicatados-14",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais não silicatados",
+    "text": "Minerais não silicatados\n\nÓxidos Ti:\n\n\n\n\n\n\nRutilo: TiO2\n\n\n\n\n\n\n\nAnatásio"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-1",
+    "href": "aula_2/aula_2.html#minerais-silicatados-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nOs minerais mais comuns devem conter silício e oxigênio; a esse grupo de minerais chamamos de silicatos\n\nUnidade básica:"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-2",
+    "href": "aula_2/aula_2.html#minerais-silicatados-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nUnidade básica:\n\nSi = 0,042 nm\nO = 0,140 nm\n\nRelação Si/O = 0,042/0,140 = 0,30 → NC = 4"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-3",
+    "href": "aula_2/aula_2.html#minerais-silicatados-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nNesossilicatos:\n\n\nTetraedros independentes\n\n\n\n\n\n\n\n\nOlivina\n\n\n\n\n\n\n\n\n\nZircão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-4",
+    "href": "aula_2/aula_2.html#minerais-silicatados-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nSorossilicatos:\n\n\nTetraedros duplos\n\n\n\n\n\n\n\n\nMelilita\n\n\n\n\n\n\n\n\n\nEpidoto"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-5",
+    "href": "aula_2/aula_2.html#minerais-silicatados-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nCiclossilicatos:\n\n\nAnéis fechados\n\n\n\n\n\n\n\n\nBerilo\n\n\n\n\n\n\n\n\n\nTurmalina"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-6",
+    "href": "aula_2/aula_2.html#minerais-silicatados-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nInossilicatos:\n\n\nCadeias simples de tetraedros\nEx.: piroxênios\n\n\nCadeias duplas de tetraedros\nEx.: anfibólios"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-7",
+    "href": "aula_2/aula_2.html#minerais-silicatados-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nTectossilicatos:\n\n\nEmpilhamento tridimensional de tetraedros\nGrande resistência ao intemperismo\n\n\n\n\n\n\n\n\nQuartzo\n\n\n\n\n\n\n\n\n\nFeldspato"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-8",
+    "href": "aula_2/aula_2.html#minerais-silicatados-8",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nFilossilicatos (argilominerais) (aluminossilicatos):\nEmpilhamento de lâminas tetraedrais e octaedrais\n\n\nEx.: caulinita, vermiculita, micas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-9",
+    "href": "aula_2/aula_2.html#minerais-silicatados-9",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nFilossilicatos (argilominerais) (aluminossilicatos):\n\naspecto plano estratificado\nBiotita (K(Fe2+, Mg2+)3(Si3Al)O10(OH)2) : cor escura\nMuscovita (KAl2(Si3Al)O10(OH)2) : cor clara\n\nFontes de potássio"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#minerais-silicatados-10",
+    "href": "aula_2/aula_2.html#minerais-silicatados-10",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais silicatados",
+    "text": "Minerais silicatados\n\nFilossilicatos (argilominerais) (aluminossilicatos):\n\n\n\n\n\n\nBiotita\n\n\n\n\n\n\n\nMuscovita"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#identificação-de-minerais-1",
+    "href": "aula_2/aula_2.html#identificação-de-minerais-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Identificação de Minerais",
+    "text": "Identificação de Minerais"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#pedogênese",
+    "href": "aula_4/aula_4.html#pedogênese",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Pedogênese",
+    "text": "Pedogênese\n\n\nOs solos se desenvolvem ao longo do tempo, passando de um estado simples a complexo, até atingirem um estado “maduro” e estável em equilíbrio com o ambiente (sistemas dinâmicos).\n\n\nO caminho é sempre de um solo jovem para um solo maduro…"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-1",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-2",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOs fatores de formação do solo foram criados pelos estudos de V.V. Dokuchaev no final do século XIX e depois difundidos por Jenny (1941).\n\nNesse paradigma, o solo passa a ser compreendido como uma função de distintos fatores (variáveis) que, combinados, resultam no solo\n\n\n\\[solo = f(x)\\]\n\n\nRobert Record, que em 1557 introduziu pela primeira vez o símbolo “=” com significado de igualdade"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-3",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nEquação de Jenny (1941):\n\n\\[ S = f(c,o,r,m,t, ...) \\]\n\n\nNesse modelo, os fatores ambientais clima (\\(c\\)), relevo (\\(r\\)), organismos (\\(o\\)), material de origem (\\(m\\)), e alguns fatores subsidiários não especificados (\\(...\\)), interagindo ao longo do tempo (\\(t\\)), são as variáveis que condicionam a formação do solo (\\(S\\))."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-4",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-5",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nFatores passivos:\n\n\nMaterial de origem;\nTempo;\nRelevo;\n\n\n\nFatores ativos:\n\n\nClima;\nOrganismos."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-6",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\n\nÉ o estado inicial do sistema solo ou é o estado do sistema solo ao tempo zero de sua formação - Jenny, 1941\n\n\n\n\nÉ o material do qual o atual perfil de solo foi derivado e, por isso, só pode ser identificado por inferência - Young, 1976"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-7",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\nO material de origem é a matéria-prima para a formação do solo;\nA formação do solo inicia-se depois que o material de origem não consolidado é depositado ou exposto;\nAs propriedades químicas e físicas do material de origem influenciam a natureza do solo formado;"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-8",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-8",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\nRocha: Basalto, granito, arenito;\nMaterial não consolidado (sedimentos).\n\nSedimentos marinhos;\nFluviais;\nLacustres não consolidados;\nDunas."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-9",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-9",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\nAutóctones\n\nQuando o solo é formado a partir do material de origem subjacente ao mesmo;\n\nAlóctone\n\nQuando o solo é formado a partir de material de origem que não está subjacente ao mesmo."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-10",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-10",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\nFormado no local (residual da rocha);\nTransportado;\n\nGravidade;\nÁgua (rios, lagos, oceanos);\nGelo;\nVento;\n\nAcúmulo de resíduos vegetais."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-11",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-11",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\nFonte: Giasson, E. 2020"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-12",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-12",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\n\n\n\nTipo\nModo de transporte\nGrau de separação por tamanho\n\n\n\n\nAluvial\nrios\nAlto\n\n\nColuvial\ngravidade\nBaixo\n\n\nLacustre\nágua (lagos)\nAlto\n\n\nResidual\nnenhum\n-"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-13",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-13",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\nDeposições fluviais"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-14",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-14",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\nDeposições lacustres"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-15",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-15",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\nDeposições eólicas"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-16",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-16",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\nDeposições coluviais"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-17",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-17",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\nCaracterísticas que influenciam a gênese\n\nGrau de consolidação (“rocha solta”);\nGranulação ou textura;\ncomposição química e mineralógica."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-18",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-18",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n\n\n\n\n\n\n\n\nAtributos do solo\nBasalto\nArenito\n\n\n\n\nTextura\n+ argilosa\n+ arenosa\n\n\nFertilidade natural\n&gt; CTC\n&lt; CTC\n\n\nAdsorção de fósforo (P)\n&gt; adsorção de P\n&lt; adsorção de P\n\n\nRetenção de água\n&gt; retenção de H2O\n&lt; retenção de H2O\n\n\nÁrea superficial específica (ASE)\n&gt; ASE\n&lt; ASE\n\n\n\n\nRochas de textura fina tendem a formar solos de textura fina (argilosos)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-19",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-19",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nMaterial de origem:\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRocha\nCa\nK\nFe\nMineralogia da rocha\nArgila (g kg\\(^{-1}\\))\nFe (%)\nK (ppm)\nMineralogia do solo\n\n\n\n\nArenito PVA\n0,1\n0,5\n2,0\nQuartzo; feldspato\n20\n1\n2030\nKt, Qz, Gt, Hm\n\n\nGranito PVA\n1,6\n3,6\n3,0\nMica; feldspato-K; quartzo\n50\n3\n10750\nKt, Qz, Mi, Gt, Hm\n\n\nBasalto Nitosolo\n4,6\n1,2\n9,0\nPiroxênios; anfibólios; plagioclásios\n40\n14\n2100\nKt, Gt, Hm"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-20",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-20",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nClima:\n\nPrecipitação;\n\nÁgua disponível;\nDistribuição anual;\nEvapotranspiração;\nTopografia;\nPermeabilidade;\n\nTemperatura;\nVento."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-21",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-21",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nClima:\n\nA água é o principal agente do intemperismo das rochas e da transformação dos minerais;\nA disponibilidade de água determina a velocidade da maior parte dos processos de formação do solo;\nEfeitos:\n\nLixiviação de cátions (Ca, Mg, K, etc);\nAcúmulo de elementos (Fe, Al, Si, etc);\nFormação de argila em detrimento de areia;"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-22",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-22",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nClima:\n\nA temperatura na pedogênese é um efeito indireto;\n\nControla a quantidade de água disponível para o processo de formação;\n\nInterfere na atividade da biota;\nAltera a velocidade das reações (duplica a cada 10ºC);\nAdição ou perdas de matéria orgânica."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-23",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-23",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nClima:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-24",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-24",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nClima:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-25",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-25",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:\nCompreende a flora e a fauna desenvolvida no solo.\n\nOrganismos são capazes de adicionar caos ao sistema.\n\n\nPlantas, animais (homens, outros animais, macro-meso-microfauna do solo) desempenham um importante papel no desenvolvimento e composição do solo.\n\n\nEm um primeiro momento são os líquens e os musgos que povoam as rochas. Esses extraem elementos por contato direto (alteração lenta das rochas). Quando há um substrato mais desenvolvido, plantas podem colonizar também (absorção e liberação de nutrientes e exsudatos)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-26",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-26",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-27",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-27",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-28",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-28",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:\nMicrorganismos são responsáveis pela decomposição da matéria orgânica.\nJá a meso e a macrofauna são atuantes na mistura do solo e na construção de caminhos (poros)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-29",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-29",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:\n\nKuzyakov, Y. et al. 2018"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-30",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-30",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-31",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-31",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:\nHumanos são organismos que podem compactar, erodir e mudar a vegetação em grande escala de forma rápida."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-32",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-32",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nOrganismos:\nHumanos são organismos que podem compactar, erodir e mudar a vegetação em grande escala de forma rápida."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-33",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-33",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:\nO relevo está relacionado com a distribuição espacial dos solos.\n\nA interferência do relevo na formação do solo é muito diversa.\n\n\nEfeitos diretos e indiretos (clima e hidrologia)\n\nAltitude e temperatura (-6ºC a cada 1000 m);\nAcumulação de matéria orgânica;\nPosição do lençol freático;\nInfiltração de água;\nRelação solo-paisagem (direto)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-34",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-34",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:\nCaracterísticas do relevo que influem na formação do solo\n\nDeclividade;\nPosição na paisagem;\nForma do declive;\nAspecto (N, S, L, O);\nElevação."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-35",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-35",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-36",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-36",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-37",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-37",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:\n\nSebastian Doetterl et al. 2025"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-38",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-38",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-39",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-39",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nRelevo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-40",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-40",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nTempo:\nÉ o fator que define quanto as ações do clima e dos organismos atuaram sobre o material de origem.\n\nCronossequência\n\n\nÉ o único fator que “sempre vai ter ação”, independente do solo!"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-41",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-41",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nTempo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#fatores-de-formação-do-solo-42",
+    "href": "aula_4/aula_4.html#fatores-de-formação-do-solo-42",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Fatores de formação do solo",
+    "text": "Fatores de formação do solo\n\nTempo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-1",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos",
+    "text": "Processos pedogenéticos\n\nA interação entre os fatores de formação do solo (material de origem, clima, organismos, relevo e tempo) desencadeia processos que formam o solo. Esses são chamados processos pedogenéticos."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-gerais",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-gerais",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos (gerais)",
+    "text": "Processos pedogenéticos (gerais)\n\n\nAdição;\nRemoção;\nTransformação;\nTranslocação."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-gerais-1",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-gerais-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos (gerais)",
+    "text": "Processos pedogenéticos (gerais)\n\nAdição: Entrada de material orgânico ou mineral ao solo e de energia.\n\nEm superfície ou em profundidade;\nAção humana, eólica ou pelo fluxo de água.\n\n\nExemplos:\n\nMatéria orgânica (adubos orgânicos);\nÁgua;\nPartículas minerais;\n\nCalcário, Gesso, Cinza, Poeira;\n\nPesticidas e drogas;\nAscensão de sais por capilaridade."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-2",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos",
+    "text": "Processos pedogenéticos\n\nRemoção ou perdas: Materiais removidos do solo pela superfície, subsuperfície ou lateralmente.\n\nExemplos:\n\nPerda de partículas minerais ou solo (erosão);\nPerda de água por evapotranspiração;\nPerda de matéria orgânica;\nQueimadas;\nPerda de elementos por lixiviação."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-3",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos",
+    "text": "Processos pedogenéticos\n\nTransformação: Modificações químicas e físicas nos constituintes do solo (minerais e orgânicos).\n\nOcorre no local de formação do solo (in situ)\n\n\nDestruição dos minerais primários e da rocha (intemperismo);\nGênese dos minerais secundários;\nDecomposição da MO e síntese de ácidos orgânicos;\nAlteração granulométrica;\nTransformação de resíduos orgânicos em MO."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-4",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos",
+    "text": "Processos pedogenéticos\n\nTranslocação: Transferência de matéria e energia entre os horizontes e lateralmente no mesmo horizonte. Pode ser ocasionada por ação do homem ou da fauna do solo.\n\nEluviação de materiais entre horizontes (argila);\nMovimentação de água no solo (percolação ou ascensão);\nTransporte de materiais dentro do perfil;\n\nBioturbação (por minhocas, cupins, formigas e outros seres)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-gerais-2",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-gerais-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos (gerais)",
+    "text": "Processos pedogenéticos (gerais)\n\nResumo:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-1",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nLatolização ou Ferralitização:\nOcorre em regiões úmidas com elevada temperatura e precipitação (maior que a evapotranspiração).\n\nFormação de ácido carbônico que mantém o pH do solo acima de 5\n\n\nNessa condição o silício é mais solúvel que o Fe e o Al. Isso resulta na remoção do silício e acumulação de Fe e Al.\n\n\nO ferro (Fe2+) que é liberado dos minerais primários é oxidado e precipita em óxido de ferro, como goethita (FeOOH) e hematita (Fe2O3)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-2",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nLatolização ou Ferralitização:\nÉ um processo lento e ocorre em solos com vários materiais de origem. Envolve as reações de oxidação e dessilicação e os processos de remoção, translocação e transformação.\n\nTranslocação em Argissolos e Nitossolos e remoção em Latossolos\n\n\nCaracterísticas dos solos:\n\n\n\nSolos profundos;\nHomogêneos;\nBaixo gradiente textural;\n\n\n\nColoração uniforme;\nBaixa saturação de cátions."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-3",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nLatolização ou Ferralitização:\n\n\n\n\n\n\nLatossolo\n\n\n\n\n\n\n\nArgissolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-4",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPaludização:\nÉ o acúmulo e transformação de material orgânico em um ambiente redutor ou anaeróbico, onde a degradação da matéria orgânica é desfavorável.\n\nObservado em ambientes de baixa drenagem: restingas litorâneas ou em regiões onde o lençol freático é próximo à superfície. Também pode ser encontrada em locais de alta altitude, onde a degradação da matéria orgânica é reduzida devido à baixa temperatura.\n\n\nCaracterísticas dos solos:\n\nAcúmulo de material orgânico;\nCores escurecidas;"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-5",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPaludização:\n\n\n\n\n\n\nOrganossolo\n\n\n\n\n\n\n\nOrganossolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-6",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPodzolização:\nÉ a iluviação de material orgânico humificado e sesquióxidos de Fe e Al.\n\nGeralmente é observado em ambiente sob relevo plano com material de origem arenoso, formado por sedimentos quartzosos.\n\n\nA drenagem do ambiente é imperfeita e o clima é quente e úmido.\nIsso permite a lixiviação dos sais solúveis e a mobilização dos complexos organometálicos."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-7",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPodzolização:\nEspodossolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-8",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-8",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nGleização:\nProcesso de ambientes hidromórficos ou redoximórficos (saturação hídrica sazonal ou permanente).\n\nProcesso marcado pelas reações de redução-oxidação e por processos de perdas, transformações e translocações (mosqueados).\n\n\nAmbientes com predomínio de organismos anaeróbicos que decompõem a matéria orgânica e reduzem os metais (Fe3+, Mn3+ e Mn4+)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-9",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-9",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nGleização:\nReações de redução\n\n\\(0{,}5\\,O_2 + 2\\,H^+ + 2\\,e^- \\rightarrow H_2O\\)\n\\(NO_3^- + 6\\,H^+ + 5\\,e^- \\rightarrow 0{,}5\\,N_2 + 3\\,H_2O\\)\n\\(MnO_2 + 4\\,H^+ + 2\\,e^- \\rightarrow Mn^{2+} + H_2O\\)\n\\(Fe(OH)_3 + 3\\,H^+ + e^- \\rightarrow Fe^{2+} + 3\\,H_2O\\)\n\\(0{,}5\\,SO_4^{2-} + 5\\,H^+ + 4\\,e^- \\rightarrow\n0{,}5\\,H_2S + 0{,}5\\,H_2O\\)\n\\(0{,}5\\,CO_2 + 4\\,H^+ + 4\\,e^- \\rightarrow\n0{,}5\\,CH_4 + H_2O\\)"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-10",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-10",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nGleização:\nGleissolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-11",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-11",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nFerrólise:\nCaracterizado pela dissolução do ferro (em geral de óxidos) por meio de oxirredução, hidrólise, acidólise e dessilicação.\nDuas etapas\n\nEm ambientes de redução (sem oxigênio) o ferro é reduzido e desloca outros cátions (Ca e Mg) dos sítios de troca.\n\n\nApós a aeração, o Fe2+ é oxidado, hidrolisado e precipita na forma de óxido de ferro (Fe3+)."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-12",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-12",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nFerrólise:\n\n\n\n\n\n\nLuvissolo Crômico"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-13",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-13",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nMelanização:\nProcesso de escurecimento do solo.\n\nAdição de matéria orgânica e/ou húmus;\nTranslocação de matéria orgânica.\n\n\nPode ser observado em solos desenvolvidos de material de origem rico em carbonatos."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-14",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-14",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nMelanização:\n\n\n\n\n\n\nChernossolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-15",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-15",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nArgiluviação ou Lessivagem:\nÉ um processo de transferência (translocação) de coloides minerais (argilossilicatos e óxidos) dos horizontes superficiais A e/ou E para o horizonte B (gradiente textural).\n\nO horizonte que perde material é chamado de eluvial (A ou E).\n\nEluvial, pensar em exportação.\n\n\n\nJá o horizonte que ganha material é chamado de iluvial (Bt).\n\nIluvial, pensar em importação."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-16",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-16",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nArgiluviação ou Lessivagem:\n\n\n\n\n\n\nArgissolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-17",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-17",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPlintização e Laterização:\nÉ uma acumulação (translocação) de óxidos de ferro e da formação (transformação) de plintitas e petroplintitas (antiga “laterita”).\n\nA plintita é a mistura entre argila, quartzo e outros minerais, pobre em matéria orgânica e rica em ferro.\n\n\nOcorre por ciclos de umedecimento e de secagem do solo.\n\nQuando se consolida, torna-se petroplintita."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-18",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-18",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPlintização e Laterização:\n\n\nPlintita ocorre normalmente na forma de acúmulo de materiais de coloração vermelha, vermelho-amarelada e vermelho-escura.\nDifere de mosqueados por serem destacáveis da matriz do solo e por se manterem coesas após imersão em água."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-19",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-19",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPlintização e Laterização:\n\n\nJá a petroplintita é coesa e oferece resistência maior à quebra.\nPode ser encontrada na forma de lâminas, nódulos, esferas ou formas irregulares."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-20",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-20",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nPlintização e Laterização:\n\nPlintossolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-21",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-21",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nVertização:\nProcesso onde o solo é fisicamente revolvido por contração e expansão de argilas (argiloturbação, hidroturbação ou pedoturbação).\n\nÉ ocasionado pelo retrabalhamento das argilas expansivas do solo. Ciclos de umedecimento e de secagem promovem expansão e contração das argilas 2:1.\n\n\nFormação de feições morfológicas como o microrrelevo Gilgai e os slickensides."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-22",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-22",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nVertização:\n\n\n\n\n\n\nGilgai"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-23",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-23",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nVertização:"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-24",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-24",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nVertização:\n\n\n\n\n\n\nslickensides"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-25",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-25",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nVertização:\n\n\n\n\n\n\nVertissolo"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-26",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-26",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSulfidização e Sulfurização (Tiomorfismo):\nAcúmulo de sulfetos nos solos através de processos de translocação e transformação associados às reações de oxirredução, em que o principal produto formado é a pirita.\n\nOcorre em locais de baixa disponibilidade de oxigênio.\n\n\nBactérias utilizam outros elementos como receptores de elétrons na oxidação da matéria orgânica do solo, como sulfato e óxidos de ferro. Esses são reduzidos a sulfitos e Fe2+.\n\n\nFe2O3 + 4SO42- + 8CH2O + 1/2O2 = 2FeS2 + 8HCO3- + 4H2O"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-27",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-27",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSulfidização e Sulfurização (Tiomorfismo):\nA sulfurização é a oxidação de materiais sulfídricos, como a pirita.\n\nIsso eleva a concentração de Fe2+, SO42- e H+ na solução do solo.\n\n\nEm situações extremas (alta oxidação), Fe2+ passa para a forma de Fe3+, com liberação de H+ e formação de H2SO4, o que leva a uma acidificação extrema do solo."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-28",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-28",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSodificação e Solodização:\nA sodificação está relacionada com a saturação do complexo de troca do solo pelo íon Na+, devido ao uso de água de irrigação com altos teores de sódio e/ou devido à ocorrência natural em ambientes litorâneos ou áridos e semiáridos.\n\nEnquanto os sais solúveis estiverem presentes, o pH é mantido abaixo de 8,5 e o efeito floculante dos sais mantém a estrutura e a permeabilidade do solo.\n\n\nQuando há lixiviação e permanece apenas o Na+, o pH sobe para 8,5 a 10, promovendo a dispersão e a translocação de argila."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-29",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-29",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSodificação e Solodização:\nSolos com sodificação apresentam porcentagem de sódio trocável (PST) &gt;= 15% e condutividade elétrica &lt; 4,0 dS m-1.\n\nO processo de solodização está relacionado com o aumento da lixiviação de sódio, aumentando a dispersão e a migração das argilas (pode originar horizonte Bt).\n\n\nPST: entre 6 e 15%"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-30",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-30",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSalinização:\nProcesso em que ocorre a acumulação de sais por evaporação no horizonte superficial ou na superfície do solo.\n\nCombinação de fatores climáticos (precipitação e temperatura), edáficos (baixa lixiviação e presença de camadas impermeáveis) e de manejo do solo (irrigação com águas salinas ou excesso de agroquímicos).\n\n\nPode ser de origem natural, pelo intemperismo, principalmente em regiões litorâneas e costeiras.\n\n\nOu de origem artificial, devido ao manejo."
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-31",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-31",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSalinização:\nO excesso de sal no solo não é tóxico, mutagênico ou carcinogênico, mas afeta as propriedades químicas e físicas do solo.\n\nSubstituição de Ca por Na na CTC;\nDispersão das partículas;\nEstabilidade de agregados;\nPorosidade;\nDrenagem;"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-32",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-32",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos\n\nSalinização:\nNo Sistema Brasileiro de Classificação de Solos:\nsálico: CE &gt;= 7,0 dS m-1\nsalino: 4,0 &lt;= CE &lt; 7,0 dS m-1"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#processos-pedogenéticos-específicos-33",
+    "href": "aula_4/aula_4.html#processos-pedogenéticos-específicos-33",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Processos pedogenéticos específicos",
+    "text": "Processos pedogenéticos específicos"
   }
 ]
