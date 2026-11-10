@@ -1,0 +1,1304 @@
+---
+title: "Gênese e Classificação do Solo:"
+subtitle: Perfil e morfologia do solo
+format: clean-revealjs
+institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+author:
+  - name: Gustavo Frosi
+    # orcid: 0000-0000-0000-0000
+    email: gustavofrosi@hotmail.com
+    # affiliations: UFRGS
+filters:
+  - timeline
+  # - move-abs-elems
+title-slide-attributes:
+  data-background-image: ../fundo.png
+  data-background-size: 40%
+  data-background-opacity: "0.9"
+  data-background-position: right 3% top 52%
+logo: logo.png
+image: true
+date: "10-19-2026"
+date-format: long
+lang: pt-BR
+---
+
+# O que é um solo?
+<hr>
+
+## O que é um solo?
+<hr>
+
+> Corpo natural constituído de materiais minerais e orgânicos, organizados em camadas e/ou horizontes, resultantes da ação de fatores de formação, com destaque para a ação biológica e climática sobre um determinado material de origem (rocha, sedimentos etc.) e numa determinada condição de relevo, através do tempo. O solo contém matéria viva e pode ser vegetado em condições naturais e, eventualmente, ter sido modificado por forte ação antrópica.
+
+# Perfil do solo
+<hr>
+
+## Perfil do solo
+<hr>
+
+[__O que é um perfil?__]{.fg style="--col: #e64173"}
+
+::: {.fragment}
+
+No sentido físico e artístico...
+
+:::
+
+::: {.fragment}
+
+No sentido de redes...
+
+:::
+
+::: {.fragment}
+
+No sentido de trabalho...
+
+:::
+
+## Perfil do solo
+<hr>
+
+A face do solo que vai da superfície ao material de origem (rocha ou sedimentos), usada para fins de exame, descrição e coleta do solo, é chamada de **perfil**.
+
+
+::: {.fragment}
+
+![](imagens/crono.png){fig-align="center"}
+
+:::
+
+## Perfil do solo
+<hr>
+
+
+::: {.columns}
+
+::: {.column}
+
+É a seção vertical do solo através de todos os seus horizontes e camadas, estendendo-se para dentro do material de origem.
+
+:::
+
+::: {.column}
+
+![](imagens/perfil2.jpg){fig-align="center"}
+
+:::
+
+:::
+
+## Perfil do solo
+<hr>
+
+::: {.incremental}
+
+- Horizontes pedogênicos: seções do perfil do solo dotadas de propriedades geradas por processos pedogenéticos.
+
+- Camadas: seções do perfil do solo que possuem propriedades não resultantes ou pouco influenciadas pelos processos pedogenéticos.
+
+- Os horizontes principais podem ser divididos em subhorizontes:
+  - Ex: A1, A2, A3 etc. são subhorizontes do horizonte principal A.
+
+:::
+
+## Horizontes do solo
+<hr>
+
+Os horizontes mais próximos da superfície são resultantes da ação dos processos pedogenéticos.
+
+
+::: {.fragment}
+
+A nomenclatura dos horizontes é dada pelas letras H, O, A, E, B e C, em ordem da superfície em direção ao material de origem.
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__O__]{.fg style="--col: #e64173"}
+
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte ou camada superficial de cobertura, de constituição orgânica, sobreposto a alguns solos minerais, podendo estar ocasionalmente saturado com água.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_o.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__H__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte ou camada superficial de cobertura, de constituição orgânica, superficial ou não, composto de resíduos acumulados ou em acumulação sob condições de prolongada estagnação de água, salvo se artificialmente drenado.
+
+Composto por matéria orgânica em vários estádios de decomposição.
+
+Relacionado a solos orgânicos com condições de hidromorfismo.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_h.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__A__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte ou camada em sequência a um horizonte ou camada O ou H, de concentração de matéria orgânica decomposta ou de composição mineral.
+
+As características do horizonte A são tipicamente influenciadas pela matéria orgânica.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_a.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__E__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte mineral, cuja característica principal é a perda de argila, ferro, alumínio ou matéria orgânica, com consequente concentração residual de areia e silte constituídos de quartzo ou outros minerais resistentes.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_e.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__B__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte mineral formado sob um E, A ou O, bastante afetado por transformações pedogenéticas, em que pouco ou nada resta da estrutura original da rocha. Pode ser encontrado na superfície quando da ausência ou remoção de um E, A ou O por erosão.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_b.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__C__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Horizonte ou camada mineral de material inconsolidado sob o sólum, relativamente pouco afetado por processos pedogenéticos, similar ao material do qual o sólum pode ou não ter se formado.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_c.png){fig-align="center"}
+
+:::
+
+:::
+
+## Horizontes do solo
+<hr>
+
+[__R__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+Camada mineral de material consolidado (coeso) que, quando úmido, não pode ser cortado com uma pá, constituindo substrato rochoso contínuo ou praticamente contínuo.
+
+:::
+
+::: {.column}
+
+![](imagens/horizonte_r.jpg){fig-align="center"}
+
+:::
+
+:::
+
+# Descrição geral do perfil de solo
+<hr>
+
+## Descrição geral do perfil de solo
+<hr>
+
+O que deve conter uma descrição:
+
+::: {.incremental}
+
+- Data;
+- Classificação do solo (veremos adiante);
+- Localização: município, estado e coordenadas;
+- Situação: declividade e cobertura vegetal;
+- Unidade litoestratigráfica;
+- Cronologia;
+- Material originário;
+- Pedregosidade;
+- Rochosidade;
+- Relevo local;
+
+:::
+
+## Descrição geral do perfil de solo
+<hr>
+
+O que deve conter uma descrição:
+
+::: {.incremental}
+
+- Relevo regional;
+- Erosão;
+- Drenagem;
+- Vegetação primária;
+- Uso atual;
+- Clima;
+- Descrito e coletado por.
+
+:::
+
+
+## Descrição geral do perfil de solo - Exemplo
+<hr>
+
+::: {style="font-size:22px"}
+
+**Perfil: SC-PR (Exemplo para aula)**
+
+**Data:** 19/10/2026.
+
+**Classificação do solo:** Latossolo Vermelho distroférrico típico, textura muito argilosa, A moderado, fase floresta tropical subperenifólia, relevo suave ondulado.
+
+**Localização:** Município de Londrina, estado do Paraná, Brasil. Coordenadas geográficas fictícias: 23°20'00" S e 51°10'00" O.
+
+**Situação:** Perfil localizado no terço médio de uma vertente, com declividade de aproximadamente 5%, sob cultivo de soja em sistema de plantio direto.
+
+**Unidade litoestratigráfica:** Formação Serra Geral.
+
+**Cronologia:** Mesozoico, período Cretáceo.
+
+**Material originário:** Produtos da alteração de rochas basálticas.
+
+**Pedregosidade:** Ausente na superfície.
+
+:::
+
+## Descrição geral do perfil de solo - Exemplo
+<hr>
+
+::: {style="font-size:22px"}
+
+**Rochosidade:** Ausente na superfície.
+
+**Relevo local:** Suave ondulado.
+
+**Relevo regional:** Predominantemente suave ondulado a ondulado.
+
+**Erosão:** Laminar ligeira, sem ocorrência de sulcos expressivos.
+
+**Drenagem:** Bem drenado.
+
+**Vegetação primária:** Floresta Estacional Semidecidual, pertencente ao bioma Mata Atlântica.
+
+**Uso atual:** Agricultura mecanizada, com cultivo de soja no verão e milho na segunda safra, em sistema de plantio direto.
+
+**Clima:** Cfa — clima subtropical úmido, segundo a classificação de Köppen, com verões quentes e ausência de estação seca bem definida.
+
+**Descrito e coletado por:** Gustavo Frosi.
+
+:::
+
+# Descrição morfológica de um perfil de solo
+<hr>
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+O solo apresenta características externas e internas (morfológicas) próprias, que devem ser descritas com critério, uma vez que, a partir delas, se tem uma visão integrada do solo e de suas relações com a paisagem.
+
+
+::: {.fragment}
+
+Permitem inferências importantes sobre a formação e o comportamento do solo.
+
+::: {.incremental}
+
+- Capacidade de produzir de forma sustentada, adequação às práticas agrícolas, propensão à erosão, salinização, riscos de degradação etc.
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+O estudo da morfologia do solo refere-se à descrição de características detectadas pelos sentidos da visão e do tato.
+
+::: {.incremental}
+
+- Cor;
+- Textura;
+- Estrutura;
+- Porosidade;
+- Consistência;
+- Transição entre horizontes.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+As características morfológicas são descritas em cada horizonte ou camada, pois podem variar ao longo do perfil.
+
+
+::: {.fragment}
+
+São padronizadas e possuem metodologia própria.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Espessura do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+distância vertical entre o início e o final do horizonte.
+
+
+::: {.fragment}
+
+Ex: Um solo possui um horizonte O com 5 cm de espessura, um horizonte A com 50 cm de espessura e um horizonte B com 200 cm de espessura.
+
+:::
+
+
+::: {.fragment}
+
+[__Profundidade do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+distância vertical entre o início e o final de um horizonte e a superfície do horizonte A (superfície do solo).
+
+
+::: {.fragment}
+
+Ex: Um solo possui um horizonte O com profundidade de 0 a 5 cm, um horizonte A com profundidade de 0 a 50 cm e um horizonte B com profundidade de 50 a 125 cm.
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Transição do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+se refere à nitidez ou ao contraste de separação entre os horizontes ou camadas (facilidade de distinguir entre as camadas ou horizontes).
+
+
+::: {.columns}
+
+::: {.column}
+
+
+::: {.fragment}
+
+Pode ser por distinção:
+
+- Abrupta: < 2,5 cm;
+- Clara: 2,5 a 7,5 cm;
+- Gradual: 7,5 a 12 cm;
+- Difusa: > 12 cm.
+
+
+:::
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+
+Pode ser por topografia:
+
+- Horizontal;
+- Ondulada;
+- Irregular;
+- Descontínua.
+
+:::
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Transição do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+::: {layout-nrow=1}
+
+![](imagens/latossolo_vermelho.jpg){fig-align="center" width="350px"}
+
+![](imagens/latossolo_amarelo.jpg){fig-align="center" width="350px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Transição do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+::: {layout-nrow=1}
+
+![](imagens/plintossolo.jpg){fig-align="center" width="350px"}
+
+![](imagens/cambissolo.jpg){fig-align="center" width="350px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Transição do horizonte ou camada:__]{.fg style="--col: #e64173"}
+
+::: {layout-nrow=1}
+
+![](imagens/espodossolo.jpg){fig-align="center" width="350px"}
+
+![](imagens/espodossolo2.jpg){fig-align="center" width="350px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Horizontes transicionais miscigenados:__]{.fg style="--col: #e64173"}
+
+são horizontes nos quais as propriedades de dois horizontes principais se associam conjuntamente em fusão, evidenciando a coexistência de propriedades comuns a ambos, de tal modo que não há individualização de partes distintas de um e de outro.
+
+
+::: {.fragment}
+
+Ex: AB, BE, EB, BC
+
+:::
+
+
+::: {.fragment}
+
+[__Horizontes transicionais mesclados:__]{.fg style="--col: #e64173"}
+
+com visualização de partes distintas de um e de outro.
+
+
+::: {.fragment}
+
+Ex: A/B, B/C, E/B
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+::: {layout-nrow=1}
+
+![](imagens/horizonte_trans.jpg){fig-align="center" width="350px"}
+
+![](imagens/horizonte_trans2.jpg){fig-align="center" width="350px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+Horizontes podem conter características específicas. A designação destas se dá por meio de sufixos (letras minúsculas).
+
+::: {.fragment style="font-size:24px"}
+- a: propriedades ândicas
+- b: horizonte enterrado
+- c: concreções ou nódulos endurecidos
+- d: acentuada decomposição de material orgânico
+- e: escurecimento da parte externa dos agregados por matéria orgânica não associada a sesquióxidos
+- f: material plíntico e/ou bauxítico brando (laterita)
+- g: **glei**
+- h: acumulação iluvial de matéria orgânica
+- i: incipiente desenvolvimento de horizonte B
+- j: tiomorfismo
+- k: presença de carbonatos
+- m: extremamente cimentado
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+:::{style="font-size:24px"}
+
+
+- n: acumulação de sódio trocável
+- o: material orgânico mal ou não decomposto
+- p: aração ou outras pedoturbações
+- q: acumulação de sílica
+- r: rocha branda ou saprólito
+- s: acumulação iluvial de sesquióxidos com matéria orgânica
+- t: **acumulação de argila**
+- u: modificações ou acumulações antropogênicas
+- v: características vérticas
+- w: **intensa alteração com inexpressiva acumulação de argila, com ou sem concentração de sesquióxidos**
+- x: cimentação aparente, reversível
+- y: acumulação de sulfato de cálcio
+- z: acumulação de sais mais solúveis em água fria que sulfato de cálcio
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cor:__]{.fg style="--col: #e64173"}
+
+A cor é determinada com o auxílio da Carta de Munsell (Munsell Soil Color Charts), na qual serão identificados **matiz**, **valor** e **croma**.
+
+::: {.fragment}
+
+Importância:
+
+- Drenagem;
+- Composição mineralógica;
+- Concentrações de elementos;
+- Processos pedogenéticos.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cor:__]{.fg style="--col: #e64173"}
+
+::: {layout-nrow=1}
+
+![](imagens/caderneta_munsell.jpg){fig-align="center" width="450px"}
+
+![](imagens/caderneta_munsell2.png){fig-align="center" width="450px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+Três são as variáveis utilizadas para representar cores no sistema Munsell.
+
+
+::: {.fragment}
+
+![](imagens/munsell_cores.png){fig-align="center"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+
+::: {.columns}
+
+::: {.column}
+
+O primeiro conjunto de números e letras representa o **matiz (hue)**.
+
+O matiz representa a posição da cor no círculo de cores (Y = amarelo; R = vermelho; G = verde; B = azul; YR = amarelo-vermelho; RY = vermelho-amarelo).
+
+:::
+
+::: {.column}
+
+![](imagens/matiz.png){fig-align="center"}
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+O primeiro número após a barra é o **valor (value)**.
+
+O valor está relacionado a quão clara ou escura é uma cor. É um componente da cor que representa os tons de preto e de branco, ligado ao brilho da cor. No sistema de Munsell são utilizados números de 0 a 10.
+
+:::
+
+::: {.column}
+
+<br>
+<br>
+<br>
+
+![](imagens/munsell_valor.jpeg){fig-align="center"}
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+::: {.columns}
+
+::: {.column}
+
+O segundo número após a barra é o **croma (chroma)**.
+
+Este está relacionado à intensidade da cor (quão viva ela é).
+
+Ex: verde claro e verde escuro.
+
+:::
+
+::: {.column}
+
+![](imagens/croma.webp){fig-align="center"}
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+::: {layout-nrow=1}
+
+![](imagens/sistema_munsell2.png){fig-align="center" width="450px"}
+
+![](imagens/sistema_munsell3.png){fig-align="center" width="450px"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Sistema de cor de Munsell:__]{.fg style="--col: #e64173"}
+
+![](imagens/sistema_munsell.png){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cor:__]{.fg style="--col: #e64173"}
+
+A cor pode ser descrita com a amostra de solo úmida (mais usual), seca, seca triturada ou úmida amassada. Caso o horizonte apresente mosqueados (manchas de outra cor), deverão ser anotados a cor, a quantidade e o contraste desse mosqueado.
+
+<!-- 
+# Cor - curiosidade
+<hr>
+
+## Cor - curiosidade
+<hr>
+
+Qual a cor do quadrado?
+
+![](imagens/vermelhor.jpeg){fig-align="center"}
+
+## Cor - curiosidade
+<hr>
+
+Qual a cor do quadrado?
+
+![](imagens/verde.jpg){fig-align="center"}
+
+## Cor - curiosidade
+<hr>
+
+Adivinhando...
+
+![](imagens/azul.png){fig-align="center"}
+
+## Cor - curiosidade
+<hr>
+
+Como é possível que todos nós enxerguemos a mesma cor, projetada artificialmente por uma tela?
+
+
+::: {.fragment}
+
+Como é possível simular essa cor de forma artificial, mas da mesma forma como a observamos na natureza?
+
+:::
+
+
+::: {.fragment}
+
+Em 1931, a Comissão Internacional de Iluminação (CIE) publicou os espaços de cor CIE 1931, que definem a relação entre o espectro visível e a visão humana das cores.
+
+:::
+
+## Cor - curiosidade
+<hr>
+
+![](imagens/cores_cie.png){fig-align="center" width="450px"}
+
+## Cor - curiosidade
+<hr>
+
+> Em princípio, qualquer sensação de cor humana pode ser descrita por um conjunto de valores triestímulo.
+
+::: {layout-nrow=1}
+
+![](imagens/cones.svg){fig-align="center" width="450px"}
+
+![](imagens/funcoes.svg)
+
+::: -->
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+Corresponde à proporção relativa das frações granulométricas do solo.
+
+::: {.fragment}
+
+Pelo tato, com a amostra de solo molhada.
+
+Procedimento: pegue uma amostra de solo do tamanho de um ovo pequeno e adicione água suficiente para umedecê-la.
+
+- Amasse a amostra até que a umidade seja uniforme.
+
+- Aperte a amostra entre os dedos e estime a composição granulométrica.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+![](imagens/tipo_mineral_granulometria.png){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+![](imagens/triangulo.jpg){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+![](imagens/triangle_textural.jpeg){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+
+::: {.columns}
+
+::: {.column style="font-size:24px"}
+
+Avalie primeiro o teor de argila: se a amostra é muito pegajosa, firme e plástica, e é possível formar um cilindro de 4 a 5 cm, classifique como **muito argilosa**.
+
+Se o solo é parecido com argila, porém se sente ligeiramente pegajoso e é mais fácil de amassar, classifique como **franco-argiloso**.
+
+Se o solo parece suave, uniforme e fácil de espremer (muito diferente de uma argila), classifique como **franca**.
+
+:::
+
+::: {.column}
+
+
+![](imagens/triangulo_sibcs.png){fig-align="center"}
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Textura:__]{.fg style="--col: #e64173"}
+
+
+::: {.columns}
+
+::: {.column style="font-size:24px"}
+
+A seguir, analise a quantidade de areia.
+
+Se o solo é áspero, adicione a palavra **arenoso** à sua classificação original.
+
+Se o solo parece mais suave, sem a aspereza da areia, adicione a palavra **silte** ou **siltoso** à sua classificação.
+
+Se não houver muita aspereza nem suavidade, mesmo que se perceba areia na amostra, mantenha o nome original.
+
+:::
+
+::: {.column}
+
+
+![](imagens/triangulo_sibcs.png){fig-align="center"}
+
+:::
+
+:::
+
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Estrutura:__]{.fg style="--col: #e64173"}
+
+A estrutura é a agregação das partículas primárias do solo em unidades estruturais compostas, separadas entre si por superfícies de fraqueza.
+
+
+::: {.incremental}
+
+- É avaliada quanto a:
+  - tipo (laminar, prismática, blocos angulares, blocos subangulares e granular);
+  - classe (muito pequena, pequena, média, grande, muito grande);
+  - grau de estrutura (sem estrutura: grãos simples; sem estrutura: maciça; com estrutura fraca, moderada ou forte).
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Estrutura:__]{.fg style="--col: #e64173"}
+
+Quanto ao tipo
+
+![](imagens/tipos_agregados.jpg){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Porosidade:__]{.fg style="--col: #e64173"}
+
+Refere-se ao volume do solo ocupado por água e/ou ar.
+
+
+::: {.fragment}
+
+Avaliada *in situ* e descrita quanto ao tamanho e à quantidade dos poros.
+
+:::
+
+::: {.fragment style="font-size:24px"}
+
+**Quanto ao tamanho:**
+
+- Sem poros visíveis: quando não apresentar poros visíveis, mesmo com lupa de aumento de 10x;
+- Muito pequenos: poros inferiores a 1 mm de diâmetro;
+- Pequenos: maior ou igual a 1 mm e menor que 2 mm de diâmetro;
+- Médios: maior ou igual a 2 mm e menor que 5 mm de diâmetro;
+- Grandes: maior ou igual a 5 mm e menor que 10 mm de diâmetro;
+- Muito grandes: igual ou superior a 10 mm de diâmetro.
+
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Porosidade:__]{.fg style="--col: #e64173"}
+
+::: {.fragment}
+
+**Quanto à quantidade:**
+
+- Poucos poros: 1 por unidade de área;
+- Poros comuns: maior que 1 e menor ou igual a 5 por unidade de área;
+- Muitos poros: maior que 5 por unidade de área.
+
+:::
+
+
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cerosidade:__]{.fg style="--col: #e64173"}
+
+Aspecto "brilhante" ou "lustro" observado pelo revestimento dos agregados por material inorgânico (geralmente argila).
+
+::: {.fragment layout-nrow=1}
+
+![](imagens/cerosidade.jpg){fig-align="center"}
+
+![](imagens/cerosidade2.jpg){fig-align="center"}
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cerosidade:__]{.fg style="--col: #e64173"}
+
+Avaliada quanto à quantidade e ao grau de desenvolvimento.
+
+
+
+::: {.columns}
+
+::: {.column}
+
+::: {.fragment}
+
+**Quantidade:**
+
+- Pouco;
+- Comum;
+- Abundante.
+
+:::
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+
+**Grau de desenvolvimento:**
+
+- Fraca;
+- Moderada;
+- Forte.
+
+:::
+
+:::
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Superfícies de compressão e de fricção:__]{.fg style="--col: #e64173"}
+
+São superfícies alisadas, virtualmente sem estriamento.
+
+- Oriundas da compressão na massa do solo ou do material de origem (expansão e contração).
+
+
+::: {.fragment layout-nrow=1}
+
+![](imagens/slickensides.jpg){fig-align="center" width="300px"}
+
+![](imagens/slickensides2.jpg){fig-align="center" width="400px"}
+
+:::
+
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+Designa as manifestações das forças físicas de coesão entre partículas do solo e de adesão entre partículas do solo com outros materiais.
+
+
+::: {.fragment}
+
+Descrita em três estados de umidade padronizados: seco, úmido e molhado.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment .incremental style="font-size:26px"}
+
+**Seco:**
+
+- Solta: não coerente entre o polegar e o indicador;
+- Macia: a massa do solo é fracamente coerente e frágil; quebra-se em material pulverizado ou grãos individuais sob pressão muito leve;
+- Ligeiramente dura: fracamente resistente à pressão; facilmente quebrável entre o polegar e o indicador;
+- Dura: moderadamente resistente à pressão; pode ser quebrada nas mãos sem dificuldade, mas é dificilmente quebrada entre o indicador e o polegar;
+- Muito dura: muito resistente à pressão; somente com dificuldade pode ser quebrada nas mãos; não quebrável entre o indicador e o polegar;
+- Extremamente dura: extremamente resistente à pressão; não pode ser quebrada com as mãos.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment .incremental style="font-size:26px"}
+
+**Úmido:**
+
+- Solta: não coerente;
+- Muito friável: o material do solo esboroa-se com pressão muito leve, mas agrega-se por compressão posterior;
+- Friável: o material do solo esboroa-se facilmente sob pressão fraca e moderada entre o polegar e o indicador e agrega-se por compressão posterior;
+- Firme: o material do solo esboroa-se sob pressão moderada entre o indicador e o polegar, mas apresenta resistência distintamente perceptível;
+- Muito firme: o material do solo esboroa-se sob forte pressão; dificilmente esmagável entre o indicador e o polegar;
+- Extremamente firme: o material do solo somente se esboroa sob pressão muito forte, não pode ser esmagado entre o indicador e o polegar e deve ser fragmentado pedaço por pedaço.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment .incremental style="font-size:26px"}
+
+**Molhado:** Plasticidade
+
+- Não plástica: não se forma um cilindro ao rolar a amostra entre as mãos;
+- Ligeiramente plástica: forma-se um cilindro, que se quebra facilmente ao ser curvado para formar o círculo, e é facilmente deformado;
+- Plástica: forma-se um cilindro, que se quebra em mais de uma seção ao ser curvado para formar o círculo, sendo necessária pressão moderada para deformação;
+- Muito plástica: forma-se um cilindro, que não se quebra ao ser curvado para formar o círculo, sendo necessária pressão moderada a forte para deformá-lo.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+**Molhado:** Plasticidade
+
+![](imagens/plasticidade.png){fig-align="center"}
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment .incremental style="font-size:26px"}
+
+**Molhado:** Pegajosidade
+
+- Não pegajosa: após cessar a pressão, não se verifica, praticamente, nenhuma aderência da massa ao polegar e ao indicador;
+- Ligeiramente pegajosa: após cessar a pressão, o material adere a ambos os dedos, mas desprende-se de um deles perfeitamente; não há esticamento ou alongamento quando os dedos são afastados;
+- Pegajosa: após cessar a compressão, o material adere a ambos os dedos e, quando estes são afastados, tende a alongar-se um pouco e romper-se, em vez de desprender-se de qualquer um dos dedos;
+- Muito pegajosa: após a compressão, o material adere fortemente a ambos os dedos e alonga-se perceptivelmente quando eles são afastados.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Consistência:__]{.fg style="--col: #e64173"}
+
+**Molhado:** Pegajosidade
+
+![](imagens/pegajosidade.png){fig-align="center"}
+
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cimentação:__]{.fg style="--col: #e64173"}
+
+Diz respeito à consistência quebradiça e dura do material do solo, determinada por qualquer agente cimentante, exceto argilominerais, e que pode ser: carbonato de cálcio, sílica, manganês, óxidos de ferro e/ou alumínio.
+
+
+::: {.fragment}
+
+Não se altera com o umedecimento, persistindo a sua dureza quando molhado.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Cimentação:__]{.fg style="--col: #e64173"}
+
+::: {.fragment}
+
+**Classificação:**
+
+- Fracamente cimentado: a massa cimentada é quebradiça, tenaz ou dura, mas pode ser quebrada nas mãos;
+- Fortemente cimentado: a massa cimentada é quebradiça e mais dura para ser quebrada nas mãos, porém pode ser quebrada facilmente com o martelo pedológico;
+- Extremamente cimentado: a massa cimentada é quebradiça, não enfraquece sob prolongado umedecimento e é tão dura que, para quebrá-la, é necessário um forte golpe com o martelo pedológico.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Nódulos e concreções minerais:__]{.fg style="--col: #e64173"}
+
+Corpos cimentados que podem ser removidos intactos da matriz do solo.
+
+::: {.fragment}
+
+Avaliados quanto à quantidade, ao tamanho, à dureza, à cor e à natureza dos nódulos e concreções.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Nódulos e concreções minerais:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment}
+
+**Quantidade:**
+
+- Muito pouco: menos de 5% do volume;
+- Pouco: maior ou igual a 5% e menor que 15% do volume;
+- Frequente: maior ou igual a 15% e menor que 40% do volume;
+- Muito frequente: maior ou igual a 40% e menor que 80% do volume;
+- Dominante: maior ou igual a 80% do volume.
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Nódulos e concreções minerais:__]{.fg style="--col: #e64173"}
+
+
+::: {.fragment}
+
+**Tamanho:**
+
+- Pequeno: menor que 1 cm de diâmetro (maior dimensão);
+- Grande: maior ou igual a 1 cm de diâmetro (maior dimensão).
+
+:::
+
+
+::: {.fragment}
+
+**Dureza:**
+
+- Macio: pode ser quebrado entre o polegar e o indicador;
+- Duro: não pode ser quebrado entre os dedos.
+
+:::
+
+
+::: {.fragment style="font-size:24px"}
+
+**Forma:** esférica, irregular ou angular; **Cor:** preta, vermelha, branca etc.; e **Natureza:** tipo (petroplintita ou plintita), nódulos ferromanganesianos, gibbsíticos, carbonáticos etc.
+
+:::
+
+
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Presença de minerais magnéticos:__]{.fg style="--col: #e64173"} Verificada por ímã de bolso quanto à presença e à quantidade de grãos que são atraídos pelo ímã.
+
+
+::: {.fragment}
+
+[__Presença de carbonatos:__]{.fg style="--col: #e64173"} Verificada pela efervescência do material com HCl 10%, avaliando-se a intensidade da efervescência.
+
+
+:::
+
+
+::: {.fragment}
+
+[__Presença de manganês:__]{.fg style="--col: #e64173"} Presença de torrões com coloração preta, não orgânicos e que efervescem com H~2~O~2~.
+
+:::
+
+
+::: {.fragment}
+
+[__Presença de sulfetos:__]{.fg style="--col: #e64173"} Comum em áreas de drenagem restrita, com águas salinas ou salobras (manguezais, marismas e outros).
+
+
+:::
+
+## Descrição morfológica de um perfil de solo
+<hr>
+
+[__Eflorescências:__]{.fg style="--col: #e64173"} Ocorrência de sais cristalinos sob forma de revestimentos, crostas e manchas.
+
+
+::: {.fragment}
+
+[__Coesão:__]{.fg style="--col: #e64173"} Avaliada em condição de solo seco, ao separar os horizontes ou retirar as amostras. Pode ser moderadamente coeso ou fortemente coeso.
+
+
+:::
+
+
+# Fim!
+<hr>

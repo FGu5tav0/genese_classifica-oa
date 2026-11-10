@@ -1,5 +1,271 @@
 [
   {
+    "objectID": "aula_7/aula_7.html#classificação-taxonômica-do-solo-1",
+    "href": "aula_7/aula_7.html#classificação-taxonômica-do-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Classificação taxonômica do solo",
+    "text": "Classificação taxonômica do solo\n\n\nAtributos diagnósticos;\nHorizontes diagnósticos;\nOrdens de solos."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#classificação-taxonômica-do-solo-2",
+    "href": "aula_7/aula_7.html#classificação-taxonômica-do-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Classificação taxonômica do solo",
+    "text": "Classificação taxonômica do solo"
+  },
+  {
+    "objectID": "aula_7/aula_7.html#iniciando-os-trabalhos",
+    "href": "aula_7/aula_7.html#iniciando-os-trabalhos",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Iniciando os trabalhos",
+    "text": "Iniciando os trabalhos\n\nPerfil do solo:\nvolume tridimensional, menor unidade representativa das características do solo e sua variação.\n\nProfundidade de até 200 cm; 300 cm em caso de grande espessura do horizonte A; 400 cm em caso de grande espessura de horizontes A+E.\n\n\nDescrição morfológica completa do perfil do solo;\nColeta de amostras;\nAnálise e interpretação de atributos físicos, químicos e mineralógicos;\nClassificação: utilização de atributos e horizontes diagnósticos."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#materiais-de-consulta",
+    "href": "aula_7/aula_7.html#materiais-de-consulta",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Materiais de consulta",
+    "text": "Materiais de consulta"
+  },
+  {
+    "objectID": "aula_7/aula_7.html#análises-químicas-e-físicas",
+    "href": "aula_7/aula_7.html#análises-químicas-e-físicas",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Análises químicas e físicas",
+    "text": "Análises químicas e físicas\n\nFísica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerfil\nHz.\nCalhaus\nCascalho\nTerra fina\nAreia grossa\nAreia fina\nSilte\nArgila\nArgila natural\nGF\nSilte/Argila\n\n\n\n\n\n\ng kg-1\ng kg-1\ng kg-1\ng kg-1\ng kg-1\ng kg-1\ng kg-1\n%\n%\n\n\n\nP1\nAp\n0\n0\n1000\n250\n513\n130\n107\n27\n75\n1,21\n\n\n\nA\n0\n0\n1000\n194\n533\n135\n140\n34\n76\n0,96\n\n\n\nCr1\n603\n306\n91\n163\n542\n134\n161\n35\n78\n0,83\n\n\n\nCr2\n930\n60\n10\n-\n-\n-\n-\n-\n-\n-\n\n\n\nRCr\n940\n50\n10\n-\n-\n-\n-\n-\n-\n-\n\n\n\n\nQuímica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerfil\nHz.\npH H2O\npH KCl\n∆pH\nCa\nMg\nNa\nK\nAl\nH+Al\nCTC\nV (%)\nm (%)\nCorg (g kg-1)\n\n\n\n\nP1\nAp\n4,60\n3,15\n-1,46\n1,44\n0,20\n0,27\n0,25\n3,22\n13,69\n15,85\n13,6\n59,85\n11,0\n\n\n\nA\n4,40\n2,94\n-1,46\n2,49\n0,02\n0,16\n0,14\n4,24\n17,71\n20,52\n13,7\n60,05\n9,2\n\n\n\nCr1\n4,35\n2,95\n-1,40\n4,24\n0,14\n0,18\n0,15\n6,02\n22,62\n27,33\n17,2\n56,10\n10,6\n\n\n\nCa, Mg, Na, K, Al, H+Al e CTC em cmolc kg-1."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#material-orgânico",
+    "href": "aula_7/aula_7.html#material-orgânico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Material orgânico",
+    "text": "Material orgânico\n\n\n\nConstituintes orgânicos impõem preponderância de suas propriedades sobre os constituintes minerais.\nO material do solo será considerado como orgânico quando, na TFSA:\n\nteor de C ≥ 80 g kg-1"
+  },
+  {
+    "objectID": "aula_7/aula_7.html#material-mineral",
+    "href": "aula_7/aula_7.html#material-mineral",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Material mineral",
+    "text": "Material mineral\n\nFormado, predominantemente, por compostos inorgânicos, em variáveis estágios de intemperismo.\nO material do solo é considerado mineral quando não satisfizer os requisitos exigidos para material orgânico."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#atividade-da-fração-argila",
+    "href": "aula_7/aula_7.html#atividade-da-fração-argila",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Atividade da fração argila",
+    "text": "Atividade da fração argila\n\nRefere-se à capacidade de troca de cátions (CTC) da fração argila:\n\\[\nT_{argila} = \\frac{CTC}{g\\ kg^{-1}\\ argila} \\times 1000\n\\]\n\nAtividade alta (Ta): &gt; 27 cmolc kg-1 de argila;\nAtividade baixa (Tb): &lt; 27 cmolc kg-1 de argila.\n\n\n\nCaracterística avaliada no horizonte B ou no C, quando não existe o B."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#saturação-por-bases-valor-v",
+    "href": "aula_7/aula_7.html#saturação-por-bases-valor-v",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Saturação por bases (valor V%)",
+    "text": "Saturação por bases (valor V%)\n\nRefere-se à proporção (%) de cátions básicos trocáveis em relação à CTC.\n\\[\nV\\% = \\frac{S}{CTC} \\times 100\n\\]\n\nBaixa saturação (distróficos): quando V &lt; 50%;\nAlta saturação (eutróficos): quando V ≥ 50%.\n\n\n\nCaracterística avaliada no horizonte B ou no C, quando não existe o B."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-alumínico",
+    "href": "aula_7/aula_7.html#caráter-alumínico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter alumínico",
+    "text": "Caráter alumínico\n\nCondição em que os materiais do solo se encontram em estado não saturado e com:\n\nTeor de Al3+ extraível ≥ 4 cmolc kg-1 de solo;\nSaturação com Al ≥ 50% e/ou saturação por bases &lt; 50%;\nAssociação com atividade de argila &lt; 20 cmolc kg-1.\n\n\n\nCaracterística avaliada no horizonte B."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-alítico",
+    "href": "aula_7/aula_7.html#caráter-alítico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter alítico",
+    "text": "Caráter alítico\n\nCondição em que os materiais do solo se encontram em estado não saturado e com:\n\nTeor de Al3+ extraível ≥ 4 cmolc kg-1 de solo;\nSaturação com Al ≥ 50% e/ou saturação por bases &lt; 50%;\nAssociação com atividade de argila ≥ 20 cmolc kg-1.\n\n\n\nCaracterística avaliada no horizonte B."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-ácrico",
+    "href": "aula_7/aula_7.html#caráter-ácrico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter ácrico",
+    "text": "Caráter ácrico\n\nCondição em que os materiais do solo contêm:\n\nAl3+ extraível + bases trocáveis menor ou igual a 1,5 cmolc kg-1 de argila; e\n\npH em KCl ≥ 5,0; ou\n∆pH (pHKCl – pHH2O) positivo ou nulo."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-sódico-ou-solódico",
+    "href": "aula_7/aula_7.html#caráter-sódico-ou-solódico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter sódico ou solódico",
+    "text": "Caráter sódico ou solódico\n\nQuando horizontes ou camadas, na seção controle, apresentam saturação por Na+.\n\\[\n\\%Na = \\frac{Na}{CTC_{pH7}} \\times 100\n\\]\n\nSódico: %Na ≥ 15%;\nSolódico: %Na entre 6% e &lt; 15%."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-salino-e-sálico",
+    "href": "aula_7/aula_7.html#caráter-salino-e-sálico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter salino e sálico",
+    "text": "Caráter salino e sálico\n\n\n\nPresença de sais em quantidades que interferem no desenvolvimento da maioria das culturas (salino) ou em quantidades tóxicas para a maioria das culturas (sálico).\n\nSalino: CE ≥ 4 dS m-1 e &lt; 7 dS m-1 (a 25 ºC) em alguma época do ano;\nSálico: CE ≥ 7 dS m-1 (a 25 ºC) em alguma época do ano."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-carbonático-e-caráter-com-carbonato",
+    "href": "aula_7/aula_7.html#caráter-carbonático-e-caráter-com-carbonato",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter carbonático e caráter com carbonato",
+    "text": "Caráter carbonático e caráter com carbonato\n\n\n\nCaráter carbonático\nPresença de 150 g kg-1 ou mais de CaCO3 sob qualquer forma de segregação.\n\nCaráter com carbonato\nPresença de CaCO3 superior a 50 g kg-1 e inferior a 150 g kg-1."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#mudança-textural-abrupta",
+    "href": "aula_7/aula_7.html#mudança-textural-abrupta",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Mudança textural abrupta",
+    "text": "Mudança textural abrupta"
+  },
+  {
+    "objectID": "aula_7/aula_7.html#mudança-textural-abrupta-1",
+    "href": "aula_7/aula_7.html#mudança-textural-abrupta-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Mudança textural abrupta",
+    "text": "Mudança textural abrupta\n\nConsiderável aumento no conteúdo de argila em pequena distância na zona de transição entre o horizonte A ou E e o horizonte subjacente B.\n\nQuando o A ou E tem menos de 200 g kg-1 de argila, o conteúdo de argila no B deve dobrar numa distância menor que 7,5 cm (Ex.: A = 150 e B = 300);\nQuando o A ou E tem 200 g kg-1 ou mais de argila, o conteúdo de argila no B deve ser pelo menos 200 g kg-1 a mais numa distância de 7,5 cm (Ex.: A = 25% e B = 45%)."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-flúvico",
+    "href": "aula_7/aula_7.html#caráter-flúvico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter flúvico",
+    "text": "Caráter flúvico\n\nAtributos de solo com forte influência de camadas de deposição, apresentando valores de teor de carbono variáveis em profundidade e/ou presença de camadas interestratificadas em 25% ou mais do volume do solo."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#plintita-e-petroplintita",
+    "href": "aula_7/aula_7.html#plintita-e-petroplintita",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Plintita e petroplintita",
+    "text": "Plintita e petroplintita\n\nPlintita\nMistura de argila, pobre em carbono orgânico e rica em Fe, ou Fe e Al, com quartzo e outros materiais."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#plintita-e-petroplintita-1",
+    "href": "aula_7/aula_7.html#plintita-e-petroplintita-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Plintita e petroplintita",
+    "text": "Plintita e petroplintita\n\nPetroplintita\nMaterial concrecionário duro, proveniente da plintita, que, sob o efeito de ciclos alternados de umedecimento e secagem, sofre consolidação irreversível."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-litoplíntico",
+    "href": "aula_7/aula_7.html#caráter-litoplíntico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter litoplíntico",
+    "text": "Caráter litoplíntico\n\nHorizonte constituído de 50% ou mais, por volume, de petroplintita de forma contínua e consolidada.\nTem espessura insuficiente para caracterizar horizonte litoplíntico."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-argilúvico",
+    "href": "aula_7/aula_7.html#caráter-argilúvico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter argilúvico",
+    "text": "Caráter argilúvico\n\n\nRelação textural B/A maior ou igual a 1,4; e/ou\nOcorre presença de cerosidade no horizonte B, ou E sobrejacente ao B."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#cerosidade",
+    "href": "aula_7/aula_7.html#cerosidade",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Cerosidade",
+    "text": "Cerosidade\n\nPelículas muito finas de material inorgânico (&lt; 0,002 mm) de diversas naturezas, constituindo revestimentos ou superfícies brilhantes nas faces dos agregados estruturais, poros ou canais, resultantes da movimentação e deposição de material coloidal."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#superfície-de-fricção-ou-slickenside",
+    "href": "aula_7/aula_7.html#superfície-de-fricção-ou-slickenside",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Superfície de fricção ou slickenside",
+    "text": "Superfície de fricção ou slickenside\n\n\n\nAgregados estruturais grandes, com superfície lisa e lustrosa, com estrias, produzida pelo atrito da massa do solo causada pela sua movimentação.\nFeição tipicamente encontrada em solos com predomínio de argilominerais 2:1, notadamente esmectitas.\n\nDefine o caráter vértico."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-plânico",
+    "href": "aula_7/aula_7.html#caráter-plânico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter plânico",
+    "text": "Caráter plânico\n\nSolos com horizonte adensado, em relação ao superficial, com permeabilidade lenta e cores pouco cromáticas, associadas ou não a mosqueados.\nNão satisfaz requisitos para horizonte plânico."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-coeso",
+    "href": "aula_7/aula_7.html#caráter-coeso",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter coeso",
+    "text": "Caráter coeso\n\nExpressão de consistência dura a extremamente dura (seco), passando a friável a firme (úmido), com ocorrência em transição entre horizontes A e B (30 a 70 cm de espessura)."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#contato-lítico",
+    "href": "aula_7/aula_7.html#contato-lítico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Contato lítico",
+    "text": "Contato lítico\n\n\n\nMaterial subjacente ao solo que não pode ou é muito difícil de ser escavado com pá reta.\nPode ser representado por uma rocha sã ou rochas muito fracamente alteradas (R), ou por rochas fraca a moderadamente alteradas (RCr, CrR)."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#contato-lítico-fragmentário",
+    "href": "aula_7/aula_7.html#contato-lítico-fragmentário",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Contato lítico fragmentário",
+    "text": "Contato lítico fragmentário\n\n\n\nTipo de contato lítico em que o material endurecido subjacente ao solo encontra-se fragmentado, usualmente em função de fraturas naturais, possibilitando penetração de raízes e a livre circulação da água."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#materiais-sulfídricos",
+    "href": "aula_7/aula_7.html#materiais-sulfídricos",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Materiais sulfídricos",
+    "text": "Materiais sulfídricos\n\nContêm compostos de enxofre oxidáveis em solos minerais ou orgânicos, localizados em áreas encharcadas ou materiais litológicos, com valor de pH maior do que 3,5.\nAmostra de camada de 1 cm de espessura, quando incubada em condições aeróbicas, à temperatura ambiente e com umidade na capacidade de campo, em oito semanas mostra redução no pH de mais de 0,5 unidades."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#teor-de-óxidos-de-ferro-cores-do-solo",
+    "href": "aula_7/aula_7.html#teor-de-óxidos-de-ferro-cores-do-solo",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Teor de óxidos de ferro (cores do solo)",
+    "text": "Teor de óxidos de ferro (cores do solo)\n\nO emprego do teor de óxidos de ferro (Fe2O3 do ataque sulfúrico) permite separar:\n\n\nSolos hipoférricos: baixo teor de óxidos de Fe (&lt; 80 g kg-1 de solo);\nSolos mesoférricos: médio teor de óxidos de Fe (80 a &lt; 180 g kg-1 de solo);\nSolos férricos: alto teor de óxidos de Fe (180 a &lt; 360 g kg-1 de solo) (também aplicado para Nitossolos com teor de óxidos de Fe ≥ 150 g kg-1 de solo e &lt; 360 g kg-1 de solo);\nSolos perférricos: muito alto teor de óxidos de Fe (≥ 360 g kg-1 de solo)."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-epiáquico",
+    "href": "aula_7/aula_7.html#caráter-epiáquico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter epiáquico",
+    "text": "Caráter epiáquico\n\nOcorre em solos que apresentam lençol freático superficial temporário, resultante de baixa condutividade hidráulica em horizontes inferiores, promovendo saturação temporária de água e processos de redução e segregação de ferro nos horizontes mais superficiais."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-crômico",
+    "href": "aula_7/aula_7.html#caráter-crômico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter crômico",
+    "text": "Caráter crômico\n\nSolos que apresentam, na maioria do horizonte B (excluído o BC), predominância de cores (úmida):\n\nMatiz 7,5YR ou mais amarelo, com valor igual ou maior que 3 e cromas iguais ou maiores que 4; ou\nMatiz mais amarelo que 5YR, valores de 4 a 5 e cromas de 3 a 6."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-ebânico",
+    "href": "aula_7/aula_7.html#caráter-ebânico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter ebânico",
+    "text": "Caráter ebânico\n\nSolos que apresentam cores escuras na maior parte do horizonte diagnóstico subsuperficial, com predomínio de cores:\n\nPara matiz 7,5YR ou mais amarelo: valor &lt; 4 e croma &lt; 3 (úmido) e valor &lt; 6 (seco);\nPara matiz mais vermelho que 7,5YR: preto ou cinzento muito escuro (úmido); valor &lt; 5 (seco)."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#caráter-rúbrico",
+    "href": "aula_7/aula_7.html#caráter-rúbrico",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Caráter rúbrico",
+    "text": "Caráter rúbrico\n\nSolos que apresentam matiz mais vermelho que 5YR em alguma parte do perfil do solo, sendo este dominado por coloração brunada (7,5YR ou mais amarelo):\n\nValor da amostra úmida &lt; 4 e, em amostra seca, aumento de valor de 1 unidade."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#gilgai",
+    "href": "aula_7/aula_7.html#gilgai",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Gilgai",
+    "text": "Gilgai\n\nMicrorrelevos"
+  },
+  {
+    "objectID": "aula_7/aula_7.html#relação-silteargila",
+    "href": "aula_7/aula_7.html#relação-silteargila",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Relação silte/argila",
+    "text": "Relação silte/argila\n\nServe como auxílio na identificação do grau de intemperismo do solo. Solos pouco intemperizados têm relação maior que os mais intemperizados.\n\nEsta relação é usada para diferenciar horizontes B latossólicos de B incipientes. O primeiro deve ter relação silte/argila &lt; 0,7 para solos de textura média e &lt; 0,6 para os de textura argilosa."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#minerais-alteráveis",
+    "href": "aula_7/aula_7.html#minerais-alteráveis",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Minerais alteráveis",
+    "text": "Minerais alteráveis\n\nSão aqueles pouco resistentes ao intemperismo:\n\nNa fração argila: minerais 2:1, talco e glauconita;\nNa fração silte e areia: feldspato, minerais ferromagnesianos, vidros vulcânicos, fragmentos de conchas, apatitas e micas."
+  },
+  {
+    "objectID": "aula_7/aula_7.html#leitura-obrigatória-1",
+    "href": "aula_7/aula_7.html#leitura-obrigatória-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Leitura obrigatória",
+    "text": "Leitura obrigatória\n\nSistema Brasileiro de Classificação de Solos (SiBCS) – 2025"
+  },
+  {
     "objectID": "aula_5/aula_5.html#importância-mineral",
     "href": "aula_5/aula_5.html#importância-mineral",
     "title": "Gênese e Classificação do Solo:",
@@ -1068,7 +1334,7 @@
     "href": "index.html",
     "title": "Gênese e Classificação do Solo - IFPR 2026/02",
     "section": "",
-    "text": "Aula 1\n        Introdução à pedologia\n        \n      \n      \n        Aula 2\n        Rochas e minerais primários\n        \n      \n      \n        Aula 3\n        Intemperismo do solo\n        \n      \n      \n        Aula 4\n        Fatores e processos de formação do solo\n        \n      \n      \n        Aula 5\n        Mineralogia do solo e suas funções ambientais\n        \n      \n\n      \n        Aula 6\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
+    "text": "Aulas\n\n    \n\n      \n        Aula 1\n        Introdução à pedologia\n        \n      \n\n      \n        Aula 2\n        Rochas e minerais primários\n        \n      \n\n      \n        Aula 3\n        Intemperismo do solo\n        \n      \n\n      \n        Aula 4\n        Fatores e processos de formação do solo\n        \n      \n\n      \n        Aula 5\n        Mineralogia do solo e suas funções ambientais\n        \n      \n\n      \n        Aula 6\n        Perfil e morfologia do solo\n        \n      \n\n      \n        Aula 7\n        Em breve\n        \n          Conteúdo será disponibilizado em breve.\n        \n      \n\n    \n\n\n    \n\n    \n      Materiais complementares\n    \n\n    \n\n      \n      \n\n        📝 Atividade sobre descrição morfológica do solo\n      \n\n      \n      \n\n    \n\n  \n\n\n  \n\n  \n\n    \n\n      📖\n\n      \n        Selecione uma aula ou um material para visualizá-lo aqui."
   },
   {
     "objectID": "aula_1/aula_1.html#o-que-é-um-solo-1",
@@ -1818,5 +2084,460 @@
     "title": "Gênese e Classificação do Solo:",
     "section": "Processos pedogenéticos específicos",
     "text": "Processos pedogenéticos específicos"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#o-que-é-um-solo-1",
+    "href": "aula_6/aula_6.html#o-que-é-um-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "O que é um solo?",
+    "text": "O que é um solo?\n\n\nCorpo natural constituído de materiais minerais e orgânicos, organizados em camadas e/ou horizontes, resultantes da ação de fatores de formação, com destaque para a ação biológica e climática sobre um determinado material de origem (rocha, sedimentos etc.) e numa determinada condição de relevo, através do tempo. O solo contém matéria viva e pode ser vegetado em condições naturais e, eventualmente, ter sido modificado por forte ação antrópica."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#perfil-do-solo-1",
+    "href": "aula_6/aula_6.html#perfil-do-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Perfil do solo",
+    "text": "Perfil do solo\n\nO que é um perfil?\n\nNo sentido físico e artístico…\n\n\nNo sentido de redes…\n\n\nNo sentido de trabalho…"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#perfil-do-solo-2",
+    "href": "aula_6/aula_6.html#perfil-do-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Perfil do solo",
+    "text": "Perfil do solo\n\nA face do solo que vai da superfície ao material de origem (rocha ou sedimentos), usada para fins de exame, descrição e coleta do solo, é chamada de perfil."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#perfil-do-solo-3",
+    "href": "aula_6/aula_6.html#perfil-do-solo-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Perfil do solo",
+    "text": "Perfil do solo\n\n\n\nÉ a seção vertical do solo através de todos os seus horizontes e camadas, estendendo-se para dentro do material de origem."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#perfil-do-solo-4",
+    "href": "aula_6/aula_6.html#perfil-do-solo-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Perfil do solo",
+    "text": "Perfil do solo\n\n\nHorizontes pedogênicos: seções do perfil do solo dotadas de propriedades geradas por processos pedogenéticos.\nCamadas: seções do perfil do solo que possuem propriedades não resultantes ou pouco influenciadas pelos processos pedogenéticos.\nOs horizontes principais podem ser divididos em subhorizontes:\n\nEx: A1, A2, A3 etc. são subhorizontes do horizonte principal A."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo",
+    "href": "aula_6/aula_6.html#horizontes-do-solo",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nOs horizontes mais próximos da superfície são resultantes da ação dos processos pedogenéticos.\n\nA nomenclatura dos horizontes é dada pelas letras H, O, A, E, B e C, em ordem da superfície em direção ao material de origem."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-1",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nO\n\n\nHorizonte ou camada superficial de cobertura, de constituição orgânica, sobreposto a alguns solos minerais, podendo estar ocasionalmente saturado com água."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-2",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nH\n\n\nHorizonte ou camada superficial de cobertura, de constituição orgânica, superficial ou não, composto de resíduos acumulados ou em acumulação sob condições de prolongada estagnação de água, salvo se artificialmente drenado.\nComposto por matéria orgânica em vários estádios de decomposição.\nRelacionado a solos orgânicos com condições de hidromorfismo."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-3",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nA\n\n\nHorizonte ou camada em sequência a um horizonte ou camada O ou H, de concentração de matéria orgânica decomposta ou de composição mineral.\nAs características do horizonte A são tipicamente influenciadas pela matéria orgânica."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-4",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nE\n\n\nHorizonte mineral, cuja característica principal é a perda de argila, ferro, alumínio ou matéria orgânica, com consequente concentração residual de areia e silte constituídos de quartzo ou outros minerais resistentes."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-5",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nB\n\n\nHorizonte mineral formado sob um E, A ou O, bastante afetado por transformações pedogenéticas, em que pouco ou nada resta da estrutura original da rocha. Pode ser encontrado na superfície quando da ausência ou remoção de um E, A ou O por erosão."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-6",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nC\n\n\nHorizonte ou camada mineral de material inconsolidado sob o sólum, relativamente pouco afetado por processos pedogenéticos, similar ao material do qual o sólum pode ou não ter se formado."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#horizontes-do-solo-7",
+    "href": "aula_6/aula_6.html#horizontes-do-solo-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Horizontes do solo",
+    "text": "Horizontes do solo\n\nR\n\n\nCamada mineral de material consolidado (coeso) que, quando úmido, não pode ser cortado com uma pá, constituindo substrato rochoso contínuo ou praticamente contínuo."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo-1",
+    "href": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição geral do perfil de solo",
+    "text": "Descrição geral do perfil de solo\n\nO que deve conter uma descrição:\n\nData;\nClassificação do solo (veremos adiante);\nLocalização: município, estado e coordenadas;\nSituação: declividade e cobertura vegetal;\nUnidade litoestratigráfica;\nCronologia;\nMaterial originário;\nPedregosidade;\nRochosidade;\nRelevo local;"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo-2",
+    "href": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição geral do perfil de solo",
+    "text": "Descrição geral do perfil de solo\n\nO que deve conter uma descrição:\n\nRelevo regional;\nErosão;\nDrenagem;\nVegetação primária;\nUso atual;\nClima;\nDescrito e coletado por."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo---exemplo",
+    "href": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo---exemplo",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição geral do perfil de solo - Exemplo",
+    "text": "Descrição geral do perfil de solo - Exemplo\n\n\nPerfil: SC-PR (Exemplo para aula)\nData: 19/10/2026.\nClassificação do solo: Latossolo Vermelho distroférrico típico, textura muito argilosa, A moderado, fase floresta tropical subperenifólia, relevo suave ondulado.\nLocalização: Município de Londrina, estado do Paraná, Brasil. Coordenadas geográficas fictícias: 23°20’00” S e 51°10’00” O.\nSituação: Perfil localizado no terço médio de uma vertente, com declividade de aproximadamente 5%, sob cultivo de soja em sistema de plantio direto.\nUnidade litoestratigráfica: Formação Serra Geral.\nCronologia: Mesozoico, período Cretáceo.\nMaterial originário: Produtos da alteração de rochas basálticas.\nPedregosidade: Ausente na superfície."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo---exemplo-1",
+    "href": "aula_6/aula_6.html#descrição-geral-do-perfil-de-solo---exemplo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição geral do perfil de solo - Exemplo",
+    "text": "Descrição geral do perfil de solo - Exemplo\n\n\nRochosidade: Ausente na superfície.\nRelevo local: Suave ondulado.\nRelevo regional: Predominantemente suave ondulado a ondulado.\nErosão: Laminar ligeira, sem ocorrência de sulcos expressivos.\nDrenagem: Bem drenado.\nVegetação primária: Floresta Estacional Semidecidual, pertencente ao bioma Mata Atlântica.\nUso atual: Agricultura mecanizada, com cultivo de soja no verão e milho na segunda safra, em sistema de plantio direto.\nClima: Cfa — clima subtropical úmido, segundo a classificação de Köppen, com verões quentes e ausência de estação seca bem definida.\nDescrito e coletado por: Gustavo Frosi."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-1",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-1",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nO solo apresenta características externas e internas (morfológicas) próprias, que devem ser descritas com critério, uma vez que, a partir delas, se tem uma visão integrada do solo e de suas relações com a paisagem.\n\nPermitem inferências importantes sobre a formação e o comportamento do solo.\n\nCapacidade de produzir de forma sustentada, adequação às práticas agrícolas, propensão à erosão, salinização, riscos de degradação etc."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-2",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-2",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nO estudo da morfologia do solo refere-se à descrição de características detectadas pelos sentidos da visão e do tato.\n\nCor;\nTextura;\nEstrutura;\nPorosidade;\nConsistência;\nTransição entre horizontes."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-3",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-3",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nAs características morfológicas são descritas em cada horizonte ou camada, pois podem variar ao longo do perfil.\n\nSão padronizadas e possuem metodologia própria."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-4",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-4",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nEspessura do horizonte ou camada:\ndistância vertical entre o início e o final do horizonte.\n\nEx: Um solo possui um horizonte O com 5 cm de espessura, um horizonte A com 50 cm de espessura e um horizonte B com 200 cm de espessura.\n\n\nProfundidade do horizonte ou camada:\ndistância vertical entre o início e o final de um horizonte e a superfície do horizonte A (superfície do solo).\n\nEx: Um solo possui um horizonte O com profundidade de 0 a 5 cm, um horizonte A com profundidade de 0 a 50 cm e um horizonte B com profundidade de 50 a 125 cm."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-5",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-5",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTransição do horizonte ou camada:\nse refere à nitidez ou ao contraste de separação entre os horizontes ou camadas (facilidade de distinguir entre as camadas ou horizontes).\n\n\n\nPode ser por distinção:\n\nAbrupta: &lt; 2,5 cm;\nClara: 2,5 a 7,5 cm;\nGradual: 7,5 a 12 cm;\nDifusa: &gt; 12 cm.\n\n\n\n\nPode ser por topografia:\n\nHorizontal;\nOndulada;\nIrregular;\nDescontínua."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-6",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-6",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTransição do horizonte ou camada:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-7",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-7",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTransição do horizonte ou camada:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-8",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-8",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTransição do horizonte ou camada:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-9",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-9",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nHorizontes transicionais miscigenados:\nsão horizontes nos quais as propriedades de dois horizontes principais se associam conjuntamente em fusão, evidenciando a coexistência de propriedades comuns a ambos, de tal modo que não há individualização de partes distintas de um e de outro.\n\nEx: AB, BE, EB, BC\n\n\nHorizontes transicionais mesclados:\ncom visualização de partes distintas de um e de outro.\n\nEx: A/B, B/C, E/B"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-10",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-10",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-11",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-11",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nHorizontes podem conter características específicas. A designação destas se dá por meio de sufixos (letras minúsculas).\n\n\na: propriedades ândicas\nb: horizonte enterrado\nc: concreções ou nódulos endurecidos\nd: acentuada decomposição de material orgânico\ne: escurecimento da parte externa dos agregados por matéria orgânica não associada a sesquióxidos\nf: material plíntico e/ou bauxítico brando (laterita)\ng: glei\nh: acumulação iluvial de matéria orgânica\ni: incipiente desenvolvimento de horizonte B\nj: tiomorfismo\nk: presença de carbonatos\nm: extremamente cimentado"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-12",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-12",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\n\n\nn: acumulação de sódio trocável\no: material orgânico mal ou não decomposto\np: aração ou outras pedoturbações\nq: acumulação de sílica\nr: rocha branda ou saprólito\ns: acumulação iluvial de sesquióxidos com matéria orgânica\nt: acumulação de argila\nu: modificações ou acumulações antropogênicas\nv: características vérticas\nw: intensa alteração com inexpressiva acumulação de argila, com ou sem concentração de sesquióxidos\nx: cimentação aparente, reversível\ny: acumulação de sulfato de cálcio\nz: acumulação de sais mais solúveis em água fria que sulfato de cálcio"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-13",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-13",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCor:\nA cor é determinada com o auxílio da Carta de Munsell (Munsell Soil Color Charts), na qual serão identificados matiz, valor e croma.\n\nImportância:\n\nDrenagem;\nComposição mineralógica;\nConcentrações de elementos;\nProcessos pedogenéticos."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-14",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-14",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCor:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-15",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-15",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:\nTrês são as variáveis utilizadas para representar cores no sistema Munsell."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-16",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-16",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:\n\n\nO primeiro conjunto de números e letras representa o matiz (hue).\nO matiz representa a posição da cor no círculo de cores (Y = amarelo; R = vermelho; G = verde; B = azul; YR = amarelo-vermelho; RY = vermelho-amarelo)."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-17",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-17",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:\n\n\nO primeiro número após a barra é o valor (value).\nO valor está relacionado a quão clara ou escura é uma cor. É um componente da cor que representa os tons de preto e de branco, ligado ao brilho da cor. No sistema de Munsell são utilizados números de 0 a 10."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-18",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-18",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:\n\n\nO segundo número após a barra é o croma (chroma).\nEste está relacionado à intensidade da cor (quão viva ela é).\nEx: verde claro e verde escuro."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-19",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-19",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-20",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-20",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSistema de cor de Munsell:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-21",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-21",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCor:\nA cor pode ser descrita com a amostra de solo úmida (mais usual), seca, seca triturada ou úmida amassada. Caso o horizonte apresente mosqueados (manchas de outra cor), deverão ser anotados a cor, a quantidade e o contraste desse mosqueado."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-22",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-22",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:\nCorresponde à proporção relativa das frações granulométricas do solo.\n\nPelo tato, com a amostra de solo molhada.\nProcedimento: pegue uma amostra de solo do tamanho de um ovo pequeno e adicione água suficiente para umedecê-la.\n\nAmasse a amostra até que a umidade seja uniforme.\nAperte a amostra entre os dedos e estime a composição granulométrica."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-23",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-23",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-24",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-24",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-25",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-25",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-26",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-26",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:\n\n\nAvalie primeiro o teor de argila: se a amostra é muito pegajosa, firme e plástica, e é possível formar um cilindro de 4 a 5 cm, classifique como muito argilosa.\nSe o solo é parecido com argila, porém se sente ligeiramente pegajoso e é mais fácil de amassar, classifique como franco-argiloso.\nSe o solo parece suave, uniforme e fácil de espremer (muito diferente de uma argila), classifique como franca."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-27",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-27",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nTextura:\n\n\nA seguir, analise a quantidade de areia.\nSe o solo é áspero, adicione a palavra arenoso à sua classificação original.\nSe o solo parece mais suave, sem a aspereza da areia, adicione a palavra silte ou siltoso à sua classificação.\nSe não houver muita aspereza nem suavidade, mesmo que se perceba areia na amostra, mantenha o nome original."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-28",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-28",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nEstrutura:\nA estrutura é a agregação das partículas primárias do solo em unidades estruturais compostas, separadas entre si por superfícies de fraqueza.\n\nÉ avaliada quanto a:\n\ntipo (laminar, prismática, blocos angulares, blocos subangulares e granular);\nclasse (muito pequena, pequena, média, grande, muito grande);\ngrau de estrutura (sem estrutura: grãos simples; sem estrutura: maciça; com estrutura fraca, moderada ou forte)."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-29",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-29",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nEstrutura:\nQuanto ao tipo"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-30",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-30",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nPorosidade:\nRefere-se ao volume do solo ocupado por água e/ou ar.\n\nAvaliada in situ e descrita quanto ao tamanho e à quantidade dos poros.\n\n\nQuanto ao tamanho:\n\nSem poros visíveis: quando não apresentar poros visíveis, mesmo com lupa de aumento de 10x;\nMuito pequenos: poros inferiores a 1 mm de diâmetro;\nPequenos: maior ou igual a 1 mm e menor que 2 mm de diâmetro;\nMédios: maior ou igual a 2 mm e menor que 5 mm de diâmetro;\nGrandes: maior ou igual a 5 mm e menor que 10 mm de diâmetro;\nMuito grandes: igual ou superior a 10 mm de diâmetro."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-31",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-31",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nPorosidade:\n\nQuanto à quantidade:\n\nPoucos poros: 1 por unidade de área;\nPoros comuns: maior que 1 e menor ou igual a 5 por unidade de área;\nMuitos poros: maior que 5 por unidade de área."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-32",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-32",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCerosidade:\nAspecto “brilhante” ou “lustro” observado pelo revestimento dos agregados por material inorgânico (geralmente argila)."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-33",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-33",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCerosidade:\nAvaliada quanto à quantidade e ao grau de desenvolvimento.\n\n\n\nQuantidade:\n\nPouco;\nComum;\nAbundante.\n\n\n\n\nGrau de desenvolvimento:\n\nFraca;\nModerada;\nForte."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-34",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-34",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nSuperfícies de compressão e de fricção:\nSão superfícies alisadas, virtualmente sem estriamento.\n\nOriundas da compressão na massa do solo ou do material de origem (expansão e contração)."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-35",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-35",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\nDesigna as manifestações das forças físicas de coesão entre partículas do solo e de adesão entre partículas do solo com outros materiais.\n\nDescrita em três estados de umidade padronizados: seco, úmido e molhado."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-36",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-36",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\n\nSeco:\n\nSolta: não coerente entre o polegar e o indicador;\nMacia: a massa do solo é fracamente coerente e frágil; quebra-se em material pulverizado ou grãos individuais sob pressão muito leve;\nLigeiramente dura: fracamente resistente à pressão; facilmente quebrável entre o polegar e o indicador;\nDura: moderadamente resistente à pressão; pode ser quebrada nas mãos sem dificuldade, mas é dificilmente quebrada entre o indicador e o polegar;\nMuito dura: muito resistente à pressão; somente com dificuldade pode ser quebrada nas mãos; não quebrável entre o indicador e o polegar;\nExtremamente dura: extremamente resistente à pressão; não pode ser quebrada com as mãos."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-37",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-37",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\n\nÚmido:\n\nSolta: não coerente;\nMuito friável: o material do solo esboroa-se com pressão muito leve, mas agrega-se por compressão posterior;\nFriável: o material do solo esboroa-se facilmente sob pressão fraca e moderada entre o polegar e o indicador e agrega-se por compressão posterior;\nFirme: o material do solo esboroa-se sob pressão moderada entre o indicador e o polegar, mas apresenta resistência distintamente perceptível;\nMuito firme: o material do solo esboroa-se sob forte pressão; dificilmente esmagável entre o indicador e o polegar;\nExtremamente firme: o material do solo somente se esboroa sob pressão muito forte, não pode ser esmagado entre o indicador e o polegar e deve ser fragmentado pedaço por pedaço."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-38",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-38",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\n\nMolhado: Plasticidade\n\nNão plástica: não se forma um cilindro ao rolar a amostra entre as mãos;\nLigeiramente plástica: forma-se um cilindro, que se quebra facilmente ao ser curvado para formar o círculo, e é facilmente deformado;\nPlástica: forma-se um cilindro, que se quebra em mais de uma seção ao ser curvado para formar o círculo, sendo necessária pressão moderada para deformação;\nMuito plástica: forma-se um cilindro, que não se quebra ao ser curvado para formar o círculo, sendo necessária pressão moderada a forte para deformá-lo."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-39",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-39",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\nMolhado: Plasticidade"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-40",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-40",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\n\nMolhado: Pegajosidade\n\nNão pegajosa: após cessar a pressão, não se verifica, praticamente, nenhuma aderência da massa ao polegar e ao indicador;\nLigeiramente pegajosa: após cessar a pressão, o material adere a ambos os dedos, mas desprende-se de um deles perfeitamente; não há esticamento ou alongamento quando os dedos são afastados;\nPegajosa: após cessar a compressão, o material adere a ambos os dedos e, quando estes são afastados, tende a alongar-se um pouco e romper-se, em vez de desprender-se de qualquer um dos dedos;\nMuito pegajosa: após a compressão, o material adere fortemente a ambos os dedos e alonga-se perceptivelmente quando eles são afastados."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-41",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-41",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nConsistência:\nMolhado: Pegajosidade"
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-42",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-42",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCimentação:\nDiz respeito à consistência quebradiça e dura do material do solo, determinada por qualquer agente cimentante, exceto argilominerais, e que pode ser: carbonato de cálcio, sílica, manganês, óxidos de ferro e/ou alumínio.\n\nNão se altera com o umedecimento, persistindo a sua dureza quando molhado."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-43",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-43",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nCimentação:\n\nClassificação:\n\nFracamente cimentado: a massa cimentada é quebradiça, tenaz ou dura, mas pode ser quebrada nas mãos;\nFortemente cimentado: a massa cimentada é quebradiça e mais dura para ser quebrada nas mãos, porém pode ser quebrada facilmente com o martelo pedológico;\nExtremamente cimentado: a massa cimentada é quebradiça, não enfraquece sob prolongado umedecimento e é tão dura que, para quebrá-la, é necessário um forte golpe com o martelo pedológico."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-44",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-44",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nNódulos e concreções minerais:\nCorpos cimentados que podem ser removidos intactos da matriz do solo.\n\nAvaliados quanto à quantidade, ao tamanho, à dureza, à cor e à natureza dos nódulos e concreções."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-45",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-45",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nNódulos e concreções minerais:\n\nQuantidade:\n\nMuito pouco: menos de 5% do volume;\nPouco: maior ou igual a 5% e menor que 15% do volume;\nFrequente: maior ou igual a 15% e menor que 40% do volume;\nMuito frequente: maior ou igual a 40% e menor que 80% do volume;\nDominante: maior ou igual a 80% do volume."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-46",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-46",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nNódulos e concreções minerais:\n\nTamanho:\n\nPequeno: menor que 1 cm de diâmetro (maior dimensão);\nGrande: maior ou igual a 1 cm de diâmetro (maior dimensão).\n\n\n\nDureza:\n\nMacio: pode ser quebrado entre o polegar e o indicador;\nDuro: não pode ser quebrado entre os dedos.\n\n\n\nForma: esférica, irregular ou angular; Cor: preta, vermelha, branca etc.; e Natureza: tipo (petroplintita ou plintita), nódulos ferromanganesianos, gibbsíticos, carbonáticos etc."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-47",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-47",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nPresença de minerais magnéticos: Verificada por ímã de bolso quanto à presença e à quantidade de grãos que são atraídos pelo ímã.\n\nPresença de carbonatos: Verificada pela efervescência do material com HCl 10%, avaliando-se a intensidade da efervescência.\n\n\nPresença de manganês: Presença de torrões com coloração preta, não orgânicos e que efervescem com H2O2.\n\n\nPresença de sulfetos: Comum em áreas de drenagem restrita, com águas salinas ou salobras (manguezais, marismas e outros)."
+  },
+  {
+    "objectID": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-48",
+    "href": "aula_6/aula_6.html#descrição-morfológica-de-um-perfil-de-solo-48",
+    "title": "Gênese e Classificação do Solo:",
+    "section": "Descrição morfológica de um perfil de solo",
+    "text": "Descrição morfológica de um perfil de solo\n\nEflorescências: Ocorrência de sais cristalinos sob forma de revestimentos, crostas e manchas.\n\nCoesão: Avaliada em condição de solo seco, ao separar os horizontes ou retirar as amostras. Pode ser moderadamente coeso ou fortemente coeso."
   }
 ]
