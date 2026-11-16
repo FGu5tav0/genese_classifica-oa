@@ -18,7 +18,7 @@ title-slide-attributes:
   data-background-position: right 3% top 52%
 logo: logo.png
 image: true
-date: "10-26-2026"
+date: "11-09-2026"
 date-format: long
 lang: pt-BR
 ---
@@ -69,7 +69,7 @@ Profundidade de até 200 cm; 300 cm em caso de grande espessura do horizonte A; 
 
 ::: {layout-nrow=1}
 
-![](imagens/manual_descricao.jpeg){fig-align="center" height="450px"}
+![](imagens/manual_descricao.jpeg){fig-align="center" width="400px"}
 
 ![](imagens/sibcs.jpeg){fig-align="center" height="450px"}
 
@@ -78,7 +78,9 @@ Profundidade de até 200 cm; 300 cm em caso de grande espessura do horizonte A; 
 ## Análises químicas e físicas
 <hr>
 
-::: {style="font-size:13px"}
+**Física**
+
+::: {style="font-size:22px"}
 
 | Perfil | Hz. | Calhaus | Cascalho | Terra fina | Areia grossa | Areia fina | Silte | Argila | Argila natural | GF | Silte/Argila |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -91,7 +93,9 @@ Profundidade de até 200 cm; 300 cm em caso de grande espessura do horizonte A; 
 
 :::
 
-::: {style="font-size:13px"}
+**Química**
+
+::: {style="font-size:22px"}
 
 | Perfil | Hz. | pH H~2~O | pH KCl | ∆pH | Ca | Mg | Na | K | Al | H+Al | CTC | V (%) | m (%) | C~org~ (g kg^-1^) |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -568,7 +572,7 @@ São aqueles pouco resistentes ao intemperismo:
 ## Leitura obrigatória
 <hr>
 
-[__Sistema Brasileiro de Classificação de Solos (SiBCS) – 2013__]{.fg style="--col: #e64173"}
+[__Sistema Brasileiro de Classificação de Solos (SiBCS) – 2025__]{.fg style="--col: #e64173"}
 
 ![](imagens/sibcs.jpeg){fig-align="center" height="400px"}
 

@@ -1,0 +1,100 @@
+---
+lang: pt
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2cm
+      top: 1.8cm
+      bottom: 1.8cm
+    mainfont: "Arial"
+    fontsize: 11pt
+    include-in-header: estilo.typ
+    template-partials:
+      - typst-template.typ
+---
+
+```{=typst}
+#cabecalho(
+  "Instituto Federal do Paraná",
+  "Curso de Agronomia",
+  "Disciplina de Gênese e classificação do solo",
+)
+#titulo("Gabarito", subtitulo: "Descrição morfológica do perfil")
+
+#v(0.3em)
+
+
+#questoes(
+  [Identifique as características morfológicas descritas abaixo (diga o que é cor, o que é consistência...)],
+  // [Quais são as características ambientais que podemos inferir com base na descrição morfológica abaixo?],
+  // [Do ponto de vista prático, quais são as limitações e potencialidades deste solo?],
+  // [Identifique quais atributos diagnósticos são compatíveis com os diferentes horizontes.],
+)
+
+#v(0.5em)
+
+O primeiro horizonte (A1) é o modelo de como a questão deveria ser respondida.
+
+#legenda()
+
+#perfil("A1", "0-35cm",
+  cor: [bruno-escuro (7,5YR 3/2, úmido) e cinzento-avermelhado (7,5YR 5/2, seco)],
+  textura: [*Franco*: é um solo com mais areia e silte do que argila, conforme o triânbulo textural],
+  estrutura: [*moderada*: as unidades estruturais são bem definidas e individualizadas por supeorfícies de fraqueza bem nítidas, e há pouco material solto, *média*: forma e aspecto arredondados, com unidades de 2 a 5 mm, *granular*: partículas oarganizadas em torno de um ponto, forma granulos.],
+  poros: [*pequenos*: poros com tamanho maior ou igual a 1 mm e menor que 2 mm de diâmetro, *poucos*: 1 por unidade de área],
+  consistencia: [*dura*: quando seco - moderadamente resistente à pressão e pode ser quebrado nas mãos, sem dificuldade, mas é dificilmente quebrado entre o indicador e o polegar, *friável*: quando úmido - o material do solo esboroa-se facilmente sob pressão fraca e moderada entre o polegar e o indicador e agrega-se por compressão posterior, *ligeiramente plástica e pegajosa*: quando molhado - (plástica) forma-se um cilindro, que se quebra em mais que uma seção ao ser curvado para formar o círculo, sendo necessária pressão moderada para deformação e (pegajosa) após cessar a compressão, o material adere a ambos os dedos e, quando estes são afastados, tende a alongar-se um pouco e romper-se, em vez de desprender-se de qualquer um dos dedos],
+  transicao: [*difusa*: mais de 12,5 cm a espessura da faixa de transição],
+  raizes: [*muitas*],
+)
+
+#perfil("A2", "35-58cm",
+  cor: [bruno (10YR 5/3, úmida) e bruno-acinzentado (10YR 5/2,5, seco)],
+  textura: [Franca],
+  estrutura: [moderada, pequena, granular],
+  poros: [pequenos e poucos],
+  consistencia: [dura, friável, ligeiramente plástica e ligeiramente pegajosa],
+  transicao: [abrupta],
+  raizes: [comuns],
+)
+
+#perfil("E1", "58-81cm",
+  cor: [bruno-acinzentado-muito-escuro (10YR 3/2, úmida) e cinzento-brunado-claro (10YR 6/3, seco)],
+  textura: [Franco arenosa],
+  estrutura: [moderada, média, blocos angulares],
+  poros: [muito pequenos e poucos],
+  consistencia: [dura, friável, plástica e pegajosa],
+  transicao: [gradual],
+  raizes: [comuns],
+)
+
+#perfil("E2", "81-92cm",
+  cor: [bruno-acinzentado-escuro (10YR 4/2, úmida), mosqueados (10YR 5/6, úmida), bruno (10YR 5/3, seco) e mosqueados bruno-escuro (7,5YR 4/4, seco)],
+  textura: [Franco arenosa],
+  estrutura: [moderada, média, blocos subangulares],
+  poros: [muito pequenos e poucos],
+  consistencia: [dura, friável, plástica e ligeiramente pegajosa],
+  transicao: [abrupta],
+  raizes: [poucas],
+)
+
+#perfil("Btg", "92-127cm",
+  cor: [bruno-escura (7,5YR 3/2, úmida) e bruno-acinzentado-escuro (10YR 4/2, seco)],
+  textura: [Franco argilosa],
+  estrutura: [forte, grande, prismática que se quebra em média blocos subangulares],
+  poros: [muito pequenos e poucos],
+  consistencia: [dura, firme, plástica e pegajosa],
+  transicao: [gradual],
+  raizes: [poucas],
+)
+
+#perfil("C", "127 – 142cm+",
+  cor: [preto (5YR 2,5/1, úmida) e cinzento-muito-escuro (5YR 3/1, seco)],
+  textura: [Argilosa],
+  estrutura: [forte, média e grande, prismática que se quebra em média blocos subangulares],
+  poros: [muito pequenos e poucos],
+  consistencia: [dura, firme, plástica e pegajosa],
+  transicao: [gradual],
+  raizes: [raras],
+)
+```

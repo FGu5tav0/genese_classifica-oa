@@ -67,9 +67,23 @@ format:
         <div class="card-title">Perfil e morfologia do solo</div>
         <div class="card-desc"></div>
       </a>
+      <a class="card"
+         onclick="carregarAula('aula_7/aula_7.html', this)"
+         href="#">
+        <div class="card-num">Aula 7</div>
+        <div class="card-title">Atributos diagnósticos</div>
+        <div class="card-desc"></div>
+      </a>
+      <a class="card"
+         onclick="carregarAula('aula_8/aula_8.html', this)"
+         href="#">
+        <div class="card-num">Aula 8</div>
+        <div class="card-title">Horizontes diagnósticos superficiais e subsuperficiais</div>
+        <div class="card-desc"></div>
+      </a>
 
       <a class="card em-breve" href="#">
-        <div class="card-num">Aula 7</div>
+        <div class="card-num">Aula 9</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">
           Conteúdo será disponibilizado em breve.
@@ -95,6 +109,13 @@ format:
          download>
 
         <div class="material-icon">📝 Atividade sobre descrição morfológica do solo</div>
+      </a>
+
+      <a class="material-card"
+         href="trabalho_morfologia/morfologia_gabarito.pdf"
+         download>
+
+        <div class="material-icon">✅ Gabarito descrição morfológica do solo</div>
       </a>
 
       <!-- ARQUIVO PARA DOWNLOAD -->
