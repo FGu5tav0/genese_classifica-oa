@@ -1,0 +1,269 @@
+---
+title: "Gênese e Classificação do Solo"
+subtitle: "Instituto Federal do Paraná · Curso de Agronomia"
+lang: pt
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.5cm
+      top: 3cm
+      bottom: 2.5cm
+    mainfont: "Inter"
+    fontsize: 10.5pt
+    toc: false
+    heading-family: "Inter"
+    heading-color: "#0F766E"
+    include-in-header: estilo-ifpr.typ
+    template-partials:
+      - typst-template.typ
+---
+
+# Descrição geral
+
+```{=typst}
+#block(width: 100%, fill: cor-suave, radius: 4pt, inset: (x: 12pt, y: 10pt))[
+  #grid(
+    columns: (auto, 1fr), column-gutter: 1em, row-gutter: 0.6em,
+    ..campo("Situação e declive", [Corte de estrada no terço superior da várzea, com 3% de declividade.]),
+    ..campo("Material de origem", [Sedimentos aluviais recentes.]),
+    ..campo("Pedregosidade e rochosidade", [Não pedregoso, não rochoso.]),
+    ..campo("Relevo", [Plano a suave ondulado.]),
+    ..campo("Drenagem", [Mal a imperfeitamente drenado.]),
+    ..campo("Uso atual", [Pastagem natural.]),
+    ..campo("Descrito e coletado por", [Maimonides.]),
+  )
+]
+```
+
+# Descrição morfológica
+
+```{=typst}
+#table(
+  columns: (1.4cm, 1fr),
+  stroke: (x, y) => (bottom: 0.4pt + luma(210)),
+  fill: none,
+  inset: (x: 7pt, y: 8pt),
+  align: (center + horizon, left),
+  ..horizonte("A1", [0 – 30cm; Bruno escuro (10YR 3/4 úmido); franco arenoso, fraca, média, granular e fraca média blocos subangulares; poroso; friável, ligeiramente plástico e ligeiramente pegajoso; transição clara; raízes abundantes.]),
+  ..horizonte("A2", [30 – 45cm; Bruno amarelo escuro (10YR 4/4 úmido); franco arenoso; fraca, média, blocos subangulares e fraca média granular; poroso; friável; não plástico e não pegajoso; transição clara e plana; raízes abundantes.]),
+  ..horizonte("E", [45 – 65cm; (10YR 5/3 úmido); mosqueado pequeno distinto; franco arenoso; fraca, média, blocos subang.; poroso; friável; não plástico e não pegajoso; transição clara e plana; raízes comuns.]),
+  ..horizonte("B", [65 – 120cm; cinzento (10YR 5/1 úmido), Bruno amarelado (10YR 5/4 úmido amassado); mosqueado grande abundante e proeminente; vermelho (10YR 4/8 úmido); e mosqueado grande comum e distinto, Bruno amarelado claro; (10YR 6/4 úmido); franco argiloso; forte grande prismática que se quebra em grandes blocos subangulares; cerosidade forte e abundante; "coatings"; pouco poroso; extremamente duro, muito firme, muito plástico e muito pegajoso; transição gradual e plana; raízes poucas.]),
+  table.hline(stroke: 1pt + cor-principal),
+)
+```
+
+# Dados analíticos
+
+```{=typst}
+#v(0.4em)
+#tabela-analitica(
+  (1.2cm, 1.4cm, 1fr, 1fr, 1fr, 1fr, 1.6fr, 1.5fr, 1.6fr),
+  table.header(
+    hc([Hor.], rowspan: 2), hc([Prof. (cm)], rowspan: 2),
+    hc([Composição granulométrica g #kg], colspan: 4),
+    hc([Argila dispersa g #kg], rowspan: 2),
+    hc([Grau de floculação], rowspan: 2),
+    hc([Relação silte/argila], rowspan: 2),
+    h([Areia grossa]), h([Areia fina]), h([Silte]), h([Argila]),
+    table.hline(y: 2, stroke: 1pt + cor-principal),
+  ),
+  [A1], [0-30],   [210], [430], [260], [90],  [4],  [95,55%], [2,9],
+  [A2], [30-45],  [210], [430], [280], [100], [1],  [99%],    [2,8],
+  [E],  [45-65],  [210], [460], [290], [40],  [0],  [100%],   [7,3],
+  [B],  [65-120], [130], [310], [220], [380], [18], [95%],    [0,58],
+  table.hline(stroke: 1pt + cor-principal),
+)
+
+#v(1.2em)
+#tabela-analitica(
+  (1.1cm,) + (1fr,) * 11,
+  table.header(
+    hc([Hor.], rowspan: 2),
+    hc([Complexo sortivo – Cmol#sub[c] #kg], colspan: 9),
+    hc([V%], rowspan: 2),
+    hc([m \ Al%], rowspan: 2),
+    h([Ca#super[+2]]), h([Mg#super[+2]]), h([K#super[+]]), h([Na#super[+]]), h([S]),
+    h([H#super[+]]), h([Al#super[+3]]), h([CTCef]), h([CTC#linebreak()pH~7,0]),
+    table.hline(y: 2, stroke: 1pt + cor-principal),
+  ),
+  [A1], [0,7], [0,6], [0,06], [0,09], [], [3,3], [1,7], [3,15],  [6,45],  [22,48], [53,97],
+  [A2], [0,3], [0,2], [0,03], [0,09], [], [1,7], [1,4], [2,02],  [3,72],  [16,67], [69,31],
+  [E],  [0,2], [0,1], [0,02], [0,05], [], [1,2], [0,6], [0,97],  [2,17],  [17,05], [61,86],
+  [B],  [7,5], [2,6], [0,13], [0,52], [], [2,9], [1,3], [12,05], [14,95], [71,91], [10,79],
+  table.hline(stroke: 1pt + cor-principal),
+)
+
+#v(1.2em)
+#tabela-analitica(
+  (1.1cm,) + (1fr,) * 7,
+  table.header(
+    hc([Hor.], rowspan: 2),
+    hc([pH], colspan: 2),
+    hc([C (g #kg)], rowspan: 2),
+    hc([M. O. (g #kg)], rowspan: 2),
+    hc([P (mg L#super[−1])], rowspan: 2),
+    hc([Ki], rowspan: 2),
+    hc([Kr], rowspan: 2),
+    h([água]), h([KCl]),
+    table.hline(y: 2, stroke: 1pt + cor-principal),
+  ),
+  [A1], [5,0], [4,0], [7,4], [12,76], [\<1], [4,10], [4,00],
+  [A2], [5,0], [4,0], [2,5], [4,31],  [\<1], [3,60], [4,90],
+  [E],  [5,3], [4,1], [1,0], [1,72],  [\<1], [4,80], [3,70],
+  [B],  [5,4], [4,0], [1,4], [2,41],  [\<1], [2,80], [2,50],
+  table.hline(stroke: 1pt + cor-principal),
+)
+```
+
+
+{{< pagebreak >}}
+
+# Atributos diagnósticos
+
+Aqui estão descritos os principais atributos diagnósticos do perfil do exemplo.
+
+## Material orgânico
+
+Para que um horizonte tenha características orgânicas, é necessário atender a dois requisitos:
+
+- O conteúdo de constituintes orgânicos deve impor preponderância de suas
+propriedades sobre as dos constituintes minerais;
+- O teor de carbono orgânico deve ser maior ou igual a **80 g kg^‑1^**, avaliado na
+fração terra fina seca ao ar (TFSA).
+
+Conforme a tabela das propriedades químicas, o teor de carbono orgânico dos horizontes está muito abaixo de 80 g kg^-1^; logo, nenhum horizonte se enquadra em material orgânico.
+
+Como não satisfaz os requisitos para material orgânico, todo o material do solo é considerado **material mineral**.
+
+## Atividade da fração argila
+
+A equação para determinar a atividade é dada por:
+
+$$
+Atividade_{argila}(g~kg^{-1}) = \frac{CTC_{ph7}*1000}{Teor~de~argila}
+$$
+
+Realizando o cálculo para cada horizonte, encontram-se os seguintes valores:
+
+- **A1**: 71,66 cmol~c~kg^-1^ (Atividade alta, **Ta**);
+- **A2**: 37,2 cmol~c~kg^-1^ (Atividade alta, **Ta**);
+- **E**: 54,25 cmol~c~kg^-1^ (Atividade alta, **Ta**);
+- **B**: 39,34 cmol~c~kg^-1^ (Atividade alta, **Ta**).
+
+Todos os horizontes possuem argila de alta atividade.
+
+## Saturação por bases
+
+A equação para determinar a saturação por bases é dada por:
+
+$$
+Saturação_{bases}(\%) = \frac{Soma~de~bases}{CTC_{ph7}}*100
+$$
+
+Realizando o cálculo para cada horizonte, encontram-se os seguintes valores:
+
+- **A1**: 22,48% (<65%, logo é **distrófico**);
+- **A2**: 16,67% (<65%, logo é **distrófico**); 
+- **E**: 17,05% (<65%, logo é **distrófico**); 
+- **B**: 71,91% (>65%, logo é **eutrófico**); 
+
+## Mudança textural abrupta
+
+Conforme o sistema de classificação, temos horizonte A ou E com teor de argila menor que 200 g kg^-1^. Nesse caso, devemos verificar se o teor de argila no horizonte B é, no mínimo, o dobro.
+
+O horizonte E do exemplo possui 40 g kg^-1^ de argila; portanto, deveria ser observado em B um teor mínimo de 80 g kg^-1^. Em nosso exemplo, temos 380 g kg^-1^ de argila no horizonte B, muito mais que o suficiente; logo, temos **mudança textural abrupta**.
+
+## Relação textural B/A
+
+Uma das condições para o cálculo da relação é a espessura do horizonte A. Em nosso exemplo, temos o enquadramento no item "b", que descreve: 
+
+> Se o horizonte A tiver 15 cm ou mais, considerar uma espessura, a partir do topo do horizonte B, que seja o dobro da espessura de A para o cálculo da média de argila no B.
+
+Portanto, devemos considerar, para o cálculo da média aritmética em "B", uma profundidade que seja o dobro da espessura do horizonte "A" ($45*2= 90cm$). Como o horizonte B passa de 90 cm, basta utilizá-lo como um todo. 
+
+Para o cálculo, basta fazer a média aritmética do teor de argila do horizonte A e do horizonte B, conforme:
+
+$$
+Argila_A = \frac{90+100}{2}= 95~g~kg^{-1}
+$$
+
+$$
+Argila_B = \frac{380}{1}= 380~g~kg^{-1}
+$$
+
+Já a relação B/A é obtida dividindo-se o teor de argila de B pelo de A:
+
+$$
+B/A= \frac{380}{95}= 4
+$$
+
+Nossa relação textural B/A é de **4**.
+
+## Lamela
+
+Não temos informações sobre a presença de lamelas.
+
+## Cerosidade
+
+Na descrição morfológica, observamos que no horizonte "B" há **cerosidade forte e abundante**.
+
+Portanto, temos mais um atributo caracterizado.
+
+## Policromia
+
+Está relacionada a uma variação expressiva de cor em uma seção.
+
+Em nosso exemplo, temos policromia, pois atendemos ao critério "a", no qual:
+
+> Quando todas as cores dos horizontes A e B, exceto BC, encontram-se em uma mesma página de matiz, as variações de valor e/ou croma devem ser maiores que 3 unidades.
+
+Cada página da caderneta de Munsell é relativa a uma matiz. Em nosso exemplo, todos os horizontes encontram-se na matiz 10YR, portanto na mesma página. Também temos uma variação de valor e/ou croma maior que 3 (de 1 para 4).
+
+## Plintita
+
+Não temos informações sobre a presença de plintita.
+
+## Petroplintita
+
+Não temos informações sobre a presença de petroplintita.
+
+## Superfícies de fricção (slickensides)
+
+Não temos informações sobre a presença de slickensides.
+
+## Caráter ácrico
+
+Para ter esse caráter, é necessário que a soma das bases trocáveis mais o alumínio (CTC efetiva) seja menor ou igual a 1,5 cmol~c~ kg^-1^ de argila.
+
+Para calcular isso, temos a seguinte equação:
+
+$$
+Caráter_{ácrico} = \frac{CTC_{efetiva}*1000}{Teor~de~argila} 
+$$
+
+Realizando o cálculo para cada horizonte, encontram-se os seguintes valores:
+
+- **A1**: 35 cmol~c~kg^-1^ (> 1,5 cmol~c~kg^-1^, **Não é ácrico**);
+- **A2**: 20 cmol~c~kg^-1^ (> 1,5 cmol~c~kg^-1^, **Não é ácrico**);
+- **E**: 24,25 cmol~c~kg^-1^ (> 1,5 cmol~c~kg^-1^, **Não é ácrico**);
+- **B**: 39 cmol~c~kg^-1^ (> 1,5 cmol~c~kg^-1^, **Não é ácrico**).
+
+Nenhum horizonte possui caráter ácrico.
+
+## Caráter alumínico
+
+Para ter esse caráter, é necessário ter teor de alumínio $\geq$ 4 cmol~c~kg^-1^ e saturação por alumínio $\geq$ 50%.
+
+Observando a tabela dos dados químicos, nenhum horizonte tem teor de alumínio acima de 4 cmol~c~kg^-1^, mas observa-se saturação por Al igual ou acima de 50% em todos os horizontes.
+
+Como as duas condições são necessárias, **não temos caráter alumínico** nesse solo.
+
+# Outros atributos
+
+A lista de atributos diagnósticos vai além dos aqui determinados. É importante seguir o detalhamento, principalmente se forem observadas, na descrição morfológica, outras características que sejam determinantes de outros atributos.
+
+
+# Determinação dos horizontes diagnósticos
+
+Na sequência irei adicionar como é realizada a determinação dos horizontes diagnósticos

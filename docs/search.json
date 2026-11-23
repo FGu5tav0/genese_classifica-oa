@@ -1432,7 +1432,7 @@
     "href": "index.html",
     "title": "Gênese e Classificação do Solo - IFPR 2026/02",
     "section": "",
-    "text": "Aulas\n\n    \n\n      \n        Aula 1\n        Introdução à pedologia\n        \n      \n\n      \n        Aula 2\n        Rochas e minerais primários\n        \n      \n\n      \n        Aula 3\n        Intemperismo do solo\n        \n      \n\n      \n        Aula 4\n        Fatores e processos de formação do solo\n        \n      \n\n      \n        Aula 5\n        Mineralogia do solo e suas funções ambientais\n        \n      \n\n      \n        Aula 6\n        Perfil e morfologia do solo\n        \n      \n      \n        Aula 7\n        Atributos diagnósticos\n        \n      \n      \n        Aula 8\n        Horizontes diagnósticos superficiais e subsuperficiais\n        \n      \n\n      \n        Aula 9\n        Em breve\n        \n          Conteúdo será disponibilizado em breve.\n        \n      \n\n    \n\n\n    \n\n    \n      Materiais complementares\n    \n\n    \n\n      \n      \n\n        📝 Atividade sobre descrição morfológica do solo\n      \n\n      \n\n        ✅ Gabarito descrição morfológica do solo\n      \n\n      \n\n        🩻 Sistema Brasileiro de classificação do solo\n      \n\n      \n      \n\n  \n\n    \n\n      📖\n\n      \n        Selecione uma aula ou um material para visualizá-lo aqui."
+    "text": "Aulas\n\n    \n\n      \n        Aula 1\n        Introdução à pedologia\n        \n      \n\n      \n        Aula 2\n        Rochas e minerais primários\n        \n      \n\n      \n        Aula 3\n        Intemperismo do solo\n        \n      \n\n      \n        Aula 4\n        Fatores e processos de formação do solo\n        \n      \n\n      \n        Aula 5\n        Mineralogia do solo e suas funções ambientais\n        \n      \n\n      \n        Aula 6\n        Perfil e morfologia do solo\n        \n      \n      \n        Aula 7\n        Atributos diagnósticos\n        \n      \n      \n        Aula 8\n        Horizontes diagnósticos superficiais e subsuperficiais\n        \n      \n\n      \n        Aula 8\n        Classificação taxonômica do solo\n        \n      \n\n      \n        Aula 10\n        Em breve\n        \n          Conteúdo será disponibilizado em breve.\n        \n      \n\n    \n\n\n    \n\n    \n      Materiais complementares\n    \n\n    \n\n      \n      \n\n        📝 Atividade sobre descrição morfológica do solo\n      \n\n      \n\n        ✅ Gabarito descrição morfológica do solo\n      \n\n      \n\n        ✅ Descrição dos atributos diagnósticos perfil 2\n      \n\n      \n\n        🩻 Sistema Brasileiro de classificação do solo\n      \n\n      \n      \n\n  \n\n    \n\n      📖\n\n      \n        Selecione uma aula ou um material para visualizá-lo aqui."
   },
   {
     "objectID": "aula_2/aula_2.html#do-que-se-origina-a-fração-mineral-do-solo-1",
@@ -2763,5 +2763,460 @@
     "title": "Gênese e Classificação do Solo:",
     "section": "Leitura obrigatória",
     "text": "Leitura obrigatória\n\nSistema Brasileiro de Classificação de Solos (SiBCS) – 2025"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#classificação-taxonômica-do-solo-1",
+    "href": "aula_9/aula_9.html#classificação-taxonômica-do-solo-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Classificação taxonômica do solo",
+    "text": "Classificação taxonômica do solo\n\n\nAtributos diagnósticos;\nHorizontes diagnósticos;\nOrdens de solos."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#material-de-consulta",
+    "href": "aula_9/aula_9.html#material-de-consulta",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Material de consulta",
+    "text": "Material de consulta\n\n\n\n\n\n\n\nManual de Descrição e Coleta de Solo no Campo, 5ª ed.\n\n\n\n\n\n\n\nSistema Brasileiro de Classificação de Solos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#o-que-é-classificar",
+    "href": "aula_9/aula_9.html#o-que-é-classificar",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "O que é classificar?",
+    "text": "O que é classificar?\n\nClassificação\nRecurso utilizado para estudo pormenorizado de um objeto: seres vivos, compostos químicos, solos."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#objetivos-da-classificação",
+    "href": "aula_9/aula_9.html#objetivos-da-classificação",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Objetivos da classificação",
+    "text": "Objetivos da classificação\n\n\nOrganização dos conhecimentos sobre um objeto ou tema;\nEstabelecimento de uma linguagem básica para a comunicação;\nSíntese e compreensão sobre semelhanças e diferenças entre indivíduos de uma população;\nMemorização das características de cada classe;\nPossibilidade de execução de estudos detalhados sobre uma ou mais classes."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#população",
+    "href": "aula_9/aula_9.html#população",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "População",
+    "text": "População\n\nConjunto de indivíduos, de tamanho variável, de grande heterogeneidade em relação a uma série de características ou atributos.\n\nO agrupamento de indivíduos semelhantes, em relação a determinadas características, consiste na formação de classes."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#classificação-e-características-diferenciais",
+    "href": "aula_9/aula_9.html#classificação-e-características-diferenciais",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Classificação e características diferenciais",
+    "text": "Classificação e características diferenciais\n\nClassificação: inclusão de cada indivíduo em uma das classes formadas.\nCaracterísticas diferenciais (diagnósticas): são os critérios utilizados para a diferenciação entre os indivíduos de uma população.\n\nQual a característica diferencial utilizada: cor, forma ou tamanho?\nquadriláteros · círculos · triângulos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#níveis-categóricos",
+    "href": "aula_9/aula_9.html#níveis-categóricos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Níveis categóricos",
+    "text": "Níveis categóricos\n\nNosso caso: objeto “solos”\n\nNível 1: solos argilosos;\nNível 2: solos argilosos vermelhos;\nNível 3: solos argilosos vermelhos distróficos.\n\n\nNíveis categóricos inferiores: maior número de informações, maior homogeneidade e maior número de classes."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#tipos-de-classificação",
+    "href": "aula_9/aula_9.html#tipos-de-classificação",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Tipos de classificação",
+    "text": "Tipos de classificação\n\nA classificação é uma concepção da mente humana, com critérios arbitrários definidos em função de objetivos diferenciados.\n\n\nClassificações naturais ou taxonômicas;\nClassificações técnicas ou interpretativas."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#classificações-naturais-ou-taxonômicas",
+    "href": "aula_9/aula_9.html#classificações-naturais-ou-taxonômicas",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Classificações naturais ou taxonômicas",
+    "text": "Classificações naturais ou taxonômicas\n\nUtilizam ampla gama de características diferenciais.\nObjetivos:\n\nIdentificação de indivíduos e generalização de comportamento;\nOrganização do conhecimento;\nUniformização de terminologia;\nPossibilidade de extrapolação de resultados de pesquisa e experimentação (transferência de tecnologia).\n\n\nExemplos: SiBCS; Soil Taxonomy (EUA); Soil Map of the World (FAO)."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#classificações-técnicas-ou-interpretativas",
+    "href": "aula_9/aula_9.html#classificações-técnicas-ou-interpretativas",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Classificações técnicas ou interpretativas",
+    "text": "Classificações técnicas ou interpretativas\n\nSeleção de características diferenciais específicas.\nObjetivos:\n\nDefinição do comportamento do solo;\nDefinição do potencial e das limitações para um determinado uso do solo.\n\n\nExemplos: Classificação da Capacidade de Uso das Terras; Sistema de Avaliação da Aptidão Agrícola das Terras; Sistema de Avaliação de Terras para Irrigação."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#histórico-do-sibcs-13",
+    "href": "aula_9/aula_9.html#histórico-do-sibcs-13",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Histórico do SiBCS (1/3)",
+    "text": "Histórico do SiBCS (1/3)\n\n\n\nDécada de 50: utilização de classificação com base no antigo Sistema Americano;\nDécada de 60: adaptação da definição dos horizontes diagnósticos, com base nos solos do Levantamento Pedológico do Estado de São Paulo;\nDécadas de 60 a 80: estabelecimento de classes em primeiro e segundo níveis, com base em solos levantados e descritos em diversas regiões do país;\n1978: primeira reunião de correlação, classificação e aplicação em levantamentos de solos (RCC, RJ)."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#histórico-do-sibcs-23",
+    "href": "aula_9/aula_9.html#histórico-do-sibcs-23",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Histórico do SiBCS (2/3)",
+    "text": "Histórico do SiBCS (2/3)\n\n\n\n1980: 1ª aproximação: estrutura, atributos, horizontes, classes;\n1981: 2ª aproximação: inclui a definição do primeiro nível categórico;\n1982: II RCC (RJ, SP, MG);\n1985: III RCC (RJ, SP, MG, PR);\n1987: Boletim sobre a classificação de solos usada em levantamentos no Brasil (Camargo, Klamt & Kaufman);\n1988: 3ª aproximação: definição das classes;\n1994: IV RCC (RJ, ES, BA);\n1995: projeto EMBRAPA-CNPS: desenvolvimento do SiBCS em três instâncias (grupos locais, regionais e nacional)."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#histórico-do-sibcs-33",
+    "href": "aula_9/aula_9.html#histórico-do-sibcs-33",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Histórico do SiBCS (3/3)",
+    "text": "Histórico do SiBCS (3/3)\n\n\n\n1997: 4ª aproximação;\n1998: V RCC (PE, PB, RN, CE, BA);\n1999: lançamento do SiBCS, 1ª edição;\n2000: VI RCC (sul do país);\n2003: XXIX CBCS: propostas de alterações no sistema;\n2005: XXX CBCS: propostas de atualização (alterações em ordens e subordens; maiores alterações em grandes grupos e subgrupos) e VII RCC (MG);\n2006: 2ª edição;\n2013: 3ª edição.\n2014: 4ª edição (E-book).\n2018: 5ª edição.\n2025: 6ª edição (publicação digital)."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#exemplo-descrição-geral",
+    "href": "aula_9/aula_9.html#exemplo-descrição-geral",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Exemplo: descrição geral",
+    "text": "Exemplo: descrição geral\n\n\n\n\n\nProjeto/Perfil: BR158 P1;\nData: 25/10/2006;\nClassificação: Latossolo Amarelo Ácrico típico (LAw);\nLocalização: 337588 / 9914948;\nSituação e declive: topo, 4%;\nAltitude: 84 metros;\nFormação geológica: Formação Barreiras;\nMaterial de origem: produtos da decomposição de arenito grosseiro.\n\n\n\nRelevo local: suave ondulado;\nRelevo regional: plano a suave ondulado;\nErosão: laminar ligeira;\nDrenagem: fortemente drenado;\nVegetação: floresta ombrófila densa;\nPedregosidade e rochosidade: não pedregosa e não rochosa;\nUso atual: floresta;\nDescrito e coletado por: Emil Cioran."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#exemplo-descrição-morfológica",
+    "href": "aula_9/aula_9.html#exemplo-descrição-morfológica",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Exemplo: descrição morfológica",
+    "text": "Exemplo: descrição morfológica\n\n\nA (0-35 cm): bruno (10 YR 4/3, úmido); franco arenosa; muito fraca pequena granular e grãos simples; macio, muito friável, ligeiramente plástica e ligeiramente pegajosa; transição gradual e plana.\nBw1 (35-61 cm): bruno-amarelado (10 YR 5/5, úmido); franco arenosa; maciça porosa que se desfaz em fraca pequena granular e grãos simples; ligeiramente dura, muito friável, ligeiramente plástica e ligeiramente pegajosa; transição difusa e plana.\nBw2 (61-91 cm): bruno-amarelado (10 YR 5/7, úmido); franco argilo arenosa; maciça porosa que se desfaz em fraca pequena granular e média blocos subangulares; ligeiramente dura, muito friável, ligeiramente plástica e ligeiramente pegajosa; transição difusa e plana.\nBt (91-135 cm+): bruno-amarelado a amarelo-brunado (10 YR 5,5/8, úmido); franco argilo arenosa a argilo arenosa; moderada média blocos subangulares; cerosidade moderada; ligeiramente dura, muito friável, ligeiramente plástica e ligeiramente pegajosa; transição difusa e plana.\nRaízes: muitas no A e Bw1, comuns no Bw2 e poucas no Bt."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#exemplo-análises-químicas-e-físicas",
+    "href": "aula_9/aula_9.html#exemplo-análises-químicas-e-físicas",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Exemplo: análises químicas e físicas",
+    "text": "Exemplo: análises químicas e físicas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHz.\nProf. (cm)\nCalhau\nCascalho\nTerra fina\nAreia grossa\nAreia fina\nSilte\nArgila\nArgila natural\nGF\nSilte/Argila\nCorg\nN\nC/N\n\n\n\n\n\n\n%\n%\n%\n%\n%\n%\n%\n%\n%\n\n%\n%\n\n\n\nA\n0-35\n0\n2\n98\n61\n16\n7\n16\n5\n69\n0,44\n0,97\n0,06\n16\n\n\nBw1\n-61\n0\n3\n97\n66\n15\n5\n14\n6\n45\n0,45\n0,66\n0,04\n16\n\n\nBw2\n-91\n0\n7\n93\n60\n14\n5\n21\n8\n62\n0,24\n0,33\n0,02\n16\n\n\nBt\n-135+\n0\n5\n95\n53\n16\n4\n27\n0\n100\n0,15\n0,20\n0,02\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHz.\nProf. (cm)\npH H2O\npH KCl\nAl\nCa\nMg\nNa\nK\nH\nH+Al\nP (mg g-1)\nS\nT\nV (%)\nm (%)\n\n\n\n\nA\n0-35\n4,0\n4,1\n1,0\n0,1\n0,1\n0,01\n0,03\n3,0\n4,0\n2,8\n0,2\n4,2\n5\n83\n\n\nBw1\n-61\n4,4\n4,3\n1,1\n0,1\n0,1\n0,01\n0,01\n3,2\n4,3\n1,5\n0,2\n4,5\n4\n85\n\n\nBw2\n-91\n4,4\n4,3\n0,7\n0,1\n0,1\n0,01\n0,01\n3,6\n4,3\n0,8\n0,2\n4,5\n4\n78\n\n\nBt\n-135+\n4,4\n4,3\n0,6\n0,1\n0,1\n0,01\n0,00\n0,2\n0,8\n0,7\n0,2\n1,0\n20\n75\n\n\n\nAl, Ca, Mg, Na, K, H, H+Al, S e T em cmolc kg-1."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#níveis-categóricos-do-sibcs",
+    "href": "aula_9/aula_9.html#níveis-categóricos-do-sibcs",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Níveis categóricos do SiBCS",
+    "text": "Níveis categóricos do SiBCS\n\n\n\n\n\n\n\n\n\n\nNível\nCategoria\nCritério\n\n\n\n\n1º\nOrdens\nPresença ou ausência de atributos, horizontes ou propriedades identificadas no campo; atuação de processos na formação do solo.\n\n\n2º\nSubordens\nAtuação de outros processos que agem junto com os processos dominantes; envolve propriedades relacionadas ao desenvolvimento das plantas.\n\n\n3º\nGrandes grupos\nTipo e arranjamento de horizontes; atividade da argila; saturação por bases, Al ou Na; presença de propriedades que restringem o desenvolvimento das plantas.\n\n\n4º\nSubgrupos\nTípico; intermediário para o 1º, 2º ou 3º nível; características extraordinárias.\n\n\n5º\nFamílias\nNão aparecem no SiBCS.\n\n\n6º\nSéries\nNão aparecem no SiBCS."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#º-nível-categórico-ordens",
+    "href": "aula_9/aula_9.html#º-nível-categórico-ordens",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "1º nível categórico: Ordens",
+    "text": "1º nível categórico: Ordens\n\nPresença ou ausência de atributos, horizontes ou propriedades identificadas no campo. Atuação de processos na formação do solo.\n\n\n\nOrganossolos\nNeossolos\nVertissolos\nEspodossolos\nPlanossolos\nGleissolos\nLatossolos\n\n\n\nChernossolos\nCambissolos\nPlintossolos\nLuvissolos\nNitossolos\nArgissolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#ordens",
+    "href": "aula_9/aula_9.html#ordens",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Ordens",
+    "text": "Ordens"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#organossolos",
+    "href": "aula_9/aula_9.html#organossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Organossolos",
+    "text": "Organossolos\n\n\n\nOrigem: grego organikós, pertinente ou próprio dos compostos de carbono. Conotativo de solos de constituição orgânica, em ambientes de grande umidade.\nNo SiBCS: solos constituídos por material orgânico (C-org ≥ 80 g kg-1 de TFSA), que apresentam horizonte hístico.\n\nDiagnóstico: presença de horizonte H ou O.\n\n\n\n\n\nOrganossolo Háplico"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#organossolos-1",
+    "href": "aula_9/aula_9.html#organossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Organossolos",
+    "text": "Organossolos\n\n\n\n\n\n\n\nCamadas H1, H2 e H3\n\n\n\n\n\n\n\nPerfil\n\n\n\n\n\n\nAtenção a: presença de materiais sulfídricos; densidade do solo."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#organossolos-2",
+    "href": "aula_9/aula_9.html#organossolos-2",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Organossolos",
+    "text": "Organossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolos",
+    "href": "aula_9/aula_9.html#neossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolos",
+    "text": "Neossolos\n\nOrigem: grego néos, novo, moderno. Conotativo de solos jovens, em início de formação, com pequeno desenvolvimento.\nNo SiBCS: solos pouco evoluídos.\n\nDiagnóstico: sem presença de horizonte subsuperficial."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolos-1",
+    "href": "aula_9/aula_9.html#neossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolos",
+    "text": "Neossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolo-litólico-eutrófico-chernossólico",
+    "href": "aula_9/aula_9.html#neossolo-litólico-eutrófico-chernossólico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolo Litólico Eutrófico chernossólico",
+    "text": "Neossolo Litólico Eutrófico chernossólico\n\n\n\n\n\n\n\nHorizontes A e R"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolo-litólico-distrófico-típico",
+    "href": "aula_9/aula_9.html#neossolo-litólico-distrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolo Litólico Distrófico típico",
+    "text": "Neossolo Litólico Distrófico típico\n\n\n\n\n\n\n\nHorizontes A e Cr"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolo-quartzarênico-órtico-típico",
+    "href": "aula_9/aula_9.html#neossolo-quartzarênico-órtico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolo Quartzarênico Órtico típico",
+    "text": "Neossolo Quartzarênico Órtico típico\n\n\n\n\n\n\n\nHorizontes A e C"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#neossolos-2",
+    "href": "aula_9/aula_9.html#neossolos-2",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Neossolos",
+    "text": "Neossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#vertissolos",
+    "href": "aula_9/aula_9.html#vertissolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Vertissolos",
+    "text": "Vertissolos\n\nOrigem: latim vertere. Conotativo de movimento na superfície do solo (expansão/contração).\nNo SiBCS: solos constituídos por material mineral com horizonte vértico entre 25 e 100 cm de profundidade e relação textural insuficiente para caracterizar um B textural.\n\nDiagnóstico: presença de minerais 2:1 expansíveis."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#vertissolo-ebânico-órtico-chernossólico",
+    "href": "aula_9/aula_9.html#vertissolo-ebânico-órtico-chernossólico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Vertissolo Ebânico Órtico chernossólico",
+    "text": "Vertissolo Ebânico Órtico chernossólico\n\n\n\n\n\n\n\nHorizontes A, Bv, C e R"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#vertissolos-manejo",
+    "href": "aula_9/aula_9.html#vertissolos-manejo",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Vertissolos: manejo",
+    "text": "Vertissolos: manejo\n\n\n\n\n\n\n\n\n\nCondições químicas;\nManejo do solo.\n\n\n\n\n\n\n\n\nCondições físicas;\nErosão do solo."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#espodossolos",
+    "href": "aula_9/aula_9.html#espodossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Espodossolos",
+    "text": "Espodossolos\n\nOrigem: grego spodos, cinza vegetal. Solos com horizonte de acumulação de materiais orgânicos e outros.\nNo SiBCS: solos constituídos por material mineral, com horizonte B espódico imediatamente abaixo de horizonte E ou A, dentro de 200 cm da superfície, ou de 400 cm de profundidade se a soma A+E ultrapassar 200 cm.\n\nDiagnóstico: horizonte “escuro” em subsuperfície."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#espodossolos-1",
+    "href": "aula_9/aula_9.html#espodossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Espodossolos",
+    "text": "Espodossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#planossolos",
+    "href": "aula_9/aula_9.html#planossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Planossolos",
+    "text": "Planossolos\n\nOrigem: latim planus, plano, horizontal. Conotativo de solos desenvolvidos com encharcamento superficial estacional.\nNo SiBCS: solos constituídos por material mineral com horizonte A ou E seguido de horizonte B plânico.\n\nDiagnóstico: transição abrupta de horizonte."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#planossolos-1",
+    "href": "aula_9/aula_9.html#planossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Planossolos",
+    "text": "Planossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#planossolo-hidromórfico-eutrófico-arênico",
+    "href": "aula_9/aula_9.html#planossolo-hidromórfico-eutrófico-arênico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Planossolo Hidromórfico Eutrófico arênico",
+    "text": "Planossolo Hidromórfico Eutrófico arênico\n\n\n\n\n\n\n\nHorizontes A, E, Bt1 e Bt2"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#planossolo-hidromórfico-eutrófico-solódico",
+    "href": "aula_9/aula_9.html#planossolo-hidromórfico-eutrófico-solódico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Planossolo Hidromórfico Eutrófico solódico",
+    "text": "Planossolo Hidromórfico Eutrófico solódico\n\n\n\n\n\n\n\nHorizontes A, E e Bt"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#gleissolos",
+    "href": "aula_9/aula_9.html#gleissolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Gleissolos",
+    "text": "Gleissolos\n\nOrigem: russo gley, massa de solo pastosa. Conotativo de excesso de água.\nNo SiBCS: solos com horizonte glei imediatamente abaixo de um horizonte A.\n\nDiagnóstico: sem transição abrupta entre horizontes."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#gleissolo-melânico-eutrófico-típico",
+    "href": "aula_9/aula_9.html#gleissolo-melânico-eutrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Gleissolo Melânico Eutrófico típico",
+    "text": "Gleissolo Melânico Eutrófico típico\n\n\n\n\n\n\n\nHorizontes A e Cg"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolos",
+    "href": "aula_9/aula_9.html#latossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolos",
+    "text": "Latossolos\n\nOrigem: latim later, material altamente alterado (tijolo). Conotativo de elevado conteúdo de sesquióxidos.\nNo SiBCS: solos constituídos por material mineral, com horizonte B latossólico imediatamente abaixo de qualquer tipo de horizonte A, dentro de 200 cm da superfície ou de 300 cm se o horizonte A tiver mais de 150 cm de espessura.\n\nDiagnóstico: solos profundos, avermelhados ou amarelados."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolo-vermelho-aluminoférrico-típico",
+    "href": "aula_9/aula_9.html#latossolo-vermelho-aluminoférrico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolo Vermelho Aluminoférrico típico",
+    "text": "Latossolo Vermelho Aluminoférrico típico"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolo-bruno-alumínico-câmbico",
+    "href": "aula_9/aula_9.html#latossolo-bruno-alumínico-câmbico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolo Bruno Alumínico câmbico",
+    "text": "Latossolo Bruno Alumínico câmbico\n\n\n\n\n\n\n\nHorizontes A, Bw1 e Bw2"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolo-vermelho-distroférrico-típico",
+    "href": "aula_9/aula_9.html#latossolo-vermelho-distroférrico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolo Vermelho Distroférrico típico",
+    "text": "Latossolo Vermelho Distroférrico típico\n\n\n\n\n\n\n\nHorizontes A e Bw"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolo-vermelho-distrófico-típico",
+    "href": "aula_9/aula_9.html#latossolo-vermelho-distrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolo Vermelho Distrófico típico",
+    "text": "Latossolo Vermelho Distrófico típico\n\n\n\n\n\n\n\nHorizontes A e Bw"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#latossolos-1",
+    "href": "aula_9/aula_9.html#latossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Latossolos",
+    "text": "Latossolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#chernossolos",
+    "href": "aula_9/aula_9.html#chernossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Chernossolos",
+    "text": "Chernossolos\n\nOrigem: russo chern, negro. Conotativo de solos ricos em matéria orgânica, de coloração escura (A chernozêmico): preto e rico em bases.\nNo SiBCS: solos constituídos por material mineral que apresentam horizonte A chernozêmico.\n\nDiagnóstico: características químicas (alta saturação por bases)."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#chernossolos-1",
+    "href": "aula_9/aula_9.html#chernossolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Chernossolos",
+    "text": "Chernossolos\n\nAlta saturação por bases e horizonte A chernozêmico."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#chernossolo-ebânico-carbonático-vértico",
+    "href": "aula_9/aula_9.html#chernossolo-ebânico-carbonático-vértico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Chernossolo Ebânico Carbonático vértico",
+    "text": "Chernossolo Ebânico Carbonático vértico\n\n\n\n\n\n\n\nHorizontes A, B, C e Ck"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#chernossolo-argilúvico-férrico-típico",
+    "href": "aula_9/aula_9.html#chernossolo-argilúvico-férrico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Chernossolo Argilúvico Férrico típico",
+    "text": "Chernossolo Argilúvico Férrico típico\n\n\n\n\n\n\n\nHorizontes A, Bt e C"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#cambissolos",
+    "href": "aula_9/aula_9.html#cambissolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Cambissolos",
+    "text": "Cambissolos\n\nOrigem: latim cambiare, trocar. Conotativo de solos em formação (transformação).\nNo SiBCS: solos constituídos por material mineral com horizonte B incipiente subjacente a qualquer tipo de horizonte superficial, exceto hístico com 40 cm ou mais de espessura, ou horizonte A chernozêmico quando o B incipiente apresentar argila de atividade alta e saturação por bases alta.\n\nPlintita e petroplintita, horizonte glei e horizonte vértico, se presentes, não satisfazem os requisitos para Plintossolos, Gleissolos e Vertissolos, respectivamente."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#cambissolo-húmico-alumínico-típico",
+    "href": "aula_9/aula_9.html#cambissolo-húmico-alumínico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Cambissolo Húmico Alumínico típico",
+    "text": "Cambissolo Húmico Alumínico típico\n\n\n\n\n\n\n\nHorizontes A, Bi e C"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#cambissolo-háplico-tb-distrófico-típico",
+    "href": "aula_9/aula_9.html#cambissolo-háplico-tb-distrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Cambissolo Háplico Tb Distrófico típico",
+    "text": "Cambissolo Háplico Tb Distrófico típico"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#cambissolo-háplico-ta-eutrófico-típico",
+    "href": "aula_9/aula_9.html#cambissolo-háplico-ta-eutrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Cambissolo Háplico Ta Eutrófico típico",
+    "text": "Cambissolo Háplico Ta Eutrófico típico"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#plintossolos",
+    "href": "aula_9/aula_9.html#plintossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Plintossolos",
+    "text": "Plintossolos\n\nOrigem: grego plinthos, ladrilho. Conotativo de materiais argilosos, coloridos, que endurecem quando expostos.\nNo SiBCS: solos constituídos por material mineral, apresentando horizonte plíntico, litoplíntico ou concrecionário.\n\nDiagnóstico: plintita ou petroplintita em volume suficiente ao requerido pelo sistema de classificação."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#plintossolo-argilúvico-eutrófico-abrúptico",
+    "href": "aula_9/aula_9.html#plintossolo-argilúvico-eutrófico-abrúptico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Plintossolo Argilúvico Eutrófico abrúptico",
+    "text": "Plintossolo Argilúvico Eutrófico abrúptico\n\n\n\n\n\n\n\nHorizontes A, EB e Btf"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#luvissolos",
+    "href": "aula_9/aula_9.html#luvissolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Luvissolos",
+    "text": "Luvissolos\n\nOrigem: latim luere, lavar. Conotativo de acumulação de argila; solo saturado, com argila de atividade alta (Ta).\nNo SiBCS: solos constituídos por material mineral, com argila de atividade alta, alta saturação por bases e horizonte B textural imediatamente abaixo de horizonte A fraco, moderado ou proeminente, ou horizonte E.\n\n“É um Argissolo com alta saturação por bases e argila de atividade alta (Ta).”"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#luvissolo-crômico-órtico-típico",
+    "href": "aula_9/aula_9.html#luvissolo-crômico-órtico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Luvissolo Crômico Órtico típico",
+    "text": "Luvissolo Crômico Órtico típico\n\n\n\n\n\n\n\nHorizontes A, B e C"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#nitossolos",
+    "href": "aula_9/aula_9.html#nitossolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Nitossolos",
+    "text": "Nitossolos\n\nOrigem: latim nitidus, brilhante. Conotativo de superfícies brilhantes em unidades estruturais.\nNo SiBCS: solos com 350 g kg-1 ou mais de argila, constituídos por material mineral com horizonte B nítico imediatamente abaixo do horizonte A ou dentro dos primeiros 50 cm do horizonte B, com argila de atividade baixa ou caráter alítico na maior parte do B, dentro de 150 cm da superfície.\n\nDiagnóstico: presença de cerosidade."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#nitossolo-vermelho-distroférrico-latossólico",
+    "href": "aula_9/aula_9.html#nitossolo-vermelho-distroférrico-latossólico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Nitossolo Vermelho Distroférrico latossólico",
+    "text": "Nitossolo Vermelho Distroférrico latossólico\n\n\n\n\n\n\n\nHorizontes A e B"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#argissolos",
+    "href": "aula_9/aula_9.html#argissolos",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Argissolos",
+    "text": "Argissolos\n\nOrigem: latim argilla, conotando solos com processo de acumulação de argila.\nNo SiBCS: solos constituídos por material mineral, com horizonte B textural imediatamente abaixo do A ou E, com argila de atividade baixa, ou com argila de atividade alta conjugada com saturação por bases baixa e/ou caráter alítico na maior parte do horizonte B.\n\nDiagnóstico: presença de B textural."
+  },
+  {
+    "objectID": "aula_9/aula_9.html#argissolo-vermelho-distrófico-latossólico",
+    "href": "aula_9/aula_9.html#argissolo-vermelho-distrófico-latossólico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Argissolo Vermelho Distrófico latossólico",
+    "text": "Argissolo Vermelho Distrófico latossólico\n\n\n\n\n\n\n\nHorizontes A, Bt e Bw"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#argissolo-vermelho-amarelo-distrófico-arênico",
+    "href": "aula_9/aula_9.html#argissolo-vermelho-amarelo-distrófico-arênico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Argissolo Vermelho-Amarelo Distrófico arênico",
+    "text": "Argissolo Vermelho-Amarelo Distrófico arênico\n\n\n\n\n\n\n\nHorizontes A, E e Bt"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#argissolo-vermelho-amarelo-distrófico-típico",
+    "href": "aula_9/aula_9.html#argissolo-vermelho-amarelo-distrófico-típico",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Argissolo Vermelho-Amarelo Distrófico típico",
+    "text": "Argissolo Vermelho-Amarelo Distrófico típico\n\n\n\n\n\n\n\nHorizontes A e Bt"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#argissolos-1",
+    "href": "aula_9/aula_9.html#argissolos-1",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Argissolos",
+    "text": "Argissolos"
+  },
+  {
+    "objectID": "aula_9/aula_9.html#classes-de-solo-no-brasil",
+    "href": "aula_9/aula_9.html#classes-de-solo-no-brasil",
+    "title": "Estrutura e conceitos do Sistema Brasileiro de Classificação de Solos",
+    "section": "Classes de solo no Brasil",
+    "text": "Classes de solo no Brasil\n\n\n\n\n\nClasses\nÁrea absoluta (km2)\nÁrea relativa (%)\n\n\n\n\nLatossolos\n2.799.703\n33,6\n\n\nArgissolos\n2.390.473\n28,7\n\n\nNeossolos\n1.138.360\n13,7\n\n\nCambissolos\n437.262\n5,2\n\n\nPlintossolos\n426.482\n5,1\n\n\nGleissolos\n369.119\n4,4\n\n\nLuvissolos\n238.480\n2,9\n\n\nPlanossolos\n196.377\n2,4\n\n\nEspodossolos\n144.686\n1,7\n\n\nNitossolos\n111.058\n1,3\n\n\nChernossolos\n27.473\n0,3\n\n\nVertissolos\n19.261\n0,2\n\n\nOrganossolos\n6.753\n0,1\n\n\nOutros\n25.328\n0,3"
   }
 ]
