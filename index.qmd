@@ -85,7 +85,7 @@ format:
       <a class="card"
          onclick="carregarAula('aula_9/aula_9.html', this)"
          href="#">
-        <div class="card-num">Aula 8</div>
+        <div class="card-num">Aula 9</div>
         <div class="card-title">Classificação taxonômica do solo</div>
         <div class="card-desc"></div>
       </a>
